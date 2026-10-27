@@ -147,6 +147,7 @@ export function HistoryView() {
           cash-rich (≈€1.98M incl. €1.15M term deposit), but retained earnings still −€43,916 — so no dividend is legal yet.
           Machine efficiency is decaying 100% → 95.1% (maintenance matters), and investment performance has recovered
           from €3.65M to €4.32M. Your Q2 2016 plan starts from here.
+          2015 Q2 cash of €1,852,457 is the official cash-flow "Cash balance" incl. the €1.9M term deposit, net of a €47,543 bank overdraft.
         </p>
       </div>
     </div>

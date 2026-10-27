@@ -1,0 +1,10 @@
+import { readFileSync } from 'node:fs';
+const ts = readFileSync('src/engine/source-data.ts', 'utf8');
+const start = ts.indexOf('=') + 1;
+const end = ts.lastIndexOf('}');
+let json = ts.slice(start, end).trim();
+if (json.endsWith(';')) json = json.slice(0, -1);
+const SOURCE = JSON.parse(json);
+const hist = SOURCE.history;
+console.log('keys:', Object.keys(hist[0]).join(','));
+for (const h of hist) console.log(JSON.stringify(h));

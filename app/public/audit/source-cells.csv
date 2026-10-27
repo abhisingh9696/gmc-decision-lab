@@ -583,7 +583,7 @@ HstY15Q1.Xls,Financial statements,F19,2,7500.0,historical-observation-retained,
 HstY15Q1.Xls,Financial statements,I19,1,Cost of sales,label-or-context,
 HstY15Q1.Xls,Financial statements,L19,2,14573.0,mapped-runtime-or-history,history.cogs
 HstY15Q1.Xls,Financial statements,O19,1,  Cash and cash equivalents,label-or-context,
-HstY15Q1.Xls,Financial statements,R19,2,2833842.0,mapped-runtime-or-history,history.cash
+HstY15Q1.Xls,Financial statements,R19,2,2833842.0,historical-observation-retained,
 HstY15Q1.Xls,Financial statements,U19,1,Net cash flow from investing,label-or-context,
 HstY15Q1.Xls,Financial statements,X19,2,-841000.0,historical-observation-retained,
 HstY15Q1.Xls,Financial statements,C20,1,  Credit control,label-or-context,
@@ -660,7 +660,7 @@ HstY15Q1.Xls,Financial statements,R30,2,3760237.0,historical-observation-retaine
 HstY15Q1.Xls,Financial statements,U30,1,Previous cash balance,label-or-context,
 HstY15Q1.Xls,Financial statements,X30,2,3950000.0,historical-observation-retained,
 HstY15Q1.Xls,Financial statements,U31,1,Cash balance,label-or-context,
-HstY15Q1.Xls,Financial statements,X31,2,2833842.0,historical-observation-retained,
+HstY15Q1.Xls,Financial statements,X31,2,2833842.0,mapped-runtime-or-history,history.cash
 HstY15Q1.Xls,Financial statements,I32,1,Dividends paid,label-or-context,
 HstY15Q1.Xls,Financial statements,L32,2,0.0,mapped-runtime-or-history,history.dividends
 HstY15Q1.Xls,Financial statements,O32,1,Equity:,label-or-context,
@@ -2659,7 +2659,7 @@ HstY15Q2(1).Xls,Financial statements,F19,2,7500.0,historical-observation-retaine
 HstY15Q2(1).Xls,Financial statements,I19,1,Cost of sales,label-or-context,
 HstY15Q2(1).Xls,Financial statements,L19,2,267205.0,mapped-runtime-or-history,history.cogs
 HstY15Q2(1).Xls,Financial statements,O19,1,  Cash and cash equivalents,label-or-context,
-HstY15Q2(1).Xls,Financial statements,R19,2,1900000.0,mapped-runtime-or-history,history.cash
+HstY15Q2(1).Xls,Financial statements,R19,2,1900000.0,historical-observation-retained,
 HstY15Q2(1).Xls,Financial statements,U19,1,Net cash flow from investing,label-or-context,
 HstY15Q2(1).Xls,Financial statements,X19,2,-592875.0,historical-observation-retained,
 HstY15Q2(1).Xls,Financial statements,C20,1,  Credit control,label-or-context,
@@ -2736,7 +2736,7 @@ HstY15Q2(1).Xls,Financial statements,R30,2,3676087.0,historical-observation-reta
 HstY15Q2(1).Xls,Financial statements,U30,1,Previous cash balance,label-or-context,
 HstY15Q2(1).Xls,Financial statements,X30,2,2833842.0,historical-observation-retained,
 HstY15Q2(1).Xls,Financial statements,U31,1,Cash balance,label-or-context,
-HstY15Q2(1).Xls,Financial statements,X31,2,1852457.0,historical-observation-retained,
+HstY15Q2(1).Xls,Financial statements,X31,2,1852457.0,mapped-runtime-or-history,history.cash
 HstY15Q2(1).Xls,Financial statements,I32,1,Dividends paid,label-or-context,
 HstY15Q2(1).Xls,Financial statements,L32,2,0.0,mapped-runtime-or-history,history.dividends
 HstY15Q2(1).Xls,Financial statements,O32,1,Equity:,label-or-context,
@@ -4735,7 +4735,7 @@ HstY15Q3(1).Xls,Financial statements,F19,2,7500.0,historical-observation-retaine
 HstY15Q3(1).Xls,Financial statements,I19,1,Cost of sales,label-or-context,
 HstY15Q3(1).Xls,Financial statements,L19,2,485137.0,mapped-runtime-or-history,history.cogs
 HstY15Q3(1).Xls,Financial statements,O19,1,  Cash and cash equivalents,label-or-context,
-HstY15Q3(1).Xls,Financial statements,R19,2,1697541.0,mapped-runtime-or-history,history.cash
+HstY15Q3(1).Xls,Financial statements,R19,2,1697541.0,historical-observation-retained,
 HstY15Q3(1).Xls,Financial statements,U19,1,Net cash flow from investing,label-or-context,
 HstY15Q3(1).Xls,Financial statements,X19,2,5250.0,historical-observation-retained,
 HstY15Q3(1).Xls,Financial statements,C20,1,  Credit control,label-or-context,
@@ -4812,7 +4812,7 @@ HstY15Q3(1).Xls,Financial statements,R30,2,3744163.0,historical-observation-reta
 HstY15Q3(1).Xls,Financial statements,U30,1,Previous cash balance,label-or-context,
 HstY15Q3(1).Xls,Financial statements,X30,2,1852457.0,historical-observation-retained,
 HstY15Q3(1).Xls,Financial statements,U31,1,Cash balance,label-or-context,
-HstY15Q3(1).Xls,Financial statements,X31,2,1697541.0,historical-observation-retained,
+HstY15Q3(1).Xls,Financial statements,X31,2,1697541.0,mapped-runtime-or-history,history.cash
 HstY15Q3(1).Xls,Financial statements,I32,1,Dividends paid,label-or-context,
 HstY15Q3(1).Xls,Financial statements,L32,2,0.0,mapped-runtime-or-history,history.dividends
 HstY15Q3(1).Xls,Financial statements,O32,1,Equity:,label-or-context,
@@ -6810,7 +6810,7 @@ HstY15Q4(1).Xls,Financial statements,F19,2,7500.0,historical-observation-retaine
 HstY15Q4(1).Xls,Financial statements,I19,1,Cost of sales,label-or-context,
 HstY15Q4(1).Xls,Financial statements,L19,2,704934.0,mapped-runtime-or-history,history.cogs
 HstY15Q4(1).Xls,Financial statements,O19,1,  Cash and cash equivalents,label-or-context,
-HstY15Q4(1).Xls,Financial statements,R19,2,1695144.0,mapped-runtime-or-history,history.cash
+HstY15Q4(1).Xls,Financial statements,R19,2,1695144.0,historical-observation-retained,
 HstY15Q4(1).Xls,Financial statements,U19,1,Net cash flow from investing,label-or-context,
 HstY15Q4(1).Xls,Financial statements,X19,2,4312.0,historical-observation-retained,
 HstY15Q4(1).Xls,Financial statements,C20,1,  Credit control,label-or-context,
@@ -6887,7 +6887,7 @@ HstY15Q4(1).Xls,Financial statements,R30,2,3852749.0,historical-observation-reta
 HstY15Q4(1).Xls,Financial statements,U30,1,Previous cash balance,label-or-context,
 HstY15Q4(1).Xls,Financial statements,X30,2,1697541.0,historical-observation-retained,
 HstY15Q4(1).Xls,Financial statements,U31,1,Cash balance,label-or-context,
-HstY15Q4(1).Xls,Financial statements,X31,2,1695144.0,historical-observation-retained,
+HstY15Q4(1).Xls,Financial statements,X31,2,1695144.0,mapped-runtime-or-history,history.cash
 HstY15Q4(1).Xls,Financial statements,I32,1,Dividends paid,label-or-context,
 HstY15Q4(1).Xls,Financial statements,L32,2,0.0,mapped-runtime-or-history,history.dividends
 HstY15Q4(1).Xls,Financial statements,O32,1,Equity:,label-or-context,
@@ -8887,7 +8887,7 @@ HstY16Q1(3).Xls,Financial statements,F19,2,7500.0,historical-observation-retaine
 HstY16Q1(3).Xls,Financial statements,I19,1,Cost of sales,label-or-context,
 HstY16Q1(3).Xls,Financial statements,L19,2,750076.0,mapped-runtime-or-history,history.cogs
 HstY16Q1(3).Xls,Financial statements,O19,1,  Cash and cash equivalents,label-or-context,
-HstY16Q1(3).Xls,Financial statements,R19,2,1976635.0,mapped-runtime-or-history,history.cash; opening.totalCash
+HstY16Q1(3).Xls,Financial statements,R19,2,1976635.0,mapped-runtime-or-history,opening.totalCash
 HstY16Q1(3).Xls,Financial statements,U19,1,Net cash flow from investing,label-or-context,
 HstY16Q1(3).Xls,Financial statements,X19,2,2875.0,historical-observation-retained,
 HstY16Q1(3).Xls,Financial statements,C20,1,  Credit control,label-or-context,
@@ -8964,7 +8964,7 @@ HstY16Q1(3).Xls,Financial statements,R30,2,3956084.0,historical-observation-reta
 HstY16Q1(3).Xls,Financial statements,U30,1,Previous cash balance,label-or-context,
 HstY16Q1(3).Xls,Financial statements,X30,2,1695144.0,historical-observation-retained,
 HstY16Q1(3).Xls,Financial statements,U31,1,Cash balance,label-or-context,
-HstY16Q1(3).Xls,Financial statements,X31,2,1976635.0,historical-observation-retained,
+HstY16Q1(3).Xls,Financial statements,X31,2,1976635.0,mapped-runtime-or-history,history.cash
 HstY16Q1(3).Xls,Financial statements,I32,1,Dividends paid,label-or-context,
 HstY16Q1(3).Xls,Financial statements,L32,2,0.0,mapped-runtime-or-history,history.dividends
 HstY16Q1(3).Xls,Financial statements,O32,1,Equity:,label-or-context,

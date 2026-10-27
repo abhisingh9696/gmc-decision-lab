@@ -66,7 +66,7 @@ export function StatementsView({ r }: { r: QuarterReport }) {
       </Block>
 
       <Block title="Cash-flow statement">
-        <Row label="Opening cash" value={money(cashFlow.openingCash)} bold />
+        <Row label="Opening bank cash (excl. term deposit)" value={money(cashFlow.openingCash)} bold />
         <Row label="Trading receipts (collected)" value={money(cashFlow.collected)} indent />
         <Row label="Interest received" value={money(cashFlow.interestReceived)} indent />
         <Row label="Term loan drawn" value={money(cashFlow.loanDrawn)} indent />
@@ -127,14 +127,14 @@ export function StatementsView({ r }: { r: QuarterReport }) {
         <Row label="Cash" value={money(balance.cash)} />
         <Row label="Term deposit" value={money(balance.deposit)} />
         <Row label="Total assets" value={money(balAssets)} bold />
-        <Row label="Trade payables" value={money(-balance.payables)} />
-        <Row label="Tax due (payable next Q2)" value={money(-balance.taxDue)} />
-        <Row label="Bank overdraft" value={money(-balance.overdraft)} />
-        <Row label="Term loan" value={money(-balance.termLoan)} />
-        <Row label="Share capital" value={money(-balance.shareCapital)} />
-        <Row label="Share premium" value={money(-balance.sharePremium)} />
-        <Row label="Retained earnings" value={money(-balance.retainedEarnings)} />
-        <Row label="Balance check (assets − liab. − equity)" value={money(balGap)}
+        <Row label="Trade payables" value={money(balance.payables)} />
+        <Row label="Tax due (payable next Q2)" value={money(balance.taxDue)} />
+        <Row label="Bank overdraft" value={money(balance.overdraft)} />
+        <Row label="Term loan" value={money(balance.termLoan)} />
+        <Row label="Share capital" value={money(balance.shareCapital)} />
+        <Row label="Share premium" value={money(balance.sharePremium)} />
+        <Row label="Retained earnings" value={money(balance.retainedEarnings)} />
+        <Row label="Balance check: assets − (liab. + equity)" value={money(balGap)}
           tone={Math.abs(balGap) <= 2 ? 'text-[var(--mint)]' : 'text-[var(--red)]'} />
         <p className="text-[10px] text-[var(--dim)] mt-1.5 leading-snug">
           Fully articulated model: every income, cash and inventory movement is double-counted consistently, so the check ties to €0 (±€2 whole-euro rounding tolerance). The official report remains authoritative for actual values.

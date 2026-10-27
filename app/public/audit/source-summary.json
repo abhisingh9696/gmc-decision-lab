@@ -225,7 +225,7 @@
       "tax": 0.0,
       "netProfit": -84150.0,
       "retained": -323913.0,
-      "cash": 1900000.0,
+      "cash": 1852457.0,
       "dividends": 0.0,
       "sharePrice": 0.9745,
       "invPerf": 3898000.0,
@@ -665,7 +665,7 @@
     {
       "file": "HstY15Q1.Xls",
       "sheet": "Financial statements",
-      "cell": "R19",
+      "cell": "X31",
       "target": "history.cash",
       "raw": 2833842.0,
       "value": 2833842.0,
@@ -1016,10 +1016,10 @@
     {
       "file": "HstY15Q2(1).Xls",
       "sheet": "Financial statements",
-      "cell": "R19",
+      "cell": "X31",
       "target": "history.cash",
-      "raw": 1900000.0,
-      "value": 1900000.0,
+      "raw": 1852457.0,
+      "value": 1852457.0,
       "conversion": "none"
     },
     {
@@ -1367,7 +1367,7 @@
     {
       "file": "HstY15Q3(1).Xls",
       "sheet": "Financial statements",
-      "cell": "R19",
+      "cell": "X31",
       "target": "history.cash",
       "raw": 1697541.0,
       "value": 1697541.0,
@@ -1718,7 +1718,7 @@
     {
       "file": "HstY15Q4(1).Xls",
       "sheet": "Financial statements",
-      "cell": "R19",
+      "cell": "X31",
       "target": "history.cash",
       "raw": 1695144.0,
       "value": 1695144.0,
@@ -2069,7 +2069,7 @@
     {
       "file": "HstY16Q1(3).Xls",
       "sheet": "Financial statements",
-      "cell": "R19",
+      "cell": "X31",
       "target": "history.cash",
       "raw": 1976635.0,
       "value": 1976635.0,
@@ -3653,9 +3653,9 @@
   ],
   "counts": {
     "label-or-context": 2232,
-    "historical-observation-retained": 2976,
+    "historical-observation-retained": 2975,
     "formatting-placeholder": 537,
-    "mapped-runtime-or-history": 320,
+    "mapped-runtime-or-history": 321,
     "raw-helper-retained": 4315
   },
   "populatedCells": 10380,

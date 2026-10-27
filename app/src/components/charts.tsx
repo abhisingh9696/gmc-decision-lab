@@ -1,52 +1,66 @@
 import { Fragment } from 'react';
 import {
   ResponsiveContainer, BarChart, Bar, XAxis, YAxis, Tooltip, CartesianGrid,
-  LineChart, Line, Legend, ReferenceLine,
+  LineChart, Line, Legend, ReferenceLine, Cell,
 } from 'recharts';
 import type { QuarterReport } from '../engine/types';
 import { MK, PD } from './fields';
+
+/** Official actual data points (history sheets + locked 2016 Q2 report). */
+export interface ChartActual { q: string; revenue: number; opProfit: number; netProfit: number; cash: number; ip: number; }
 
 const tipStyle = {
   contentStyle: { background: '#0c1220', border: '1px solid #1a2540', borderRadius: 6, fontSize: 11, fontFamily: 'JetBrains Mono, monospace' },
   labelStyle: { color: '#8a97ad' },
 };
 
-export function ProfitChart({ reports }: { reports: QuarterReport[] }) {
-  const data = reports.map(r => ({ q: r.quarterLabel, Revenue: r.revenue, 'Op. profit': r.operatingProfit, 'Net profit': r.netProfit }));
+export function ProfitChart({ reports, actuals }: { reports: QuarterReport[]; actuals: ChartActual[] }) {
+  const data = [
+    ...actuals.map(a => ({ q: a.q, Revenue: a.revenue, 'Op. profit': a.opProfit, 'Net profit': a.netProfit, actual: true })),
+    ...reports.map(r => ({ q: r.quarterLabel, Revenue: r.revenue, 'Op. profit': r.operatingProfit, 'Net profit': r.netProfit, actual: false })),
+  ];
+  const cells = (fill: string) => data.map((d, i) => <Cell key={i} fill={fill} fillOpacity={d.actual ? 1 : 0.45} />);
   return (
     <div className="panel p-3 h-56">
-      <div className="lbl mb-2">Revenue & profit by quarter</div>
+      <div className="lbl mb-2 flex justify-between items-baseline">
+        <span>Revenue & profit by quarter</span>
+        <span className="text-[9px] font-normal text-[var(--dim)]">solid = official actual · faded = model estimate</span>
+      </div>
       <ResponsiveContainer width="100%" height="85%">
         <BarChart data={data} margin={{ top: 4, right: 4, bottom: 0, left: 4 }}>
           <CartesianGrid stroke="#1a2540" strokeDasharray="2 4" vertical={false} />
-          <XAxis dataKey="q" tick={{ fill: '#8a97ad', fontSize: 10, fontFamily: 'JetBrains Mono' }} axisLine={{ stroke: '#1a2540' }} tickLine={false} />
+          <XAxis dataKey="q" tick={{ fill: '#8a97ad', fontSize: 9, fontFamily: 'JetBrains Mono' }} axisLine={{ stroke: '#1a2540' }} tickLine={false} interval={0} angle={-30} textAnchor="end" height={34} />
           <YAxis tick={{ fill: '#5b6a82', fontSize: 9, fontFamily: 'JetBrains Mono' }} axisLine={false} tickLine={false}
             tickFormatter={v => `${(v / 1e6).toFixed(1)}M`} width={38} />
           <Tooltip {...tipStyle} formatter={(v: number) => `€${v.toLocaleString()}`} />
           <Legend wrapperStyle={{ fontSize: 10, fontFamily: 'JetBrains Mono' }} />
           <ReferenceLine y={0} stroke="#1a2540" />
-          <Bar dataKey="Revenue" fill="#22d3ee" radius={[2, 2, 0, 0]} />
-          <Bar dataKey="Op. profit" fill="#34d399" radius={[2, 2, 0, 0]} />
-          <Bar dataKey="Net profit" fill="#fbbf24" radius={[2, 2, 0, 0]} />
+          <Bar dataKey="Revenue" fill="#22d3ee" radius={[2, 2, 0, 0]}>{cells('#22d3ee')}</Bar>
+          <Bar dataKey="Op. profit" fill="#34d399" radius={[2, 2, 0, 0]}>{cells('#34d399')}</Bar>
+          <Bar dataKey="Net profit" fill="#fbbf24" radius={[2, 2, 0, 0]}>{cells('#fbbf24')}</Bar>
         </BarChart>
       </ResponsiveContainer>
     </div>
   );
 }
 
-export function CashChart({ reports }: { reports: QuarterReport[] }) {
-  const data = reports.map(r => ({
-    q: r.quarterLabel,
-    Cash: r.overdraftEnd > 0 ? -r.overdraftEnd : r.cashEnd,
-    'Inv. performance': r.investmentPerformance,
-  }));
+export function CashChart({ reports, actuals }: { reports: QuarterReport[]; actuals: ChartActual[] }) {
+  // Model cash shown incl. term deposit, net of overdraft — same basis as the official "Cash balance" line.
+  const modelCash = (r: QuarterReport) => r.cashEnd - (r.overdraftEnd > 0 ? r.overdraftEnd : 0) + r.details.balance.deposit;
+  const data = [
+    ...actuals.map(a => ({ q: a.q, cashA: a.cash, ipA: a.ip, cashM: a.cash, ipM: a.ip })),
+    ...reports.map(r => ({ q: r.quarterLabel, cashA: null, ipA: null, cashM: modelCash(r), ipM: r.investmentPerformance })),
+  ];
   return (
     <div className="panel p-3 h-56">
-      <div className="lbl mb-2">Cash & investment performance trajectory</div>
+      <div className="lbl mb-2 flex justify-between items-baseline">
+        <span>Cash & investment performance trajectory</span>
+        <span className="text-[9px] font-normal text-[var(--dim)]">solid = official actual · dashed = model</span>
+      </div>
       <ResponsiveContainer width="100%" height="85%">
         <LineChart data={data} margin={{ top: 4, right: 4, bottom: 0, left: 4 }}>
           <CartesianGrid stroke="#1a2540" strokeDasharray="2 4" vertical={false} />
-          <XAxis dataKey="q" tick={{ fill: '#8a97ad', fontSize: 10, fontFamily: 'JetBrains Mono' }} axisLine={{ stroke: '#1a2540' }} tickLine={false} />
+          <XAxis dataKey="q" tick={{ fill: '#8a97ad', fontSize: 9, fontFamily: 'JetBrains Mono' }} axisLine={{ stroke: '#1a2540' }} tickLine={false} interval={0} angle={-30} textAnchor="end" height={34} />
           <YAxis yAxisId="l" tick={{ fill: '#5b6a82', fontSize: 9, fontFamily: 'JetBrains Mono' }} axisLine={false} tickLine={false}
             tickFormatter={v => `${(v / 1e6).toFixed(1)}M`} width={38} />
           <YAxis yAxisId="r" orientation="right" tick={{ fill: '#5b6a82', fontSize: 9, fontFamily: 'JetBrains Mono' }} axisLine={false} tickLine={false}
@@ -54,8 +68,10 @@ export function CashChart({ reports }: { reports: QuarterReport[] }) {
           <Tooltip {...tipStyle} formatter={(v: number) => `€${v.toLocaleString()}`} />
           <Legend wrapperStyle={{ fontSize: 10, fontFamily: 'JetBrains Mono' }} />
           <ReferenceLine yAxisId="l" y={0} stroke="#f8717155" />
-          <Line yAxisId="l" type="monotone" dataKey="Cash" stroke="#34d399" strokeWidth={2} dot={{ r: 3, fill: '#34d399' }} />
-          <Line yAxisId="r" type="monotone" dataKey="Inv. performance" stroke="#22d3ee" strokeWidth={2} dot={{ r: 3, fill: '#22d3ee' }} strokeDasharray="6 3" />
+          <Line yAxisId="l" type="monotone" dataKey="cashA" name="Cash (actual)" stroke="#34d399" strokeWidth={2} dot={{ r: 2, fill: '#34d399' }} />
+          <Line yAxisId="l" type="monotone" dataKey="cashM" name="Cash (model)" stroke="#34d399" strokeWidth={2} strokeDasharray="5 3" dot={{ r: 2, fill: '#34d399' }} />
+          <Line yAxisId="r" type="monotone" dataKey="ipA" name="Inv. perf. (actual)" stroke="#22d3ee" strokeWidth={2} dot={{ r: 2, fill: '#22d3ee' }} />
+          <Line yAxisId="r" type="monotone" dataKey="ipM" name="Inv. perf. (model)" stroke="#22d3ee" strokeWidth={2} strokeDasharray="5 3" dot={{ r: 2, fill: '#22d3ee' }} />
         </LineChart>
       </ResponsiveContainer>
     </div>

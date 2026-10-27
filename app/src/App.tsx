@@ -8,13 +8,21 @@ import { P } from './engine/params';
 import { DecisionPanel } from './components/DecisionPanel';
 import { EconPanel } from './components/EconPanel';
 import { KpiStrip, WarningsRail, CapacityRail } from './components/rails';
-import { ProfitChart, CashChart, OrdersTable, ProjectionTable } from './components/charts';
+import { ProfitChart, CashChart, OrdersTable, ProjectionTable, type ChartActual } from './components/charts';
 import { ScenarioBar, CompareView, loadScenarios, saveScenario, deleteScenario, validScenario, type Scenario } from './components/scenarios';
 import { HistoryView } from './components/HistoryView';
 import { StatementsView } from './components/StatementsView';
 import { AuditView } from './components/AuditView';
 import {Q3Strategies} from './components/Q3Strategies';
 import { PortalExport } from './components/PortalExport';
+import { HISTORY } from './engine/history';
+
+// Official actual anchors for the trajectory charts: the five history quarters
+// (from the supplied XLS files) plus the locked official 2016 Q2 report values.
+const ACTUALS: ChartActual[] = [
+  ...HISTORY.map(h => ({ q: h.q, revenue: h.revenue, opProfit: h.opProfit, netProfit: h.netProfit, cash: h.cash, ip: h.invPerf })),
+  { q: '2016 Q2', revenue: 860997, opProfit: 59614, netProfit: 62489, cash: 2201507, ip: 3933200 },
+];
 
 export default function App() {
   const navigate=useNavigate();
@@ -194,8 +202,8 @@ export default function App() {
           <section className="min-w-0 space-y-3">
             <KpiStrip r={r} />
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-3">
-              <ProfitChart reports={sim.reports} />
-              <CashChart reports={sim.reports} />
+              <ProfitChart reports={sim.reports} actuals={ACTUALS} />
+              <CashChart reports={sim.reports} actuals={ACTUALS} />
             </div>
             <OrdersTable r={r} />
             <ProjectionTable reports={sim.reports} />

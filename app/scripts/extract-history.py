@@ -16,7 +16,7 @@ for i,fn in enumerate(FILES):
  w=xlrd.open_workbook(str(UP/fn));workbooks.append(w); year=2015 if i<4 else 2016;q=i+1 if i<4 else 1
  fs='Financial statements'; rp='Resources and products'; gi='Group information';yd='Your decisions';get=lambda s,a:read(w,s,a)
  h={'q':f'{year} Q{q}'}
- for k,a in dict(revenue='L8',cogs='L19',opProfit='L24',admin='F24',pbt='L27',tax='L28',netProfit='L29',retained='L35',cash='R19',dividends='L32').items(): h[k]=mapped(w,fn,fs,a,'history.'+k)
+ for k,a in dict(revenue='L8',cogs='L19',opProfit='L24',admin='F24',pbt='L27',tax='L28',netProfit='L29',retained='L35',cash='X31',dividends='L32').items(): h[k]=mapped(w,fn,fs,a,'history.'+k)  # X31 = cash-flow "Cash balance" incl. term deposit, net of overdraft (R19 is deposit-only when bank is overdrawn, e.g. 2015 Q2: 1,900,000 deposit - 47,543 OD = 1,852,457)
  h.update(sharePrice=mapped(w,fn,gi,'G35','history.sharePrice',lambda x:x/100),invPerf=mapped(w,fn,gi,'G39','history.invPerf'),machines=mapped(w,fn,rp,'G21','history.machines'),eff=mapped(w,fn,rp,'G27','history.eff',float),visits=mapped(w,fn,rp,'G43','history.visits'))
  for k,rows in [('orders',[17,18,19]),('sold',[22,23,24]),('backlog',[27,28])]:
   h[k]=[sum(mapped(w,fn,rp,f'{c}{r}',f'history.{k}[{m}]') for c in ['U','W','Y']) for m,r in enumerate(rows)]
