@@ -591,7 +591,7 @@ HstY15Q1.Xls,Financial statements,F20,2,0.0,historical-observation-retained,
 HstY15Q1.Xls,Financial statements,I20,1,Gross profit,label-or-context,
 HstY15Q1.Xls,Financial statements,L20,2,-14573.0,historical-observation-retained,
 HstY15Q1.Xls,Financial statements,O20,1,Current assets,label-or-context,
-HstY15Q1.Xls,Financial statements,R20,2,2976205.0,historical-observation-retained,
+HstY15Q1.Xls,Financial statements,R20,2,2976205.0,mapped-runtime-or-history,history.currentAssets
 HstY15Q1.Xls,Financial statements,C21,1,  Insurance premiums,label-or-context,
 HstY15Q1.Xls,Financial statements,F21,2,0.0,historical-observation-retained,
 HstY15Q1.Xls,Financial statements,I21,1,  Administrative expenses,label-or-context,
@@ -656,7 +656,7 @@ HstY15Q1.Xls,Financial statements,X29,2,-1116158.0,historical-observation-retain
 HstY15Q1.Xls,Financial statements,I30,1,Earnings per share (cents),label-or-context,
 HstY15Q1.Xls,Financial statements,L30,2,-5.994075,historical-observation-retained,
 HstY15Q1.Xls,Financial statements,O30,1,Net assets,label-or-context,
-HstY15Q1.Xls,Financial statements,R30,2,3760237.0,historical-observation-retained,
+HstY15Q1.Xls,Financial statements,R30,2,3760237.0,mapped-runtime-or-history,history.netAssets
 HstY15Q1.Xls,Financial statements,U30,1,Previous cash balance,label-or-context,
 HstY15Q1.Xls,Financial statements,X30,2,3950000.0,historical-observation-retained,
 HstY15Q1.Xls,Financial statements,U31,1,Cash balance,label-or-context,
@@ -665,7 +665,7 @@ HstY15Q1.Xls,Financial statements,I32,1,Dividends paid,label-or-context,
 HstY15Q1.Xls,Financial statements,L32,2,0.0,mapped-runtime-or-history,history.dividends
 HstY15Q1.Xls,Financial statements,O32,1,Equity:,label-or-context,
 HstY15Q1.Xls,Financial statements,U32,1,(including a term deposit of -,label-or-context,
-HstY15Q1.Xls,Financial statements,X32,2,2400000.0,historical-observation-retained,
+HstY15Q1.Xls,Financial statements,X32,2,2400000.0,mapped-runtime-or-history,history.deposit
 HstY15Q1.Xls,Financial statements,Y32,1,),label-or-context,
 HstY15Q1.Xls,Financial statements,C33,1,Insurance claimed,label-or-context,
 HstY15Q1.Xls,Financial statements,F33,2,0.0,historical-observation-retained,
@@ -2667,7 +2667,7 @@ HstY15Q2(1).Xls,Financial statements,F20,2,1186.0,historical-observation-retaine
 HstY15Q2(1).Xls,Financial statements,I20,1,Gross profit,label-or-context,
 HstY15Q2(1).Xls,Financial statements,L20,2,222605.0,historical-observation-retained,
 HstY15Q2(1).Xls,Financial statements,O20,1,Current assets,label-or-context,
-HstY15Q2(1).Xls,Financial statements,R20,2,2377948.0,historical-observation-retained,
+HstY15Q2(1).Xls,Financial statements,R20,2,2377948.0,mapped-runtime-or-history,history.currentAssets
 HstY15Q2(1).Xls,Financial statements,C21,1,  Insurance premiums,label-or-context,
 HstY15Q2(1).Xls,Financial statements,F21,2,6164.0,historical-observation-retained,
 HstY15Q2(1).Xls,Financial statements,I21,1,  Administrative expenses,label-or-context,
@@ -2732,7 +2732,7 @@ HstY15Q2(1).Xls,Financial statements,X29,2,-981385.0,historical-observation-reta
 HstY15Q2(1).Xls,Financial statements,I30,1,Earnings per share (cents),label-or-context,
 HstY15Q2(1).Xls,Financial statements,L30,2,-2.10375,historical-observation-retained,
 HstY15Q2(1).Xls,Financial statements,O30,1,Net assets,label-or-context,
-HstY15Q2(1).Xls,Financial statements,R30,2,3676087.0,historical-observation-retained,
+HstY15Q2(1).Xls,Financial statements,R30,2,3676087.0,mapped-runtime-or-history,history.netAssets
 HstY15Q2(1).Xls,Financial statements,U30,1,Previous cash balance,label-or-context,
 HstY15Q2(1).Xls,Financial statements,X30,2,2833842.0,historical-observation-retained,
 HstY15Q2(1).Xls,Financial statements,U31,1,Cash balance,label-or-context,
@@ -2741,7 +2741,7 @@ HstY15Q2(1).Xls,Financial statements,I32,1,Dividends paid,label-or-context,
 HstY15Q2(1).Xls,Financial statements,L32,2,0.0,mapped-runtime-or-history,history.dividends
 HstY15Q2(1).Xls,Financial statements,O32,1,Equity:,label-or-context,
 HstY15Q2(1).Xls,Financial statements,U32,1,(including a term deposit of -,label-or-context,
-HstY15Q2(1).Xls,Financial statements,X32,2,1900000.0,historical-observation-retained,
+HstY15Q2(1).Xls,Financial statements,X32,2,1900000.0,mapped-runtime-or-history,history.deposit
 HstY15Q2(1).Xls,Financial statements,Y32,1,),label-or-context,
 HstY15Q2(1).Xls,Financial statements,C33,1,Insurance claimed,label-or-context,
 HstY15Q2(1).Xls,Financial statements,F33,2,0.0,historical-observation-retained,
@@ -4743,7 +4743,7 @@ HstY15Q3(1).Xls,Financial statements,F20,2,2282.0,historical-observation-retaine
 HstY15Q3(1).Xls,Financial statements,I20,1,Gross profit,label-or-context,
 HstY15Q3(1).Xls,Financial statements,L20,2,435473.0,historical-observation-retained,
 HstY15Q3(1).Xls,Financial statements,O20,1,Current assets,label-or-context,
-HstY15Q3(1).Xls,Financial statements,R20,2,2501450.0,historical-observation-retained,
+HstY15Q3(1).Xls,Financial statements,R20,2,2501450.0,mapped-runtime-or-history,history.currentAssets
 HstY15Q3(1).Xls,Financial statements,C21,1,  Insurance premiums,label-or-context,
 HstY15Q3(1).Xls,Financial statements,F21,2,9769.0,historical-observation-retained,
 HstY15Q3(1).Xls,Financial statements,I21,1,  Administrative expenses,label-or-context,
@@ -4808,7 +4808,7 @@ HstY15Q3(1).Xls,Financial statements,X29,2,-154916.0,historical-observation-reta
 HstY15Q3(1).Xls,Financial statements,I30,1,Earnings per share (cents),label-or-context,
 HstY15Q3(1).Xls,Financial statements,L30,2,1.7019,historical-observation-retained,
 HstY15Q3(1).Xls,Financial statements,O30,1,Net assets,label-or-context,
-HstY15Q3(1).Xls,Financial statements,R30,2,3744163.0,historical-observation-retained,
+HstY15Q3(1).Xls,Financial statements,R30,2,3744163.0,mapped-runtime-or-history,history.netAssets
 HstY15Q3(1).Xls,Financial statements,U30,1,Previous cash balance,label-or-context,
 HstY15Q3(1).Xls,Financial statements,X30,2,1852457.0,historical-observation-retained,
 HstY15Q3(1).Xls,Financial statements,U31,1,Cash balance,label-or-context,
@@ -4817,7 +4817,7 @@ HstY15Q3(1).Xls,Financial statements,I32,1,Dividends paid,label-or-context,
 HstY15Q3(1).Xls,Financial statements,L32,2,0.0,mapped-runtime-or-history,history.dividends
 HstY15Q3(1).Xls,Financial statements,O32,1,Equity:,label-or-context,
 HstY15Q3(1).Xls,Financial statements,U32,1,(including a term deposit of -,label-or-context,
-HstY15Q3(1).Xls,Financial statements,X32,2,1400000.0,historical-observation-retained,
+HstY15Q3(1).Xls,Financial statements,X32,2,1400000.0,mapped-runtime-or-history,history.deposit
 HstY15Q3(1).Xls,Financial statements,Y32,1,),label-or-context,
 HstY15Q3(1).Xls,Financial statements,C33,1,Insurance claimed,label-or-context,
 HstY15Q3(1).Xls,Financial statements,F33,2,0.0,historical-observation-retained,
@@ -6818,7 +6818,7 @@ HstY15Q4(1).Xls,Financial statements,F20,2,2950.0,historical-observation-retaine
 HstY15Q4(1).Xls,Financial statements,I20,1,Gross profit,label-or-context,
 HstY15Q4(1).Xls,Financial statements,L20,2,523276.0,historical-observation-retained,
 HstY15Q4(1).Xls,Financial statements,O20,1,Current assets,label-or-context,
-HstY15Q4(1).Xls,Financial statements,R20,2,2708756.0,historical-observation-retained,
+HstY15Q4(1).Xls,Financial statements,R20,2,2708756.0,mapped-runtime-or-history,history.currentAssets
 HstY15Q4(1).Xls,Financial statements,C21,1,  Insurance premiums,label-or-context,
 HstY15Q4(1).Xls,Financial statements,F21,2,9749.0,historical-observation-retained,
 HstY15Q4(1).Xls,Financial statements,I21,1,  Administrative expenses,label-or-context,
@@ -6883,7 +6883,7 @@ HstY15Q4(1).Xls,Financial statements,X29,2,-2397.0,historical-observation-retain
 HstY15Q4(1).Xls,Financial statements,I30,1,Earnings per share (cents),label-or-context,
 HstY15Q4(1).Xls,Financial statements,L30,2,2.71465,historical-observation-retained,
 HstY15Q4(1).Xls,Financial statements,O30,1,Net assets,label-or-context,
-HstY15Q4(1).Xls,Financial statements,R30,2,3852749.0,historical-observation-retained,
+HstY15Q4(1).Xls,Financial statements,R30,2,3852749.0,mapped-runtime-or-history,history.netAssets
 HstY15Q4(1).Xls,Financial statements,U30,1,Previous cash balance,label-or-context,
 HstY15Q4(1).Xls,Financial statements,X30,2,1697541.0,historical-observation-retained,
 HstY15Q4(1).Xls,Financial statements,U31,1,Cash balance,label-or-context,
@@ -6892,7 +6892,7 @@ HstY15Q4(1).Xls,Financial statements,I32,1,Dividends paid,label-or-context,
 HstY15Q4(1).Xls,Financial statements,L32,2,0.0,mapped-runtime-or-history,history.dividends
 HstY15Q4(1).Xls,Financial statements,O32,1,Equity:,label-or-context,
 HstY15Q4(1).Xls,Financial statements,U32,1,(including a term deposit of -,label-or-context,
-HstY15Q4(1).Xls,Financial statements,X32,2,1150000.0,historical-observation-retained,
+HstY15Q4(1).Xls,Financial statements,X32,2,1150000.0,mapped-runtime-or-history,history.deposit
 HstY15Q4(1).Xls,Financial statements,Y32,1,),label-or-context,
 HstY15Q4(1).Xls,Financial statements,C33,1,Insurance claimed,label-or-context,
 HstY15Q4(1).Xls,Financial statements,F33,2,24254.0,historical-observation-retained,
@@ -8895,7 +8895,7 @@ HstY16Q1(3).Xls,Financial statements,F20,2,2806.0,historical-observation-retaine
 HstY16Q1(3).Xls,Financial statements,I20,1,Gross profit,label-or-context,
 HstY16Q1(3).Xls,Financial statements,L20,2,564160.0,historical-observation-retained,
 HstY16Q1(3).Xls,Financial statements,O20,1,Current assets,label-or-context,
-HstY16Q1(3).Xls,Financial statements,R20,2,2911910.0,historical-observation-retained,
+HstY16Q1(3).Xls,Financial statements,R20,2,2911910.0,mapped-runtime-or-history,history.currentAssets
 HstY16Q1(3).Xls,Financial statements,C21,1,  Insurance premiums,label-or-context,
 HstY16Q1(3).Xls,Financial statements,F21,2,9153.0,historical-observation-retained,
 HstY16Q1(3).Xls,Financial statements,I21,1,  Administrative expenses,label-or-context,
@@ -8960,7 +8960,7 @@ HstY16Q1(3).Xls,Financial statements,X29,2,281491.0,historical-observation-retai
 HstY16Q1(3).Xls,Financial statements,I30,1,Earnings per share (cents),label-or-context,
 HstY16Q1(3).Xls,Financial statements,L30,2,2.583375,historical-observation-retained,
 HstY16Q1(3).Xls,Financial statements,O30,1,Net assets,label-or-context,
-HstY16Q1(3).Xls,Financial statements,R30,2,3956084.0,historical-observation-retained,
+HstY16Q1(3).Xls,Financial statements,R30,2,3956084.0,mapped-runtime-or-history,history.netAssets
 HstY16Q1(3).Xls,Financial statements,U30,1,Previous cash balance,label-or-context,
 HstY16Q1(3).Xls,Financial statements,X30,2,1695144.0,historical-observation-retained,
 HstY16Q1(3).Xls,Financial statements,U31,1,Cash balance,label-or-context,
@@ -8969,7 +8969,7 @@ HstY16Q1(3).Xls,Financial statements,I32,1,Dividends paid,label-or-context,
 HstY16Q1(3).Xls,Financial statements,L32,2,0.0,mapped-runtime-or-history,history.dividends
 HstY16Q1(3).Xls,Financial statements,O32,1,Equity:,label-or-context,
 HstY16Q1(3).Xls,Financial statements,U32,1,(including a term deposit of -,label-or-context,
-HstY16Q1(3).Xls,Financial statements,X32,2,1150000.0,mapped-runtime-or-history,opening.termDepositAmt
+HstY16Q1(3).Xls,Financial statements,X32,2,1150000.0,mapped-runtime-or-history,history.deposit; opening.termDepositAmt
 HstY16Q1(3).Xls,Financial statements,Y32,1,),label-or-context,
 HstY16Q1(3).Xls,Financial statements,C33,1,Insurance claimed,label-or-context,
 HstY16Q1(3).Xls,Financial statements,F33,2,3660.0,historical-observation-retained,

@@ -194,6 +194,9 @@
       "retained": -239763.0,
       "cash": 2833842.0,
       "dividends": 0.0,
+      "currentAssets": 2976205.0,
+      "netAssets": 3760237.0,
+      "deposit": 2400000.0,
       "sharePrice": 0.9131,
       "invPerf": 3652400.0,
       "machines": 2.0,
@@ -227,6 +230,9 @@
       "retained": -323913.0,
       "cash": 1852457.0,
       "dividends": 0.0,
+      "currentAssets": 2377948.0,
+      "netAssets": 3676087.0,
+      "deposit": 1900000.0,
       "sharePrice": 0.9745,
       "invPerf": 3898000.0,
       "machines": 4.0,
@@ -260,6 +266,9 @@
       "retained": -255837.0,
       "cash": 1697541.0,
       "dividends": 0.0,
+      "currentAssets": 2501450.0,
+      "netAssets": 3744163.0,
+      "deposit": 1400000.0,
       "sharePrice": 1.0291,
       "invPerf": 4116400.0,
       "machines": 4.0,
@@ -293,6 +302,9 @@
       "retained": -147251.0,
       "cash": 1695144.0,
       "dividends": 0.0,
+      "currentAssets": 2708756.0,
+      "netAssets": 3852749.0,
+      "deposit": 1150000.0,
       "sharePrice": 1.0497,
       "invPerf": 4198800.0,
       "machines": 4.0,
@@ -326,6 +338,9 @@
       "retained": -43916.0,
       "cash": 1976635.0,
       "dividends": 0.0,
+      "currentAssets": 2911910.0,
+      "netAssets": 3956084.0,
+      "deposit": 1150000.0,
       "sharePrice": 1.0801,
       "invPerf": 4320400.0,
       "machines": 4.0,
@@ -682,6 +697,33 @@
     },
     {
       "file": "HstY15Q1.Xls",
+      "sheet": "Financial statements",
+      "cell": "R20",
+      "target": "history.currentAssets",
+      "raw": 2976205.0,
+      "value": 2976205.0,
+      "conversion": "none"
+    },
+    {
+      "file": "HstY15Q1.Xls",
+      "sheet": "Financial statements",
+      "cell": "R30",
+      "target": "history.netAssets",
+      "raw": 3760237.0,
+      "value": 3760237.0,
+      "conversion": "none"
+    },
+    {
+      "file": "HstY15Q1.Xls",
+      "sheet": "Financial statements",
+      "cell": "X32",
+      "target": "history.deposit",
+      "raw": 2400000.0,
+      "value": 2400000.0,
+      "conversion": "none"
+    },
+    {
+      "file": "HstY15Q1.Xls",
       "sheet": "Group information",
       "cell": "G35",
       "target": "history.sharePrice",
@@ -1029,6 +1071,33 @@
       "target": "history.dividends",
       "raw": 0.0,
       "value": 0.0,
+      "conversion": "none"
+    },
+    {
+      "file": "HstY15Q2(1).Xls",
+      "sheet": "Financial statements",
+      "cell": "R20",
+      "target": "history.currentAssets",
+      "raw": 2377948.0,
+      "value": 2377948.0,
+      "conversion": "none"
+    },
+    {
+      "file": "HstY15Q2(1).Xls",
+      "sheet": "Financial statements",
+      "cell": "R30",
+      "target": "history.netAssets",
+      "raw": 3676087.0,
+      "value": 3676087.0,
+      "conversion": "none"
+    },
+    {
+      "file": "HstY15Q2(1).Xls",
+      "sheet": "Financial statements",
+      "cell": "X32",
+      "target": "history.deposit",
+      "raw": 1900000.0,
+      "value": 1900000.0,
       "conversion": "none"
     },
     {
@@ -1384,6 +1453,33 @@
     },
     {
       "file": "HstY15Q3(1).Xls",
+      "sheet": "Financial statements",
+      "cell": "R20",
+      "target": "history.currentAssets",
+      "raw": 2501450.0,
+      "value": 2501450.0,
+      "conversion": "none"
+    },
+    {
+      "file": "HstY15Q3(1).Xls",
+      "sheet": "Financial statements",
+      "cell": "R30",
+      "target": "history.netAssets",
+      "raw": 3744163.0,
+      "value": 3744163.0,
+      "conversion": "none"
+    },
+    {
+      "file": "HstY15Q3(1).Xls",
+      "sheet": "Financial statements",
+      "cell": "X32",
+      "target": "history.deposit",
+      "raw": 1400000.0,
+      "value": 1400000.0,
+      "conversion": "none"
+    },
+    {
+      "file": "HstY15Q3(1).Xls",
       "sheet": "Group information",
       "cell": "G35",
       "target": "history.sharePrice",
@@ -1735,6 +1831,33 @@
     },
     {
       "file": "HstY15Q4(1).Xls",
+      "sheet": "Financial statements",
+      "cell": "R20",
+      "target": "history.currentAssets",
+      "raw": 2708756.0,
+      "value": 2708756.0,
+      "conversion": "none"
+    },
+    {
+      "file": "HstY15Q4(1).Xls",
+      "sheet": "Financial statements",
+      "cell": "R30",
+      "target": "history.netAssets",
+      "raw": 3852749.0,
+      "value": 3852749.0,
+      "conversion": "none"
+    },
+    {
+      "file": "HstY15Q4(1).Xls",
+      "sheet": "Financial statements",
+      "cell": "X32",
+      "target": "history.deposit",
+      "raw": 1150000.0,
+      "value": 1150000.0,
+      "conversion": "none"
+    },
+    {
+      "file": "HstY15Q4(1).Xls",
       "sheet": "Group information",
       "cell": "G35",
       "target": "history.sharePrice",
@@ -2082,6 +2205,33 @@
       "target": "history.dividends",
       "raw": 0.0,
       "value": 0.0,
+      "conversion": "none"
+    },
+    {
+      "file": "HstY16Q1(3).Xls",
+      "sheet": "Financial statements",
+      "cell": "R20",
+      "target": "history.currentAssets",
+      "raw": 2911910.0,
+      "value": 2911910.0,
+      "conversion": "none"
+    },
+    {
+      "file": "HstY16Q1(3).Xls",
+      "sheet": "Financial statements",
+      "cell": "R30",
+      "target": "history.netAssets",
+      "raw": 3956084.0,
+      "value": 3956084.0,
+      "conversion": "none"
+    },
+    {
+      "file": "HstY16Q1(3).Xls",
+      "sheet": "Financial statements",
+      "cell": "X32",
+      "target": "history.deposit",
+      "raw": 1150000.0,
+      "value": 1150000.0,
       "conversion": "none"
     },
     {
@@ -3653,9 +3803,9 @@
   ],
   "counts": {
     "label-or-context": 2232,
-    "historical-observation-retained": 2975,
+    "historical-observation-retained": 2961,
     "formatting-placeholder": 537,
-    "mapped-runtime-or-history": 321,
+    "mapped-runtime-or-history": 335,
     "raw-helper-retained": 4315
   },
   "populatedCells": 10380,

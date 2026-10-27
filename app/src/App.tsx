@@ -9,6 +9,7 @@ import { DecisionPanel } from './components/DecisionPanel';
 import { EconPanel } from './components/EconPanel';
 import { KpiStrip, WarningsRail, CapacityRail } from './components/rails';
 import { ProfitChart, CashChart, OrdersTable, ProjectionTable, type ChartActual } from './components/charts';
+import { Q2_OFFICIAL } from './engine/q2-official';
 import { ScenarioBar, CompareView, loadScenarios, saveScenario, deleteScenario, validScenario, type Scenario } from './components/scenarios';
 import { HistoryView } from './components/HistoryView';
 import { StatementsView } from './components/StatementsView';
@@ -18,10 +19,10 @@ import { PortalExport } from './components/PortalExport';
 import { HISTORY } from './engine/history';
 
 // Official actual anchors for the trajectory charts: the five history quarters
-// (from the supplied XLS files) plus the locked official 2016 Q2 report values.
+// (from the supplied XLS files) plus the locked official 2016 Q2 report (W132162.xls).
 const ACTUALS: ChartActual[] = [
   ...HISTORY.map(h => ({ q: h.q, revenue: h.revenue, opProfit: h.opProfit, netProfit: h.netProfit, cash: h.cash, ip: h.invPerf })),
-  { q: '2016 Q2', revenue: 860997, opProfit: 59614, netProfit: 62489, cash: 2201507, ip: 3933200 },
+  { q: Q2_OFFICIAL.q, revenue: Q2_OFFICIAL.revenue, opProfit: Q2_OFFICIAL.opProfit, netProfit: Q2_OFFICIAL.netProfit, cash: Q2_OFFICIAL.cash, ip: Q2_OFFICIAL.invPerf },
 ];
 
 export default function App() {

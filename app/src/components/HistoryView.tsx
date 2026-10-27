@@ -1,4 +1,4 @@
-import { HISTORY } from '../engine/history';
+import { HISTORY_ACTUALS } from '../engine/history';
 import { fmtEUR } from './fields';
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, BarChart, Bar, ReferenceLine, Cell } from 'recharts';
 import type { TooltipProps } from 'recharts';
@@ -18,10 +18,10 @@ function TrendTooltip({ active, payload, label }: TooltipProps<number, string>) 
 }
 
 export function HistoryView() {
-  const chartData = HISTORY.map(h => ({
+  const chartData = HISTORY_ACTUALS.map(h => ({
     q: h.q, Revenue: h.revenue, 'Operating profit': h.opProfit, 'Net profit': h.netProfit, Cash: h.cash,
   }));
-  const rows: { label: string; get: (h: typeof HISTORY[0]) => string; cls?: (h: typeof HISTORY[0]) => string }[] = [
+  const rows: { label: string; get: (h: typeof HISTORY_ACTUALS[0]) => string; cls?: (h: typeof HISTORY_ACTUALS[0]) => string }[] = [
     { label: 'Sales revenue', get: h => fmtEUR(h.revenue) },
     { label: 'Cost of sales', get: h => fmtEUR(h.cogs) },
     { label: 'Admin expenses', get: h => fmtEUR(h.admin) },
@@ -29,6 +29,10 @@ export function HistoryView() {
     { label: 'Net profit', get: h => fmtEUR(h.netProfit), cls: h => h.netProfit >= 0 ? 'text-[var(--mint)]' : 'text-[var(--red)]' },
     { label: 'Retained earnings', get: h => fmtEUR(h.retained), cls: h => h.retained >= 0 ? 'text-[var(--mint)]' : 'text-[var(--red)]' },
     { label: 'Cash (incl. deposit)', get: h => fmtEUR(h.cash) },
+    { label: 'Bank cash (excl. deposit)', get: h => fmtEUR(h.cash - (h.deposit ?? 0)) },
+    { label: 'Term deposit', get: h => h.deposit != null ? fmtEUR(h.deposit) : '—' },
+    { label: 'Current assets', get: h => h.currentAssets != null ? fmtEUR(h.currentAssets) : '—' },
+    { label: 'Net assets', get: h => h.netAssets != null ? fmtEUR(h.netAssets) : '—' },
     { label: 'Share price', get: h => '€' + h.sharePrice.toFixed(4) },
     { label: 'Investment performance', get: h => fmtEUR(h.invPerf), cls: () => 'text-[var(--cyan)]' },
     { label: 'Machines (next qtr)', get: h => String(h.machines) },
@@ -42,16 +46,17 @@ export function HistoryView() {
         <div className="lbl mb-1">Where this data comes from</div>
         <p className="text-[11px] text-[var(--muted)] leading-snug">
           These are your company's <span className="text-[var(--text)]">actual published results</span> from the 5 history
-          sheets (HstY15Q1 → HstY16Q1). The simulator's starting point is the last column — end of 2016 Q1 — and every
-          input field is seeded from the actual Q1 decisions, with two explicit Q2 changes: P2 improvement is off
-          (already consumed) and market-share information is on (€5k). All five quarters are extracted directly
-          from the supplied files. Earlier quarters provide trend context; the demand heuristic is anchored to Q1,
-          not independently validated against the complete history.
+          sheets (HstY15Q1 → HstY16Q1) plus the <span className="text-[var(--text)]">official 2016 Q2 management report
+          (W132162.xls)</span> as the locked final column. The Q3 simulator starts from that Q2 closing position; its
+          inputs are seeded from the actual Q1 decisions with two explicit Q2 changes: P2 improvement is off
+          (already consumed) and market-share information is on (€5k). Every figure is extracted directly from the
+          supplied files. 2015 Q2 cash of €1,852,457 is the official cash-flow "Cash balance": €1.9M term deposit
+          less a €47,543 bank overdraft. Current assets at 2016 Q2 are €2,916,654 (≈€2.9M).
         </p>
       </div>
 
       <div className="panel p-3">
-        <div className="lbl mb-2">Actual financial trend — 2015 Q1 → 2016 Q1</div>
+        <div className="lbl mb-2">Actual financial trend — 2015 Q1 → 2016 Q2 (all official actuals)</div>
         <div className="h-52">
           <ResponsiveContainer width="100%" height="100%">
             <LineChart data={chartData} margin={{ top: 4, right: 8, bottom: 0, left: 0 }}>
@@ -70,20 +75,20 @@ export function HistoryView() {
       </div>
 
       <div className="panel p-3">
-        <div className="lbl mb-2">Actual results per quarter (from history sheets)</div>
+        <div className="lbl mb-2">Actual results per quarter (history sheets + official 2016 Q2 report)</div>
         <div className="overflow-x-auto">
           <table className="w-full mono text-[10.5px]">
             <thead>
               <tr className="text-[var(--dim)] text-left">
                 <th className="py-1 pr-2 font-normal">METRIC</th>
-                {HISTORY.map(h => <th key={h.q} className="py-1 px-2 font-normal text-right">{h.q}</th>)}
+                {HISTORY_ACTUALS.map(h => <th key={h.q} className="py-1 px-2 font-normal text-right">{h.q}</th>)}
               </tr>
             </thead>
             <tbody>
               {rows.map(row => (
                 <tr key={row.label} className="border-t border-[var(--line)]">
                   <td className="py-1 pr-2 text-[var(--muted)]">{row.label}</td>
-                  {HISTORY.map(h => (
+                  {HISTORY_ACTUALS.map(h => (
                     <td key={h.q} className={`py-1 px-2 text-right ${row.cls ? row.cls(h) : 'text-[var(--text)]'}`}>{row.get(h)}</td>
                   ))}
                 </tr>
@@ -104,7 +109,7 @@ export function HistoryView() {
               </tr>
             </thead>
             <tbody>
-              {HISTORY.map(h => (
+              {HISTORY_ACTUALS.map(h => (
                 <tr key={h.q} className="border-t border-[var(--line)]">
                   <td className="py-1 pr-2 text-[var(--muted)]">{h.q}</td>
                   {[0, 1, 2].map(i => (
