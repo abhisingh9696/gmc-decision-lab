@@ -1,0 +1,281 @@
+
+ 
+
+ 
+ GMC 2012 Introduction 
+ 
+ 
+ 
+ 
+ .main li{margin-bottom: 10px;}
+
+ 
+ 
+
+  
+
+ 
+  G LOBAL  M ANAGEMENT  C HALLENGE  
+
+ Introduction 
+  
+   What is the challenge ? 
+   Your task     
+   How it works  
+   General points         
+   How to use this manual 
+  
+
+ The business environment 
+  
+   Economic background 
+   World events        
+  
+
+   Marketing 
+   Operations 
+   Personnel 
+   Finance 
+
+ Your management report 
+  
+    Decisions            
+    Resources employed     
+    Product data         
+    Financial statements 
+    Group information    
+  
+ 
+ The decision form 
+  
+    Screen example 
+  
+ Tables 
+
+ Guidance notes 
+
+ 
+World Copyright 2011 -  EDIT 515 Ltd, UK 
+SDG – Simuladores e Modelos de Gestão, S.A.
+ 
+ 
+ 
+ 
+
+ 
+  
+
+  INTRODUCTION 
+  The challenge 
+  This strategy and management simulation is based on a realistic business situation.
+  A number of virtual companies, represented by the teams taking part, 
+    compete against one another within a common business environment 
+    in making and selling a small range of desirable consumer products.
+  
+  The aim is to manage your company during the challenge so that, 
+    at the end, your company is best placed to face the future (see below). 
+  
+  A complex computer model simulates -
+   
+     the interactions of the various parts of each company 
+     the competitive relationships between the companies  
+     and the effects of economic patterns and world events. 
+   
+
+  The  Global Management Challenge  is demanding. 
+    You will have to work under pressure, handling many disparate factors - 
+    some at a broad level and others requiring attention to detail.  
+    It will, almost certainly, provoke argument but, by taking part, 
+    you will probably have great fun, gain a strong sense of satisfaction 
+    and learn quite a lot about teamworking and, not least, managing a business. 
+  
+
+ 
+ 
+ Your task 
+  The task facing your team is to take charge of one of these 
+    simulated companies and manage it as if it were a real live business. 
+    This manual explains how to take part. 
+  
+
+  It explains the organisation of the simulation, what your team has to do, 
+    how your company works, and how it relates to the other team companies. 
+    It has four parts:
+  
+  This  Introduction. 
+  The business environment , which explains 
+     the internal functions of each company 
+     and interactions between the companies and the market. 
+  Your management report , which explains the contents of the computer output. 
+  The decision form , which explains how you should prepare your decisions. 
+  
+  
+
+  The company, which you have to manage, is fairly complex. 
+    Therefore, the second and third parts of the manual explain 
+    the structure of your company in some detail. 
+    It describes the four main management functions 
+    of Marketing, Operations, Personnel and Finance,  
+    and emphasises the interactions between them.
+  
+
+  One of the main aims of this simulation is 
+    to illustrate these interactions and to demonstrate that 
+    the best way of achieving a proper balance is by teamwork, 
+    good organisation, and effective communication.
+  
+
+  You, however, must decide on the precise  
+    organisation  of your team.  
+  
+
+  There is no constraint on what technical aids you may use. 
+    If you wish to write your own spreadsheet models,  you will find  
+    detailed definitions in the third part of the manual.
+ 
+
+ 
+ 
+ How it works 
+  You control your company through two documents: 
+ 
+  
+  The quarterly  Management Report , shows how your company 
+     has performed in the period just completed, 
+     and provides information about the next period. 
+  The  Decision Form , allows you to input decisions that will affect 
+     the way your company will operate in the next period and beyond.  
+  
+
+  So that you know exactly what is happening, this manual  
+    describes the way in which your company works in great detail. 
+    The broad structure of the simulation is, however, simple. 
+  
+
+ You are trying to win the competition 
+    by managing your company so that it has 
+    the highest  investment performance  at the end of the simulation.
+ 
+
+  Your investment performance reflects the value of your company to its investors. 
+    This is not just the market valuation of your company but includes 
+    the value of any dividends paid to, or any shares repurchased from, 
+    your investors less the cost of any new shares issued to them. 
+   
+
+  You should, therefore, choose an appropriate 
+    company strategy  
+    for achieving this goal.
+  
+
+  So that you can make some preliminary assessment of how things work, 
+    you are given a brief history of your company 
+    covering a period immediately before the simulation starts, 
+    together with the decisions which generated these results. 
+    You may find it helpful to refer to the history 
+    when reading this manual. 
+    The histories are identical for all the companies taking part, 
+    so that all companies start from exactly the same position. 
+  
+
+
+  After reviewing this recent history, and having decided what you want to do, 
+    complete your first decision form and submit it for processing, 
+    in accordance with the published timetable. In return you will 
+    receive a management report which tells you what has happened 
+    to your company as a result of the decisions you have taken. 
+    Use this information to improve your knowledge of the workings 
+    of your company and of the market. Then make the next set of 
+    decisions ... and so on to the end of the simulation.
+  
+
+ 
+ 
+ General points 
+  Before reading the rest of this manual, you should understand 
+    some important general points:
+ 
+  
+  External factors such as market trends, interest rates and labour availability, 
+    are set before the simulation begins. 
+    They will not be changed arbitrarily during the simulation.  
+ 
+  Many relationships in the simulation are purely arithmetic 
+   (e.g. financial statements), but others are of a kind 
+    which cannot be derived exactly, even in real life 
+   (e.g. how many orders are you likely to receive and 
+    what is the effect of training going to be?). 
+
+  Some companies have been known to make large losses. 
+     Even so, you will never be declared bankrupt. 
+     Allowing companies to continue with massive borrowings, 
+     which might not be tolerated in real life, 
+     enables all teams taking part to reach the end. 
+
+  The simulation proceeds in steps of one quarter of a calendar year.  
+     Before the simulation begins, you will be told how many quarters there are 
+     and given a timetable detailing when your decisions must be sent in 
+     for processing, and when you should expect the resulting management report. 
+     A quarter is defined as twelve working weeks. 
+     Once you have submitted your decisions for the next quarter 
+     they cannot be revised. 
+ 
+
+  You receive management reports, and submit decision forms in the 
+     imaginary instant of time between the end of one quarter and the next. 
+     For clarity, quarters in the past, and in the future, 
+     are strictly defined in relation to this imaginary instant of time, 
+     and all references to them in this manual will be in these terms:                   
+  
+
+  Last quarter  has just finished 
+    (and to which the most recent management report refers).
+   
+  Quarter before last : the quarter before 'last quarter' . 
+  
+
+ 
+ Please note that there is no such quarter as  'this quarter' .
+ 
+
+  Next quarter  is just about to start 
+    (i.e. to which the current decision form applies).
+  
+  Quarter after next : the quarter immediately following 'next quarter'. 
+  
+
+
+ 
+ 
+ How to use this manual 
+   
+    To help you make effective use of this manual, 
+    it not only has a relevant, clickable contents list (on the left) 
+    but, in addition, there are numerous hyperlinked cross-references in the text. 
+    These should enable you to explore fully any aspect of it.
+   
+   There are links from each  
+      decision  
+      that is mentioned in the general text,  
+      to the appropriate section of the decision form. 
+   A clickable image of the  Decision Form  
+      links each decision that you can make for your company 
+      to the relevant part of the manual.  You can use it as an index.  
+   A series of  tables  
+      contain details of cost and other parameters.  During the simulation, 
+      these numbers are fixed, unless they are over-ridden by an announcement 
+      in the  business report  section of your management report. 
+   You can obtain further  guidance  
+      on key problems to help you with your decision making. 
+      These notes are more concerned with general principles rather than detail. 
+   Finally, you can read more important, or technical, detail about some of the concepts 
+      by clicking on "more" at the end of a section.  For example - 
+  
+ 
+
+ More 
+ 
+ 
+
+ 
+ 

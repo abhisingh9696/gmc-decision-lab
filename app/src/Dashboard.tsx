@@ -1,0 +1,10 @@
+import {useState} from 'react';
+import {useNavigate} from 'react-router';
+const actual=Object.freeze({revenue:860997,operatingProfit:59614,netProfit:62489,bank:1051507,deposit:1150000,investmentPerformance:3933200,netAssets:4018573});
+const eur=(v:number)=>new Intl.NumberFormat('en-IE',{style:'currency',currency:'EUR',maximumFractionDigits:0}).format(v);
+export default function Dashboard(){
+ const [view,setView]=useState('actual');const navigate=useNavigate();
+ return <><header className="panel p-4"><div className="max-w-7xl mx-auto"><h1 className="text-xl font-bold">Kissing Assets · Group 13 · Company 2</h1><nav aria-label="Reporting period" className="flex gap-3 mt-3"><button className="btn" aria-pressed={view==='actual'} onClick={()=>setView('actual')}>2016 Q2 Actual · Locked</button><button className="btn" aria-pressed={view==='forecast'} onClick={()=>navigate('/q3')}>2016 Q3 Forecast · Editable</button></nav></div></header>
+ <section hidden={view!=='actual'} className="max-w-7xl mx-auto p-6 space-y-5"><h2 className="text-2xl">2016 Q2 — Official actual results</h2><p>Locked report values · Source: W132162.xls · These figures are not calculated by the forecasting engine.</p><div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">{[['Revenue',actual.revenue],['Operating profit',actual.operatingProfit],['Net profit',actual.netProfit],['Bank cash at close',actual.bank],['Term deposit',actual.deposit],['Official investment performance',actual.investmentPerformance],['Net assets',actual.netAssets]].map(([label,value])=><article key={label} className="panel p-5"><h3>{label}</h3><p className="text-2xl font-bold">{eur(Number(value))}</p></article>)}</div><p>Official ranking table share price: €0.9833900. Published market value and investment performance: €3,933,200. These published values are shown as reported; they are not recomputed from the displayed share price.</p><p>Q3 starts with bank cash {eur(actual.bank)}, deposit {eur(actual.deposit)} and equity {eur(actual.netAssets)}. Changing forecast decisions cannot change this report.</p></section>
+</>;
+}

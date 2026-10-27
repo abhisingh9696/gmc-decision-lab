@@ -1,0 +1,32 @@
+import assert from 'node:assert/strict';import fs from 'node:fs';import{runSimulation,defaultDecisions,defaultEcon}from'./engine-bundle.mjs';
+const mk=()=>Array.from({length:5},defaultDecisions);let count=0;const checks=[];const T=(name,fn)=>{fn();count++;checks.push({name,status:'PASS'});};
+T('FX: euro depreciation (EUR/USD increases) raises foreign orders',()=>{const high=runSimulation(mk(),[{exchangeRate:1}]).reports[0],base=runSimulation(mk()).reports[0],low=runSimulation(mk(),[{exchangeRate:.8}]).reports[0];for(const m of [1,2])for(let p=0;p<3;p++){assert(high.orders[m][p]>base.orders[m][p]);assert(low.orders[m][p]<base.orders[m][p]);}assert.deepEqual(high.orders[0],base.orders[0]);});
+
+T('EU transport uses whole 1,381 km journey once: Q2 €40,700',()=>{const r=runSimulation(mk()).reports[0];assert.equal(r.details.productionCosts.transport,40700);});
+T('source transport totals independently match all five history reports',()=>{
+ const cells=JSON.parse(fs.readFileSync('public/audit/source-cells.json'));const files=JSON.parse(fs.readFileSync('public/audit/source-summary.json')).files;
+ for(const f of files){const n=(sheet,cell)=>Number(cells.find(c=>c.file===f.file&&c.sheet===sheet&&c.cell===cell)?.value??0);
+ const expected=['M','N','O'].reduce((a,c,i)=>a+n('Resources and products',c+'37')*(Math.ceil(n('Resources and products',c+'36')/400)*650+(i===1?8000:0)),0);
+ assert.equal(expected,n('Financial statements','L17'));}
+});
+T('Table 21 independently reproduces per-product weighted closing valuation',()=>{
+ const o=runSimulation(mk()),s=o.states[0];const qty=[135,9,8],good=[1400,925,500],closing=[15,4,5];
+ const mat=.9*67171/1000*.9;const oldWeights=[mat+25+100/60*12.6,2*mat+1.25*25+150/60*12.6,3*mat+2*25+300/60*12.6];
+ const denom=qty.reduce((a,n,p)=>a+n*oldWeights[p],0);
+ for(let p=0;p<3;p++){const open=23568*qty[p]*oldWeights[p]/denom;const unit=1.1*([1,2,3][p]*mat+12*(.65+1/3)*4*[1,1.25,2][p]+12*[115,165,325][p]/60);const expected=closing[p]*(open+good[p]*unit)/(qty[p]+good[p]);assert(Math.abs(expected-s.productFGValue[p])<1e-6);}
+});
+T('materials on order use 90% lowest quote, while cash uses FX-locked invoice',()=>{const d=mk();d[0].matM3=5;const r=runSimulation(d).reports[0];assert.equal(r.details.balance.materialsOnOrder,Math.round(5000*.9*67171/1000*.9));assert.equal(r.details.cashFlow.paidMaterials,Math.round((5*71919+5*67977)*.9*.5));});
+T('subcontracted premium is not invoiced again as own premium materials',()=>{const d=mk();d.forEach(x=>{x.deliveries=[[0,0,0],[0,0,0],[0,0,0]];x.matSpot=0;x.premium=[100,0,0];});d[0].subcontract=[200,0,0];d[1].deliveries=[[100,0,0],[0,0,0],[0,0,0]];const r=runSimulation(d).reports[1];assert.equal(r.details.cashFlow.paidMaterials,0);assert.equal(r.details.cashFlow.subcontractPaid,157*200*.5);});
+T('zero website ports close after notice, with no phantom NET orders',()=>{const d=mk();d.forEach(x=>{x.ports=0;x.deliveries[2]=[0,0,0];});const r=runSimulation(d).reports;assert(r[0].orders[2].some(x=>x>0));assert.deepEqual(r[1].orders[2],[0,0,0]);assert.equal(r[1].details.adminBreakdown.find(x=>x.label==='Internet service provider').value,5000);assert.equal(r[2].details.adminBreakdown.find(x=>x.label==='Internet service provider').value,0);});
+T('EU appointment adds independent €7,500 setup fee',()=>{const b=runSimulation(mk()).reports[0],d=mk();d[0].agentsEU.want=4;const r=runSimulation(d).reports[0];assert.equal(r.details.adminBreakdown.find(x=>x.label==='Agents & distributors').value-b.details.adminBreakdown.find(x=>x.label==='Agents & distributors').value,7500);});
+T('effective machine sale never prints more than owned',()=>{const d=mk();d[0].machinesSell=99;let r=runSimulation(d).reports[0];assert.equal(r.effectiveDecisions.machinesSell,4);assert(r.warnings.some(w=>w.title==='Machine sale capped'));});
+T('new €500k deposit earns €1,250 extra, not €4,125 extra',()=>{let b=runSimulation(mk()).reports[0];const d=mk();d[0].termDeposit=500;let r=runSimulation(d).reports[0];assert.equal(r.details.income.interestReceived-b.details.income.interestReceived,1250);assert.equal(r.details.income.interestReceived,4125);});
+T('all twelve external controls change their economic/financial outputs',()=>{const base=runSimulation(mk()).reports;const cases=[{exchangeRate:1},{baseRate:2},{growth:1.2}];for(let m=0;m<3;m++)for(let p=0;p<3;p++){const e=defaultEcon(1);e.compPrices[m][p]*=1.1;cases.push({compPrices:e.compPrices});}assert.equal(cases.length,12);for(const e of cases){let r=runSimulation(mk(),[e]).reports;assert.notEqual(JSON.stringify(r.map(q=>[q.orders,q.netProfit,q.cashEnd])),JSON.stringify(base.map(q=>[q.orders,q.netProfit,q.cashEnd])));}});
+T('zero dividend sentiment removes the artificial distribution bonus',()=>{const d=mk();d[4].dividend=10;const a=runSimulation(d),b=runSimulation(d,undefined,{dividendSentimentWeight:0});assert(a.reports[4].investmentPerformance>b.reports[4].investmentPerformance);assert.equal(a.reports[4].dividendPaid,b.reports[4].dividendPaid);});
+T('invalid model assumptions are rejected',()=>{assert.throws(()=>runSimulation(mk(),undefined,{demandElasticityScale:NaN}));assert.throws(()=>runSimulation(mk(),undefined,{inventoryValuation:'invalid'}));});
+
+T('factory space caps hiring before charges and pipeline arrival',()=>{const d=mk();d[0].hire=99;const x=runSimulation(d);assert.equal(x.reports[0].effectiveDecisions.hire,6);assert.equal(x.reports[1].assemblyWorkersOpen,27);assert(x.reports[0].warnings.some(w=>w.title==='Recruitment limited by factory space'));});
+T('factory space caps machine installations and simultaneous hires',()=>{const d=mk();d[0].machinesBuy=99;const x=runSimulation(d);assert.equal(x.reports[0].effectiveDecisions.machinesBuy,2);assert.equal(x.reports[0].effectiveDecisions.hire,1);assert.equal(x.states[1].machines,6);assert.equal(x.reports[1].assemblyWorkersOpen,22);});
+T('EU P3 reference advertising equals source €10k, not a €5k scalar',()=>{const source=JSON.parse(fs.readFileSync('public/audit/source-summary.json'));assert.equal(source.sourceDecisions.advProd[0][2],10);let x=runSimulation(mk()).reports[0];assert.equal(x.orders[0][2],419);});
+T('zero or extreme external assumptions are rejected by the engine',()=>{for(const e of [{exchangeRate:0},{growth:0},{baseRate:-1},{compPrices:[[0,490,700],[335,490,725],[375,590,850]]},{exchangeRate:1e300}])assert.throws(()=>runSimulation(mk(),[e]));});
+console.log(count,'new manual-rule tests pass');fs.writeFileSync('public/audit/re-audit-v2/rule-checks.json',JSON.stringify(checks,null,2));

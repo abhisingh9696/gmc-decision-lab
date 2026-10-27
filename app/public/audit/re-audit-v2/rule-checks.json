@@ -1,0 +1,70 @@
+[
+  {
+    "name": "FX: euro depreciation (EUR/USD increases) raises foreign orders",
+    "status": "PASS"
+  },
+  {
+    "name": "EU transport uses whole 1,381 km journey once: Q2 €40,700",
+    "status": "PASS"
+  },
+  {
+    "name": "source transport totals independently match all five history reports",
+    "status": "PASS"
+  },
+  {
+    "name": "Table 21 independently reproduces per-product weighted closing valuation",
+    "status": "PASS"
+  },
+  {
+    "name": "materials on order use 90% lowest quote, while cash uses FX-locked invoice",
+    "status": "PASS"
+  },
+  {
+    "name": "subcontracted premium is not invoiced again as own premium materials",
+    "status": "PASS"
+  },
+  {
+    "name": "zero website ports close after notice, with no phantom NET orders",
+    "status": "PASS"
+  },
+  {
+    "name": "EU appointment adds independent €7,500 setup fee",
+    "status": "PASS"
+  },
+  {
+    "name": "effective machine sale never prints more than owned",
+    "status": "PASS"
+  },
+  {
+    "name": "new €500k deposit earns €1,250 extra, not €4,125 extra",
+    "status": "PASS"
+  },
+  {
+    "name": "all twelve external controls change their economic/financial outputs",
+    "status": "PASS"
+  },
+  {
+    "name": "zero dividend sentiment removes the artificial distribution bonus",
+    "status": "PASS"
+  },
+  {
+    "name": "invalid model assumptions are rejected",
+    "status": "PASS"
+  },
+  {
+    "name": "factory space caps hiring before charges and pipeline arrival",
+    "status": "PASS"
+  },
+  {
+    "name": "factory space caps machine installations and simultaneous hires",
+    "status": "PASS"
+  },
+  {
+    "name": "EU P3 reference advertising equals source €10k, not a €5k scalar",
+    "status": "PASS"
+  },
+  {
+    "name": "zero or extreme external assumptions are rejected by the engine",
+    "status": "PASS"
+  }
+]

@@ -1,0 +1,2811 @@
+{
+  "decisions": [
+    {
+      "advCorp": [
+        10,
+        5,
+        10
+      ],
+      "advProd": [
+        [
+          5,
+          5,
+          10
+        ],
+        [
+          5,
+          5,
+          5
+        ],
+        [
+          5,
+          5,
+          5
+        ]
+      ],
+      "prices": [
+        [
+          325,
+          490,
+          700
+        ],
+        [
+          335,
+          490,
+          725
+        ],
+        [
+          375,
+          590,
+          850
+        ]
+      ],
+      "deliveries": [
+        [
+          1000,
+          625,
+          325
+        ],
+        [
+          150,
+          150,
+          75
+        ],
+        [
+          250,
+          150,
+          100
+        ]
+      ],
+      "takeImprovement": [
+        false,
+        false,
+        false
+      ],
+      "rd": [
+        25,
+        15,
+        15
+      ],
+      "assemblyTimes": [
+        115,
+        165,
+        325
+      ],
+      "premium": [
+        0,
+        0,
+        0
+      ],
+      "subcontract": [
+        0,
+        0,
+        0
+      ],
+      "agentsEU": {
+        "want": 3,
+        "support": 10,
+        "commission": 7
+      },
+      "distNafta": {
+        "want": 1,
+        "support": 8,
+        "commission": 6
+      },
+      "distNet": {
+        "support": 9,
+        "commission": 5
+      },
+      "matSpot": 5,
+      "matM3": 0,
+      "matM6": 0,
+      "maintenance": 20,
+      "shift": 2,
+      "ports": 5,
+      "webDev": 15,
+      "hire": 4,
+      "train": 0,
+      "wage": 1200,
+      "mgmtBudget": 70,
+      "trainingDays": 0,
+      "shares": 0,
+      "dividend": 0,
+      "termLoan": 0,
+      "termDeposit": 0,
+      "machinesBuy": 0,
+      "machinesSell": 0,
+      "factoryExt": 0,
+      "insurance": 1,
+      "infoMarket": true,
+      "infoCompetitors": true
+    },
+    {
+      "advCorp": [
+        10,
+        5,
+        10
+      ],
+      "advProd": [
+        [
+          5,
+          5,
+          10
+        ],
+        [
+          5,
+          5,
+          5
+        ],
+        [
+          5,
+          5,
+          5
+        ]
+      ],
+      "prices": [
+        [
+          325,
+          490,
+          700
+        ],
+        [
+          335,
+          490,
+          725
+        ],
+        [
+          375,
+          590,
+          850
+        ]
+      ],
+      "deliveries": [
+        [
+          1000,
+          625,
+          325
+        ],
+        [
+          150,
+          150,
+          75
+        ],
+        [
+          250,
+          150,
+          100
+        ]
+      ],
+      "takeImprovement": [
+        false,
+        false,
+        false
+      ],
+      "rd": [
+        25,
+        15,
+        15
+      ],
+      "assemblyTimes": [
+        115,
+        165,
+        325
+      ],
+      "premium": [
+        0,
+        0,
+        0
+      ],
+      "subcontract": [
+        0,
+        0,
+        0
+      ],
+      "agentsEU": {
+        "want": 3,
+        "support": 10,
+        "commission": 7
+      },
+      "distNafta": {
+        "want": 1,
+        "support": 8,
+        "commission": 6
+      },
+      "distNet": {
+        "support": 9,
+        "commission": 5
+      },
+      "matSpot": 5,
+      "matM3": 0,
+      "matM6": 0,
+      "maintenance": 20,
+      "shift": 2,
+      "ports": 5,
+      "webDev": 15,
+      "hire": 4,
+      "train": 0,
+      "wage": 1200,
+      "mgmtBudget": 70,
+      "trainingDays": 0,
+      "shares": 0,
+      "dividend": 0,
+      "termLoan": 0,
+      "termDeposit": 0,
+      "machinesBuy": 0,
+      "machinesSell": 0,
+      "factoryExt": 0,
+      "insurance": 1,
+      "infoMarket": true,
+      "infoCompetitors": true
+    },
+    {
+      "advCorp": [
+        10,
+        5,
+        10
+      ],
+      "advProd": [
+        [
+          5,
+          5,
+          10
+        ],
+        [
+          5,
+          5,
+          5
+        ],
+        [
+          5,
+          5,
+          5
+        ]
+      ],
+      "prices": [
+        [
+          325,
+          490,
+          700
+        ],
+        [
+          335,
+          490,
+          725
+        ],
+        [
+          375,
+          590,
+          850
+        ]
+      ],
+      "deliveries": [
+        [
+          1000,
+          625,
+          325
+        ],
+        [
+          150,
+          150,
+          75
+        ],
+        [
+          250,
+          150,
+          100
+        ]
+      ],
+      "takeImprovement": [
+        false,
+        false,
+        false
+      ],
+      "rd": [
+        25,
+        15,
+        15
+      ],
+      "assemblyTimes": [
+        115,
+        165,
+        325
+      ],
+      "premium": [
+        0,
+        0,
+        0
+      ],
+      "subcontract": [
+        0,
+        0,
+        0
+      ],
+      "agentsEU": {
+        "want": 3,
+        "support": 10,
+        "commission": 7
+      },
+      "distNafta": {
+        "want": 1,
+        "support": 8,
+        "commission": 6
+      },
+      "distNet": {
+        "support": 9,
+        "commission": 5
+      },
+      "matSpot": 5,
+      "matM3": 0,
+      "matM6": 0,
+      "maintenance": 20,
+      "shift": 2,
+      "ports": 5,
+      "webDev": 15,
+      "hire": 4,
+      "train": 0,
+      "wage": 1200,
+      "mgmtBudget": 70,
+      "trainingDays": 0,
+      "shares": 0,
+      "dividend": 0,
+      "termLoan": 0,
+      "termDeposit": 0,
+      "machinesBuy": 0,
+      "machinesSell": 0,
+      "factoryExt": 0,
+      "insurance": 1,
+      "infoMarket": true,
+      "infoCompetitors": true
+    },
+    {
+      "advCorp": [
+        10,
+        5,
+        10
+      ],
+      "advProd": [
+        [
+          5,
+          5,
+          10
+        ],
+        [
+          5,
+          5,
+          5
+        ],
+        [
+          5,
+          5,
+          5
+        ]
+      ],
+      "prices": [
+        [
+          325,
+          490,
+          700
+        ],
+        [
+          335,
+          490,
+          725
+        ],
+        [
+          375,
+          590,
+          850
+        ]
+      ],
+      "deliveries": [
+        [
+          1000,
+          625,
+          325
+        ],
+        [
+          150,
+          150,
+          75
+        ],
+        [
+          250,
+          150,
+          100
+        ]
+      ],
+      "takeImprovement": [
+        false,
+        false,
+        false
+      ],
+      "rd": [
+        25,
+        15,
+        15
+      ],
+      "assemblyTimes": [
+        115,
+        165,
+        325
+      ],
+      "premium": [
+        0,
+        0,
+        0
+      ],
+      "subcontract": [
+        0,
+        0,
+        0
+      ],
+      "agentsEU": {
+        "want": 3,
+        "support": 10,
+        "commission": 7
+      },
+      "distNafta": {
+        "want": 1,
+        "support": 8,
+        "commission": 6
+      },
+      "distNet": {
+        "support": 9,
+        "commission": 5
+      },
+      "matSpot": 5,
+      "matM3": 0,
+      "matM6": 0,
+      "maintenance": 20,
+      "shift": 2,
+      "ports": 5,
+      "webDev": 15,
+      "hire": 4,
+      "train": 0,
+      "wage": 1200,
+      "mgmtBudget": 70,
+      "trainingDays": 0,
+      "shares": 0,
+      "dividend": 0,
+      "termLoan": 0,
+      "termDeposit": 0,
+      "machinesBuy": 0,
+      "machinesSell": 0,
+      "factoryExt": 0,
+      "insurance": 1,
+      "infoMarket": true,
+      "infoCompetitors": true
+    },
+    {
+      "advCorp": [
+        10,
+        5,
+        10
+      ],
+      "advProd": [
+        [
+          5,
+          5,
+          10
+        ],
+        [
+          5,
+          5,
+          5
+        ],
+        [
+          5,
+          5,
+          5
+        ]
+      ],
+      "prices": [
+        [
+          325,
+          490,
+          700
+        ],
+        [
+          335,
+          490,
+          725
+        ],
+        [
+          375,
+          590,
+          850
+        ]
+      ],
+      "deliveries": [
+        [
+          1000,
+          625,
+          325
+        ],
+        [
+          150,
+          150,
+          75
+        ],
+        [
+          250,
+          150,
+          100
+        ]
+      ],
+      "takeImprovement": [
+        false,
+        false,
+        false
+      ],
+      "rd": [
+        25,
+        15,
+        15
+      ],
+      "assemblyTimes": [
+        115,
+        165,
+        325
+      ],
+      "premium": [
+        0,
+        0,
+        0
+      ],
+      "subcontract": [
+        0,
+        0,
+        0
+      ],
+      "agentsEU": {
+        "want": 3,
+        "support": 10,
+        "commission": 7
+      },
+      "distNafta": {
+        "want": 1,
+        "support": 8,
+        "commission": 6
+      },
+      "distNet": {
+        "support": 9,
+        "commission": 5
+      },
+      "matSpot": 5,
+      "matM3": 0,
+      "matM6": 0,
+      "maintenance": 20,
+      "shift": 2,
+      "ports": 5,
+      "webDev": 15,
+      "hire": 4,
+      "train": 0,
+      "wage": 1200,
+      "mgmtBudget": 70,
+      "trainingDays": 0,
+      "shares": 0,
+      "dividend": 0,
+      "termLoan": 0,
+      "termDeposit": 0,
+      "machinesBuy": 0,
+      "machinesSell": 0,
+      "factoryExt": 0,
+      "insurance": 1,
+      "infoMarket": true,
+      "infoCompetitors": true
+    }
+  ],
+  "result": {
+    "reports": [
+      {
+        "quarterLabel": "2016 Q2",
+        "orders": [
+          [
+            1096,
+            695,
+            480
+          ],
+          [
+            178,
+            155,
+            84
+          ],
+          [
+            270,
+            178,
+            103
+          ]
+        ],
+        "sales": [
+          [
+            1096,
+            625,
+            325
+          ],
+          [
+            163,
+            155,
+            75
+          ],
+          [
+            262,
+            150,
+            103
+          ]
+        ],
+        "backlogEnd": [
+          [
+            0,
+            38,
+            81
+          ],
+          [
+            8,
+            0,
+            5
+          ],
+          [
+            0,
+            0,
+            0
+          ]
+        ],
+        "lostInternetDemand": [
+          8,
+          28,
+          0
+        ],
+        "productionPlanned": [
+          1400,
+          925,
+          500
+        ],
+        "productionActual": [
+          1400,
+          926,
+          500
+        ],
+        "productionScaled": false,
+        "rejects": [
+          54,
+          36,
+          20
+        ],
+        "grossStarts": [
+          1454,
+          962,
+          520
+        ],
+        "rejectRate": [
+          0.03697500000000001,
+          0.037700000000000004,
+          0.03794166666666667
+        ],
+        "assemblyWorkersOpen": 21,
+        "obsoleteUnits": 0,
+        "obsoleteByProduct": [
+          0,
+          0,
+          0
+        ],
+        "obsoleteProceeds": 0,
+        "machHoursNeeded": 3696.5,
+        "machHoursAvail": 4062.672,
+        "assemblyHoursNeeded": 8249,
+        "assemblyHoursAvail": 11733.119999999999,
+        "assemblyTiers": {
+          "basic": 8249,
+          "saturday": 0,
+          "sunday": 0
+        },
+        "mgmtBudgetEffective": 70,
+        "materialsNeeded": 4938,
+        "materialsShortfall": 0,
+        "componentWipEnd": [
+          0,
+          0,
+          0
+        ],
+        "spaceNeeded": 319,
+        "spaceAvail": 375,
+        "revenue": 1349180,
+        "cogs": 719896,
+        "grossProfit": 629284,
+        "adminExpenses": 516756,
+        "operatingProfit": 85756,
+        "netInterest": 2875,
+        "pbt": 88631,
+        "tax": 0,
+        "netProfit": 88631,
+        "cashEnd": 1004249,
+        "overdraftEnd": 0,
+        "overdraftLimit": 618192,
+        "unauthorised": false,
+        "dividendPaid": 0,
+        "sharePrice": 1.1111705878827183,
+        "marketValue": 4444682,
+        "investmentPerformance": 4444682,
+        "ipBreakdown": {
+          "navPerShare": 1.0112,
+          "sentiment": 1.099,
+          "marketValue": 4444682,
+          "cumDividends": 0,
+          "cumRepurchases": 0,
+          "cumIssues": 0
+        },
+        "stars": [
+          2.0357142857142856,
+          2.7071428571428573,
+          1.9309523809523808
+        ],
+        "webStars": 2,
+        "failedVisitsPct": 0,
+        "carbonTonnes": 19.1,
+        "warnings": [
+          {
+            "severity": "warn",
+            "title": "Stock-out risk",
+            "detail": "~168 units of demand unmet (backlog after cancellations + lost internet sales). Produce more or temper demand (price/ads)."
+          }
+        ],
+        "effectiveDecisions": {
+          "advCorp": [
+            10,
+            5,
+            10
+          ],
+          "advProd": [
+            [
+              5,
+              5,
+              10
+            ],
+            [
+              5,
+              5,
+              5
+            ],
+            [
+              5,
+              5,
+              5
+            ]
+          ],
+          "prices": [
+            [
+              325,
+              490,
+              700
+            ],
+            [
+              335,
+              490,
+              725
+            ],
+            [
+              375,
+              590,
+              850
+            ]
+          ],
+          "deliveries": [
+            [
+              1000,
+              625,
+              325
+            ],
+            [
+              150,
+              150,
+              75
+            ],
+            [
+              250,
+              150,
+              100
+            ]
+          ],
+          "takeImprovement": [
+            false,
+            false,
+            false
+          ],
+          "rd": [
+            25,
+            15,
+            15
+          ],
+          "assemblyTimes": [
+            115,
+            165,
+            325
+          ],
+          "premium": [
+            0,
+            0,
+            0
+          ],
+          "subcontract": [
+            0,
+            0,
+            0
+          ],
+          "agentsEU": {
+            "want": 3,
+            "support": 10,
+            "commission": 7
+          },
+          "distNafta": {
+            "want": 1,
+            "support": 8,
+            "commission": 6
+          },
+          "distNet": {
+            "support": 9,
+            "commission": 5
+          },
+          "matSpot": 5,
+          "matM3": 0,
+          "matM6": 0,
+          "maintenance": 20,
+          "shift": 2,
+          "ports": 5,
+          "webDev": 15,
+          "hire": 4,
+          "train": 0,
+          "wage": 1200,
+          "mgmtBudget": 70,
+          "trainingDays": 0,
+          "shares": 0,
+          "dividend": 0,
+          "termLoan": 0,
+          "termDeposit": 0,
+          "machinesBuy": 0,
+          "machinesSell": 0,
+          "factoryExt": 0,
+          "insurance": 1,
+          "infoMarket": true,
+          "infoCompetitors": true
+        },
+        "details": {
+          "income": {
+            "revenue": 1349180,
+            "cogs": 719896,
+            "grossProfit": 629284,
+            "adminExpenses": 516756,
+            "depreciation": 26772,
+            "operatingProfit": 85756,
+            "interestReceived": 2875,
+            "interestPaid": 0,
+            "pbt": 88631,
+            "taxAssessed": 0,
+            "netProfit": 88631
+          },
+          "adminBreakdown": [
+            {
+              "label": "Advertising",
+              "value": 75000
+            },
+            {
+              "label": "Agents & distributors",
+              "value": 144103
+            },
+            {
+              "label": "Internet service provider",
+              "value": 13229
+            },
+            {
+              "label": "Sales office",
+              "value": 15231
+            },
+            {
+              "label": "Guarantee servicing",
+              "value": 7130
+            },
+            {
+              "label": "Product development (R&D)",
+              "value": 55000
+            },
+            {
+              "label": "Website development",
+              "value": 15000
+            },
+            {
+              "label": "Personnel department",
+              "value": 17000
+            },
+            {
+              "label": "Machine maintenance",
+              "value": 6800
+            },
+            {
+              "label": "Purchasing & warehousing",
+              "value": 7581
+            },
+            {
+              "label": "Business intelligence",
+              "value": 12500
+            },
+            {
+              "label": "Credit control",
+              "value": 2954
+            },
+            {
+              "label": "Insurance premiums",
+              "value": 8928
+            },
+            {
+              "label": "Management salaries",
+              "value": 70000
+            },
+            {
+              "label": "Factory rates & fixed",
+              "value": 10000
+            },
+            {
+              "label": "Transport",
+              "value": 56300
+            },
+            {
+              "label": "Decommissioning",
+              "value": 0
+            }
+          ],
+          "cashFlow": {
+            "openingCash": 826635,
+            "collected": 1389075,
+            "interestReceived": 2875,
+            "loanDrawn": 0,
+            "shareCash": 0,
+            "obsoleteProceeds": 0,
+            "assetProceeds": 0,
+            "paidSuppliersAdmin": 670641,
+            "paidProduction": 381878,
+            "paidMaterials": 161818,
+            "subcontractPaid": 0,
+            "dividendPaid": 0,
+            "capex": 0,
+            "taxPaid": 0,
+            "interestPaid": 0,
+            "depositChange": 0,
+            "closingCash": 1004249,
+            "overdraftEnd": 0
+          },
+          "workingCapital": {
+            "receivablesOpen": 818125,
+            "receivablesEnd": 778230,
+            "payablesOpen": 326696,
+            "payablesEnd": 334629,
+            "closingInvValue": 5811,
+            "materialsStock": 1782
+          },
+          "retained": {
+            "opening": -43916,
+            "netProfit": 88631,
+            "dividendPaid": 0,
+            "closing": 44715
+          },
+          "balance": {
+            "fixedAssets": 1344098,
+            "capitalWip": 0,
+            "inventories": 5811,
+            "materialsValue": 96956,
+            "wipComponents": 0,
+            "materialsOnOrder": 0,
+            "receivables": 778230,
+            "cash": 1004249,
+            "deposit": 1150000,
+            "payables": 334629,
+            "taxDue": 0,
+            "overdraft": 0,
+            "termLoan": 0,
+            "shareCapital": 4000000,
+            "sharePremium": 0,
+            "retainedEarnings": 44715
+          }
+        }
+      },
+      {
+        "quarterLabel": "2016 Q3",
+        "orders": [
+          [
+            1232,
+            758,
+            533
+          ],
+          [
+            200,
+            169,
+            93
+          ],
+          [
+            303,
+            194,
+            114
+          ]
+        ],
+        "sales": [
+          [
+            1014,
+            625,
+            325
+          ],
+          [
+            150,
+            154,
+            75
+          ],
+          [
+            250,
+            150,
+            105
+          ]
+        ],
+        "backlogEnd": [
+          [
+            109,
+            86,
+            145
+          ],
+          [
+            29,
+            8,
+            12
+          ],
+          [
+            0,
+            0,
+            0
+          ]
+        ],
+        "lostInternetDemand": [
+          53,
+          44,
+          9
+        ],
+        "productionPlanned": [
+          1400,
+          925,
+          500
+        ],
+        "productionActual": [
+          1400,
+          926,
+          500
+        ],
+        "productionScaled": false,
+        "rejects": [
+          54,
+          36,
+          20
+        ],
+        "grossStarts": [
+          1454,
+          962,
+          520
+        ],
+        "rejectRate": [
+          0.03697500000000001,
+          0.037700000000000004,
+          0.03794166666666667
+        ],
+        "assemblyWorkersOpen": 25,
+        "obsoleteUnits": 0,
+        "obsoleteByProduct": [
+          0,
+          0,
+          0
+        ],
+        "obsoleteProceeds": 0,
+        "machHoursNeeded": 3696.5,
+        "machHoursAvail": 4045.5839999999994,
+        "assemblyHoursNeeded": 8249,
+        "assemblyHoursAvail": 13968,
+        "assemblyTiers": {
+          "basic": 8249,
+          "saturday": 0,
+          "sunday": 0
+        },
+        "mgmtBudgetEffective": 70,
+        "materialsNeeded": 4938,
+        "materialsShortfall": 0,
+        "componentWipEnd": [
+          0,
+          0,
+          0
+        ],
+        "spaceNeeded": 359,
+        "spaceAvail": 375,
+        "revenue": 1314885,
+        "cogs": 707675,
+        "grossProfit": 607210,
+        "adminExpenses": 525179,
+        "operatingProfit": 55928,
+        "netInterest": 2875,
+        "pbt": 58803,
+        "tax": 0,
+        "netProfit": 58803,
+        "cashEnd": 1113726,
+        "overdraftEnd": 0,
+        "overdraftLimit": 567162,
+        "unauthorised": false,
+        "dividendPaid": 0,
+        "sharePrice": 1.0993201756714592,
+        "marketValue": 4397281,
+        "investmentPerformance": 4397281,
+        "ipBreakdown": {
+          "navPerShare": 1.0259,
+          "sentiment": 1.072,
+          "marketValue": 4397281,
+          "cumDividends": 0,
+          "cumRepurchases": 0,
+          "cumIssues": 0
+        },
+        "stars": [
+          2.1125,
+          2.4875000000000003,
+          1.8791666666666664
+        ],
+        "webStars": 2,
+        "failedVisitsPct": 0,
+        "carbonTonnes": 19.1,
+        "warnings": [
+          {
+            "severity": "warn",
+            "title": "Stock-out risk",
+            "detail": "~495 units of demand unmet (backlog after cancellations + lost internet sales). Produce more or temper demand (price/ads)."
+          }
+        ],
+        "effectiveDecisions": {
+          "advCorp": [
+            10,
+            5,
+            10
+          ],
+          "advProd": [
+            [
+              5,
+              5,
+              10
+            ],
+            [
+              5,
+              5,
+              5
+            ],
+            [
+              5,
+              5,
+              5
+            ]
+          ],
+          "prices": [
+            [
+              325,
+              490,
+              700
+            ],
+            [
+              335,
+              490,
+              725
+            ],
+            [
+              375,
+              590,
+              850
+            ]
+          ],
+          "deliveries": [
+            [
+              1000,
+              625,
+              325
+            ],
+            [
+              150,
+              150,
+              75
+            ],
+            [
+              250,
+              150,
+              100
+            ]
+          ],
+          "takeImprovement": [
+            false,
+            false,
+            false
+          ],
+          "rd": [
+            25,
+            15,
+            15
+          ],
+          "assemblyTimes": [
+            115,
+            165,
+            325
+          ],
+          "premium": [
+            0,
+            0,
+            0
+          ],
+          "subcontract": [
+            0,
+            0,
+            0
+          ],
+          "agentsEU": {
+            "want": 3,
+            "support": 10,
+            "commission": 7
+          },
+          "distNafta": {
+            "want": 1,
+            "support": 8,
+            "commission": 6
+          },
+          "distNet": {
+            "support": 9,
+            "commission": 5
+          },
+          "matSpot": 5,
+          "matM3": 0,
+          "matM6": 0,
+          "maintenance": 20,
+          "shift": 2,
+          "ports": 5,
+          "webDev": 15,
+          "hire": 4,
+          "train": 0,
+          "wage": 1200,
+          "mgmtBudget": 70,
+          "trainingDays": 0,
+          "shares": 0,
+          "dividend": 0,
+          "termLoan": 0,
+          "termDeposit": 0,
+          "machinesBuy": 0,
+          "machinesSell": 0,
+          "factoryExt": 0,
+          "insurance": 1,
+          "infoMarket": true,
+          "infoCompetitors": true
+        },
+        "details": {
+          "income": {
+            "revenue": 1314885,
+            "cogs": 707675,
+            "grossProfit": 607210,
+            "adminExpenses": 525179,
+            "depreciation": 26102,
+            "operatingProfit": 55928,
+            "interestReceived": 2875,
+            "interestPaid": 0,
+            "pbt": 58803,
+            "taxAssessed": 0,
+            "netProfit": 58803
+          },
+          "adminBreakdown": [
+            {
+              "label": "Advertising",
+              "value": 75000
+            },
+            {
+              "label": "Agents & distributors",
+              "value": 151525
+            },
+            {
+              "label": "Internet service provider",
+              "value": 13145
+            },
+            {
+              "label": "Sales office",
+              "value": 16871
+            },
+            {
+              "label": "Guarantee servicing",
+              "value": 7009
+            },
+            {
+              "label": "Product development (R&D)",
+              "value": 55000
+            },
+            {
+              "label": "Website development",
+              "value": 15000
+            },
+            {
+              "label": "Personnel department",
+              "value": 17000
+            },
+            {
+              "label": "Machine maintenance",
+              "value": 6800
+            },
+            {
+              "label": "Purchasing & warehousing",
+              "value": 7500
+            },
+            {
+              "label": "Business intelligence",
+              "value": 12500
+            },
+            {
+              "label": "Credit control",
+              "value": 2848
+            },
+            {
+              "label": "Insurance premiums",
+              "value": 8681
+            },
+            {
+              "label": "Management salaries",
+              "value": 70000
+            },
+            {
+              "label": "Factory rates & fixed",
+              "value": 10000
+            },
+            {
+              "label": "Transport",
+              "value": 56300
+            },
+            {
+              "label": "Decommissioning",
+              "value": 0
+            }
+          ],
+          "cashFlow": {
+            "openingCash": 1004249,
+            "collected": 1337497,
+            "interestReceived": 2875,
+            "loanDrawn": 0,
+            "shareCash": 0,
+            "obsoleteProceeds": 0,
+            "assetProceeds": 0,
+            "paidSuppliersAdmin": 687199,
+            "paidProduction": 381878,
+            "paidMaterials": 161818,
+            "subcontractPaid": 0,
+            "dividendPaid": 0,
+            "capex": 0,
+            "taxPaid": 0,
+            "interestPaid": 0,
+            "depositChange": 0,
+            "closingCash": 1113726,
+            "overdraftEnd": 0
+          },
+          "workingCapital": {
+            "receivablesOpen": 778230,
+            "receivablesEnd": 755618,
+            "payablesOpen": 334629,
+            "payablesEnd": 334427,
+            "closingInvValue": 276,
+            "materialsStock": 1844
+          },
+          "retained": {
+            "opening": 44715,
+            "netProfit": 58803,
+            "dividendPaid": 0,
+            "closing": 103519
+          },
+          "balance": {
+            "fixedAssets": 1317996,
+            "capitalWip": 0,
+            "inventories": 276,
+            "materialsValue": 100329,
+            "wipComponents": 0,
+            "materialsOnOrder": 0,
+            "receivables": 755618,
+            "cash": 1113726,
+            "deposit": 1150000,
+            "payables": 334427,
+            "taxDue": 0,
+            "overdraft": 0,
+            "termLoan": 0,
+            "shareCapital": 4000000,
+            "sharePremium": 0,
+            "retainedEarnings": 103519
+          }
+        }
+      },
+      {
+        "quarterLabel": "2016 Q4",
+        "orders": [
+          [
+            1621,
+            975,
+            694
+          ],
+          [
+            264,
+            217,
+            121
+          ],
+          [
+            399,
+            250,
+            149
+          ]
+        ],
+        "sales": [
+          [
+            1000,
+            625,
+            325
+          ],
+          [
+            150,
+            150,
+            75
+          ],
+          [
+            250,
+            150,
+            100
+          ]
+        ],
+        "backlogEnd": [
+          [
+            365,
+            218,
+            257
+          ],
+          [
+            72,
+            38,
+            29
+          ],
+          [
+            0,
+            0,
+            0
+          ]
+        ],
+        "lostInternetDemand": [
+          149,
+          100,
+          49
+        ],
+        "productionPlanned": [
+          1400,
+          925,
+          500
+        ],
+        "productionActual": [
+          1400,
+          926,
+          500
+        ],
+        "productionScaled": false,
+        "rejects": [
+          54,
+          36,
+          20
+        ],
+        "grossStarts": [
+          1454,
+          962,
+          520
+        ],
+        "rejectRate": [
+          0.03697500000000001,
+          0.037700000000000004,
+          0.03794166666666667
+        ],
+        "assemblyWorkersOpen": 29,
+        "obsoleteUnits": 0,
+        "obsoleteByProduct": [
+          0,
+          0,
+          0
+        ],
+        "obsoleteProceeds": 0,
+        "machHoursNeeded": 3696.5,
+        "machHoursAvail": 4028.495999999999,
+        "assemblyHoursNeeded": 8249,
+        "assemblyHoursAvail": 16202.880000000001,
+        "assemblyTiers": {
+          "basic": 8249,
+          "saturday": 0,
+          "sunday": 0
+        },
+        "mgmtBudgetEffective": 70,
+        "materialsNeeded": 4938,
+        "materialsShortfall": 0,
+        "componentWipEnd": [
+          0,
+          0,
+          0
+        ],
+        "spaceNeeded": 400,
+        "spaceAvail": 375,
+        "revenue": 1304125,
+        "cogs": 702140,
+        "grossProfit": 601985,
+        "adminExpenses": 566017,
+        "operatingProfit": 10519,
+        "netInterest": 2875,
+        "pbt": 13394,
+        "tax": 29228,
+        "netProfit": -15834,
+        "cashEnd": 1166401,
+        "overdraftEnd": 0,
+        "overdraftLimit": 545932,
+        "unauthorised": false,
+        "dividendPaid": 0,
+        "sharePrice": 0.9463547137286036,
+        "marketValue": 3785419,
+        "investmentPerformance": 3785419,
+        "ipBreakdown": {
+          "navPerShare": 1.0219,
+          "sentiment": 0.926,
+          "marketValue": 3785419,
+          "cumDividends": 0,
+          "cumRepurchases": 0,
+          "cumIssues": 0
+        },
+        "stars": [
+          2.2200892857142853,
+          2.3727678571428577,
+          1.8903273809523806
+        ],
+        "webStars": 2,
+        "failedVisitsPct": 0,
+        "carbonTonnes": 19.1,
+        "warnings": [
+          {
+            "severity": "warn",
+            "title": "Stock-out risk",
+            "detail": "~1277 units of demand unmet (backlog after cancellations + lost internet sales). Produce more or temper demand (price/ads)."
+          },
+          {
+            "severity": "warn",
+            "title": "Factory space overflow",
+            "detail": "Need ~400 m² vs 375 m² usable. Excess materials/WIP stored externally at extra cost; new hires/machines may be capped."
+          },
+          {
+            "severity": "info",
+            "title": "Annual tax assessed",
+            "detail": "25% on accumulated taxable profit — €29,228 payable in next year's Q2."
+          }
+        ],
+        "effectiveDecisions": {
+          "advCorp": [
+            10,
+            5,
+            10
+          ],
+          "advProd": [
+            [
+              5,
+              5,
+              10
+            ],
+            [
+              5,
+              5,
+              5
+            ],
+            [
+              5,
+              5,
+              5
+            ]
+          ],
+          "prices": [
+            [
+              325,
+              490,
+              700
+            ],
+            [
+              335,
+              490,
+              725
+            ],
+            [
+              375,
+              590,
+              850
+            ]
+          ],
+          "deliveries": [
+            [
+              1000,
+              625,
+              325
+            ],
+            [
+              150,
+              150,
+              75
+            ],
+            [
+              250,
+              150,
+              100
+            ]
+          ],
+          "takeImprovement": [
+            false,
+            false,
+            false
+          ],
+          "rd": [
+            25,
+            15,
+            15
+          ],
+          "assemblyTimes": [
+            115,
+            165,
+            325
+          ],
+          "premium": [
+            0,
+            0,
+            0
+          ],
+          "subcontract": [
+            0,
+            0,
+            0
+          ],
+          "agentsEU": {
+            "want": 3,
+            "support": 10,
+            "commission": 7
+          },
+          "distNafta": {
+            "want": 1,
+            "support": 8,
+            "commission": 6
+          },
+          "distNet": {
+            "support": 9,
+            "commission": 5
+          },
+          "matSpot": 5,
+          "matM3": 0,
+          "matM6": 0,
+          "maintenance": 20,
+          "shift": 2,
+          "ports": 5,
+          "webDev": 15,
+          "hire": 4,
+          "train": 0,
+          "wage": 1200,
+          "mgmtBudget": 70,
+          "trainingDays": 0,
+          "shares": 0,
+          "dividend": 0,
+          "termLoan": 0,
+          "termDeposit": 0,
+          "machinesBuy": 0,
+          "machinesSell": 0,
+          "factoryExt": 0,
+          "insurance": 1,
+          "infoMarket": true,
+          "infoCompetitors": true
+        },
+        "details": {
+          "income": {
+            "revenue": 1304125,
+            "cogs": 702140,
+            "grossProfit": 601985,
+            "adminExpenses": 566017,
+            "depreciation": 25450,
+            "operatingProfit": 10519,
+            "interestReceived": 2875,
+            "interestPaid": 0,
+            "pbt": 13394,
+            "taxAssessed": 29228,
+            "netProfit": -15834
+          },
+          "adminBreakdown": [
+            {
+              "label": "Advertising",
+              "value": 75000
+            },
+            {
+              "label": "Agents & distributors",
+              "value": 175376
+            },
+            {
+              "label": "Internet service provider",
+              "value": 13018
+            },
+            {
+              "label": "Sales office",
+              "value": 21966
+            },
+            {
+              "label": "Guarantee servicing",
+              "value": 6955
+            },
+            {
+              "label": "Product development (R&D)",
+              "value": 55000
+            },
+            {
+              "label": "Website development",
+              "value": 15000
+            },
+            {
+              "label": "Personnel department",
+              "value": 17000
+            },
+            {
+              "label": "Machine maintenance",
+              "value": 6800
+            },
+            {
+              "label": "Purchasing & warehousing",
+              "value": 19765
+            },
+            {
+              "label": "Business intelligence",
+              "value": 12500
+            },
+            {
+              "label": "Credit control",
+              "value": 2825
+            },
+            {
+              "label": "Insurance premiums",
+              "value": 8512
+            },
+            {
+              "label": "Management salaries",
+              "value": 70000
+            },
+            {
+              "label": "Factory rates & fixed",
+              "value": 10000
+            },
+            {
+              "label": "Transport",
+              "value": 56300
+            },
+            {
+              "label": "Decommissioning",
+              "value": 0
+            }
+          ],
+          "cashFlow": {
+            "openingCash": 1113726,
+            "collected": 1309118,
+            "interestReceived": 2875,
+            "loanDrawn": 0,
+            "shareCash": 0,
+            "obsoleteProceeds": 0,
+            "assetProceeds": 0,
+            "paidSuppliersAdmin": 715623,
+            "paidProduction": 381878,
+            "paidMaterials": 161818,
+            "subcontractPaid": 0,
+            "dividendPaid": 0,
+            "capex": 0,
+            "taxPaid": 0,
+            "interestPaid": 0,
+            "depositChange": 0,
+            "closingCash": 1166401,
+            "overdraftEnd": 0
+          },
+          "workingCapital": {
+            "receivablesOpen": 755618,
+            "receivablesEnd": 750625,
+            "payablesOpen": 334427,
+            "payablesEnd": 346638,
+            "closingInvValue": 276,
+            "materialsStock": 1906
+          },
+          "retained": {
+            "opening": 103519,
+            "netProfit": -15834,
+            "dividendPaid": 0,
+            "closing": 87684
+          },
+          "balance": {
+            "fixedAssets": 1292546,
+            "capitalWip": 0,
+            "inventories": 276,
+            "materialsValue": 103703,
+            "wipComponents": 0,
+            "materialsOnOrder": 0,
+            "receivables": 750625,
+            "cash": 1166401,
+            "deposit": 1150000,
+            "payables": 346638,
+            "taxDue": 29228,
+            "overdraft": 0,
+            "termLoan": 0,
+            "shareCapital": 4000000,
+            "sharePremium": 0,
+            "retainedEarnings": 87684
+          }
+        }
+      },
+      {
+        "quarterLabel": "2017 Q1",
+        "orders": [
+          [
+            1006,
+            595,
+            428
+          ],
+          [
+            164,
+            132,
+            75
+          ],
+          [
+            248,
+            152,
+            92
+          ]
+        ],
+        "sales": [
+          [
+            1000,
+            625,
+            325
+          ],
+          [
+            150,
+            150,
+            75
+          ],
+          [
+            248,
+            150,
+            92
+          ]
+        ],
+        "backlogEnd": [
+          [
+            186,
+            94,
+            180
+          ],
+          [
+            43,
+            10,
+            15
+          ],
+          [
+            0,
+            0,
+            0
+          ]
+        ],
+        "lostInternetDemand": [
+          0,
+          2,
+          0
+        ],
+        "productionPlanned": [
+          1400,
+          925,
+          500
+        ],
+        "productionActual": [
+          1400,
+          926,
+          500
+        ],
+        "productionScaled": false,
+        "rejects": [
+          54,
+          36,
+          20
+        ],
+        "grossStarts": [
+          1454,
+          962,
+          520
+        ],
+        "rejectRate": [
+          0.03697500000000001,
+          0.037700000000000004,
+          0.03794166666666667
+        ],
+        "assemblyWorkersOpen": 33,
+        "obsoleteUnits": 0,
+        "obsoleteByProduct": [
+          0,
+          0,
+          0
+        ],
+        "obsoleteProceeds": 0,
+        "machHoursNeeded": 3696.5,
+        "machHoursAvail": 4011.407999999999,
+        "assemblyHoursNeeded": 8249,
+        "assemblyHoursAvail": 18437.76,
+        "assemblyTiers": {
+          "basic": 8249,
+          "saturday": 0,
+          "sunday": 0
+        },
+        "mgmtBudgetEffective": 70,
+        "materialsNeeded": 4938,
+        "materialsShortfall": 0,
+        "componentWipEnd": [
+          0,
+          0,
+          0
+        ],
+        "spaceNeeded": 440,
+        "spaceAvail": 375,
+        "revenue": 1296575,
+        "cogs": 698271,
+        "grossProfit": 598304,
+        "adminExpenses": 536922,
+        "operatingProfit": 36568,
+        "netInterest": 2875,
+        "pbt": 39443,
+        "tax": 0,
+        "netProfit": 39443,
+        "cashEnd": 1243563,
+        "overdraftEnd": 0,
+        "overdraftLimit": 501686,
+        "unauthorised": false,
+        "dividendPaid": 0,
+        "sharePrice": 1.087915963827623,
+        "marketValue": 4351664,
+        "investmentPerformance": 4351664,
+        "ipBreakdown": {
+          "navPerShare": 1.0318,
+          "sentiment": 1.054,
+          "marketValue": 4351664,
+          "cumDividends": 0,
+          "cumRepurchases": 0,
+          "cumIssues": 0
+        },
+        "stars": [
+          2.3007812499999996,
+          2.2867187500000004,
+          1.8986979166666662
+        ],
+        "webStars": 2,
+        "failedVisitsPct": 0,
+        "carbonTonnes": 19.1,
+        "warnings": [
+          {
+            "severity": "info",
+            "title": "P2 R&D breakthrough",
+            "detail": "Cumulative R&D has produced a new product improvement, available to take up from this quarter."
+          },
+          {
+            "severity": "info",
+            "title": "P3 R&D breakthrough",
+            "detail": "Cumulative R&D has produced a new product improvement, available to take up from this quarter."
+          },
+          {
+            "severity": "warn",
+            "title": "Stock-out risk",
+            "detail": "~530 units of demand unmet (backlog after cancellations + lost internet sales). Produce more or temper demand (price/ads)."
+          },
+          {
+            "severity": "warn",
+            "title": "Factory space overflow",
+            "detail": "Need ~440 m² vs 375 m² usable. Excess materials/WIP stored externally at extra cost; new hires/machines may be capped."
+          }
+        ],
+        "effectiveDecisions": {
+          "advCorp": [
+            10,
+            5,
+            10
+          ],
+          "advProd": [
+            [
+              5,
+              5,
+              10
+            ],
+            [
+              5,
+              5,
+              5
+            ],
+            [
+              5,
+              5,
+              5
+            ]
+          ],
+          "prices": [
+            [
+              325,
+              490,
+              700
+            ],
+            [
+              335,
+              490,
+              725
+            ],
+            [
+              375,
+              590,
+              850
+            ]
+          ],
+          "deliveries": [
+            [
+              1000,
+              625,
+              325
+            ],
+            [
+              150,
+              150,
+              75
+            ],
+            [
+              250,
+              150,
+              100
+            ]
+          ],
+          "takeImprovement": [
+            false,
+            false,
+            false
+          ],
+          "rd": [
+            25,
+            15,
+            15
+          ],
+          "assemblyTimes": [
+            115,
+            165,
+            325
+          ],
+          "premium": [
+            0,
+            0,
+            0
+          ],
+          "subcontract": [
+            0,
+            0,
+            0
+          ],
+          "agentsEU": {
+            "want": 3,
+            "support": 10,
+            "commission": 7
+          },
+          "distNafta": {
+            "want": 1,
+            "support": 8,
+            "commission": 6
+          },
+          "distNet": {
+            "support": 9,
+            "commission": 5
+          },
+          "matSpot": 5,
+          "matM3": 0,
+          "matM6": 0,
+          "maintenance": 20,
+          "shift": 2,
+          "ports": 5,
+          "webDev": 15,
+          "hire": 4,
+          "train": 0,
+          "wage": 1200,
+          "mgmtBudget": 70,
+          "trainingDays": 0,
+          "shares": 0,
+          "dividend": 0,
+          "termLoan": 0,
+          "termDeposit": 0,
+          "machinesBuy": 0,
+          "machinesSell": 0,
+          "factoryExt": 0,
+          "insurance": 1,
+          "infoMarket": true,
+          "infoCompetitors": true
+        },
+        "details": {
+          "income": {
+            "revenue": 1296575,
+            "cogs": 698271,
+            "grossProfit": 598304,
+            "adminExpenses": 536922,
+            "depreciation": 24814,
+            "operatingProfit": 36568,
+            "interestReceived": 2875,
+            "interestPaid": 0,
+            "pbt": 39443,
+            "taxAssessed": 0,
+            "netProfit": 39443
+          },
+          "adminBreakdown": [
+            {
+              "label": "Advertising",
+              "value": 75000
+            },
+            {
+              "label": "Agents & distributors",
+              "value": 134940
+            },
+            {
+              "label": "Internet service provider",
+              "value": 12791
+            },
+            {
+              "label": "Sales office",
+              "value": 13530
+            },
+            {
+              "label": "Guarantee servicing",
+              "value": 6913
+            },
+            {
+              "label": "Product development (R&D)",
+              "value": 55000
+            },
+            {
+              "label": "Website development",
+              "value": 15000
+            },
+            {
+              "label": "Personnel department",
+              "value": 17000
+            },
+            {
+              "label": "Machine maintenance",
+              "value": 6800
+            },
+            {
+              "label": "Purchasing & warehousing",
+              "value": 39955
+            },
+            {
+              "label": "Business intelligence",
+              "value": 12500
+            },
+            {
+              "label": "Credit control",
+              "value": 2815
+            },
+            {
+              "label": "Insurance premiums",
+              "value": 8379
+            },
+            {
+              "label": "Management salaries",
+              "value": 70000
+            },
+            {
+              "label": "Factory rates & fixed",
+              "value": 10000
+            },
+            {
+              "label": "Transport",
+              "value": 56300
+            },
+            {
+              "label": "Decommissioning",
+              "value": 0
+            }
+          ],
+          "cashFlow": {
+            "openingCash": 1166401,
+            "collected": 1296575,
+            "interestReceived": 2875,
+            "loanDrawn": 0,
+            "shareCash": 0,
+            "obsoleteProceeds": 0,
+            "assetProceeds": 0,
+            "paidSuppliersAdmin": 678592,
+            "paidProduction": 381878,
+            "paidMaterials": 161818,
+            "subcontractPaid": 0,
+            "dividendPaid": 0,
+            "capex": 0,
+            "taxPaid": 0,
+            "interestPaid": 0,
+            "depositChange": 0,
+            "closingCash": 1243563,
+            "overdraftEnd": 0
+          },
+          "workingCapital": {
+            "receivablesOpen": 750625,
+            "receivablesEnd": 750625,
+            "payablesOpen": 346638,
+            "payablesEnd": 366785,
+            "closingInvValue": 4144,
+            "materialsStock": 1968
+          },
+          "retained": {
+            "opening": 87684,
+            "netProfit": 39443,
+            "dividendPaid": 0,
+            "closing": 127127
+          },
+          "balance": {
+            "fixedAssets": 1267732,
+            "capitalWip": 0,
+            "inventories": 4144,
+            "materialsValue": 107076,
+            "wipComponents": 0,
+            "materialsOnOrder": 0,
+            "receivables": 750625,
+            "cash": 1243563,
+            "deposit": 1150000,
+            "payables": 366785,
+            "taxDue": 29228,
+            "overdraft": 0,
+            "termLoan": 0,
+            "shareCapital": 4000000,
+            "sharePremium": 0,
+            "retainedEarnings": 127127
+          }
+        }
+      },
+      {
+        "quarterLabel": "2017 Q2",
+        "orders": [
+          [
+            1131,
+            664,
+            481
+          ],
+          [
+            184,
+            148,
+            84
+          ],
+          [
+            278,
+            170,
+            103
+          ]
+        ],
+        "sales": [
+          [
+            1000,
+            625,
+            325
+          ],
+          [
+            150,
+            150,
+            75
+          ],
+          [
+            252,
+            150,
+            103
+          ]
+        ],
+        "backlogEnd": [
+          [
+            159,
+            67,
+            168
+          ],
+          [
+            39,
+            4,
+            12
+          ],
+          [
+            0,
+            0,
+            0
+          ]
+        ],
+        "lostInternetDemand": [
+          26,
+          20,
+          0
+        ],
+        "productionPlanned": [
+          1400,
+          925,
+          500
+        ],
+        "productionActual": [
+          1400,
+          926,
+          500
+        ],
+        "productionScaled": false,
+        "rejects": [
+          54,
+          36,
+          20
+        ],
+        "grossStarts": [
+          1454,
+          962,
+          520
+        ],
+        "rejectRate": [
+          0.03697500000000001,
+          0.037700000000000004,
+          0.03794166666666667
+        ],
+        "assemblyWorkersOpen": 37,
+        "obsoleteUnits": 0,
+        "obsoleteByProduct": [
+          0,
+          0,
+          0
+        ],
+        "obsoleteProceeds": 0,
+        "machHoursNeeded": 3696.5,
+        "machHoursAvail": 3994.319999999999,
+        "assemblyHoursNeeded": 8249,
+        "assemblyHoursAvail": 20672.64,
+        "assemblyTiers": {
+          "basic": 8249,
+          "saturday": 0,
+          "sunday": 0
+        },
+        "mgmtBudgetEffective": 70,
+        "materialsNeeded": 4938,
+        "materialsShortfall": 0,
+        "componentWipEnd": [
+          0,
+          0,
+          0
+        ],
+        "spaceNeeded": 480,
+        "spaceAvail": 375,
+        "revenue": 1307425,
+        "cogs": 703792,
+        "grossProfit": 603633,
+        "adminExpenses": 567343,
+        "operatingProfit": 12097,
+        "netInterest": 2875,
+        "pbt": 14972,
+        "tax": 0,
+        "netProfit": 14972,
+        "cashEnd": 1271977,
+        "overdraftEnd": 0,
+        "overdraftLimit": 485159,
+        "unauthorised": false,
+        "dividendPaid": 0,
+        "sharePrice": 1.0697104901977141,
+        "marketValue": 4278842,
+        "investmentPerformance": 4278842,
+        "ipBreakdown": {
+          "navPerShare": 1.0355,
+          "sentiment": 1.033,
+          "marketValue": 4278842,
+          "cumDividends": 0,
+          "cumRepurchases": 0,
+          "cumIssues": 0
+        },
+        "stars": [
+          2.3613002232142852,
+          2.2721819196428577,
+          1.9549758184523804
+        ],
+        "webStars": 2,
+        "failedVisitsPct": 0,
+        "carbonTonnes": 19.1,
+        "warnings": [
+          {
+            "severity": "warn",
+            "title": "Stock-out risk",
+            "detail": "~495 units of demand unmet (backlog after cancellations + lost internet sales). Produce more or temper demand (price/ads)."
+          },
+          {
+            "severity": "warn",
+            "title": "Factory space overflow",
+            "detail": "Need ~480 m² vs 375 m² usable. Excess materials/WIP stored externally at extra cost; new hires/machines may be capped."
+          },
+          {
+            "severity": "info",
+            "title": "Tax settled",
+            "detail": "Paid €29,228 of tax assessed at last Q4."
+          }
+        ],
+        "effectiveDecisions": {
+          "advCorp": [
+            10,
+            5,
+            10
+          ],
+          "advProd": [
+            [
+              5,
+              5,
+              10
+            ],
+            [
+              5,
+              5,
+              5
+            ],
+            [
+              5,
+              5,
+              5
+            ]
+          ],
+          "prices": [
+            [
+              325,
+              490,
+              700
+            ],
+            [
+              335,
+              490,
+              725
+            ],
+            [
+              375,
+              590,
+              850
+            ]
+          ],
+          "deliveries": [
+            [
+              1000,
+              625,
+              325
+            ],
+            [
+              150,
+              150,
+              75
+            ],
+            [
+              250,
+              150,
+              100
+            ]
+          ],
+          "takeImprovement": [
+            false,
+            false,
+            false
+          ],
+          "rd": [
+            25,
+            15,
+            15
+          ],
+          "assemblyTimes": [
+            115,
+            165,
+            325
+          ],
+          "premium": [
+            0,
+            0,
+            0
+          ],
+          "subcontract": [
+            0,
+            0,
+            0
+          ],
+          "agentsEU": {
+            "want": 3,
+            "support": 10,
+            "commission": 7
+          },
+          "distNafta": {
+            "want": 1,
+            "support": 8,
+            "commission": 6
+          },
+          "distNet": {
+            "support": 9,
+            "commission": 5
+          },
+          "matSpot": 5,
+          "matM3": 0,
+          "matM6": 0,
+          "maintenance": 20,
+          "shift": 2,
+          "ports": 5,
+          "webDev": 15,
+          "hire": 4,
+          "train": 0,
+          "wage": 1200,
+          "mgmtBudget": 70,
+          "trainingDays": 0,
+          "shares": 0,
+          "dividend": 0,
+          "termLoan": 0,
+          "termDeposit": 0,
+          "machinesBuy": 0,
+          "machinesSell": 0,
+          "factoryExt": 0,
+          "insurance": 1,
+          "infoMarket": true,
+          "infoCompetitors": true
+        },
+        "details": {
+          "income": {
+            "revenue": 1307425,
+            "cogs": 703792,
+            "grossProfit": 603633,
+            "adminExpenses": 567343,
+            "depreciation": 24193,
+            "operatingProfit": 12097,
+            "interestReceived": 2875,
+            "interestPaid": 0,
+            "pbt": 14972,
+            "taxAssessed": 0,
+            "netProfit": 14972
+          },
+          "adminBreakdown": [
+            {
+              "label": "Advertising",
+              "value": 75000
+            },
+            {
+              "label": "Agents & distributors",
+              "value": 143289
+            },
+            {
+              "label": "Internet service provider",
+              "value": 13117
+            },
+            {
+              "label": "Sales office",
+              "value": 15168
+            },
+            {
+              "label": "Guarantee servicing",
+              "value": 6972
+            },
+            {
+              "label": "Product development (R&D)",
+              "value": 55000
+            },
+            {
+              "label": "Website development",
+              "value": 15000
+            },
+            {
+              "label": "Personnel department",
+              "value": 17000
+            },
+            {
+              "label": "Machine maintenance",
+              "value": 6800
+            },
+            {
+              "label": "Purchasing & warehousing",
+              "value": 60092
+            },
+            {
+              "label": "Business intelligence",
+              "value": 12500
+            },
+            {
+              "label": "Credit control",
+              "value": 2830
+            },
+            {
+              "label": "Insurance premiums",
+              "value": 8274
+            },
+            {
+              "label": "Management salaries",
+              "value": 70000
+            },
+            {
+              "label": "Factory rates & fixed",
+              "value": 10000
+            },
+            {
+              "label": "Transport",
+              "value": 56300
+            },
+            {
+              "label": "Decommissioning",
+              "value": 0
+            }
+          ],
+          "cashFlow": {
+            "openingCash": 1243563,
+            "collected": 1307425,
+            "interestReceived": 2875,
+            "loanDrawn": 0,
+            "shareCash": 0,
+            "obsoleteProceeds": 0,
+            "assetProceeds": 0,
+            "paidSuppliersAdmin": 708963,
+            "paidProduction": 381878,
+            "paidMaterials": 161818,
+            "subcontractPaid": 0,
+            "dividendPaid": 0,
+            "capex": 0,
+            "taxPaid": 29228,
+            "interestPaid": 0,
+            "depositChange": 0,
+            "closingCash": 1271977,
+            "overdraftEnd": 0
+          },
+          "workingCapital": {
+            "receivablesOpen": 750625,
+            "receivablesEnd": 750625,
+            "payablesOpen": 366785,
+            "payablesEnd": 386983,
+            "closingInvValue": 2492,
+            "materialsStock": 2030
+          },
+          "retained": {
+            "opening": 127127,
+            "netProfit": 14972,
+            "dividendPaid": 0,
+            "closing": 142099
+          },
+          "balance": {
+            "fixedAssets": 1243539,
+            "capitalWip": 0,
+            "inventories": 2492,
+            "materialsValue": 110449,
+            "wipComponents": 0,
+            "materialsOnOrder": 0,
+            "receivables": 750625,
+            "cash": 1271977,
+            "deposit": 1150000,
+            "payables": 386983,
+            "taxDue": 0,
+            "overdraft": 0,
+            "termLoan": 0,
+            "shareCapital": 4000000,
+            "sharePremium": 0,
+            "retainedEarnings": 142099
+          }
+        }
+      }
+    ],
+    "finalState": {
+      "quarterLabel": "2017 Q2",
+      "seasonIndex": 1,
+      "machines": 4,
+      "machineEfficiency": 93.09999999999997,
+      "machineValue": 943538.9451477538,
+      "assemblyWorkers": 37,
+      "factoryArea": 500,
+      "landUnused": 300,
+      "machinesPipeline": 0,
+      "workersPipeline": 4,
+      "traineesPipeline": 0,
+      "factoryExtPipeline": 0,
+      "agentsPipeline": 0,
+      "portsPipeline": 5,
+      "subcontractPipeline": [
+        0,
+        0,
+        0
+      ],
+      "subcontractPipelineVal": [
+        0,
+        0,
+        0
+      ],
+      "subcontractPayable": 0,
+      "matPipeline3": 0,
+      "matPipeline6": 0,
+      "materialsStock": 2030,
+      "componentWipUnits": [
+        0,
+        0,
+        0
+      ],
+      "componentWipValue": [
+        0,
+        0,
+        0
+      ],
+      "productStocks": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          5
+        ]
+      ],
+      "backlog": [
+        [
+          159,
+          67,
+          168
+        ],
+        [
+          39,
+          4,
+          12
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "agentsEU": 3,
+      "distNafta": 1,
+      "distNet": 1,
+      "ports": 5,
+      "cash": 1271976.8981043005,
+      "termDepositAmt": 1150000,
+      "receivables": 750625,
+      "payables": 386982.6499999999,
+      "taxDue": 0,
+      "termLoanAmt": 0,
+      "shareCapital": 4000000,
+      "shareCapYearStart": 4000000,
+      "sharesIssuedThisYear": 0,
+      "sharesRepurchasedThisYear": 0,
+      "retainedEarnings": 142099.3543052795,
+      "sharePrice": 1.0697104901977141,
+      "machineryBoughtThisYear": 0,
+      "corpImage": [
+        10,
+        5,
+        10
+      ],
+      "webImage": 15,
+      "stars": [
+        2.3613002232142852,
+        2.2721819196428577,
+        1.9549758184523804
+      ],
+      "rdProgress": [
+        150,
+        90,
+        90
+      ],
+      "cumDividends": 0,
+      "cumRepurchases": 0,
+      "cumIssues": 0,
+      "taxableCarryforward": 54415.27096715616,
+      "improvementsAvailable": [
+        true,
+        true,
+        true
+      ],
+      "priorWage": 1200,
+      "borrowingPower": 1644370.549868816,
+      "sharePremium": 0,
+      "finishedGoodsValue": 2491.8857532244,
+      "productFGValue": [
+        0,
+        275.6089084444975,
+        2216.2768447799026
+      ],
+      "materialsValue": 110449.27530000001,
+      "matPipeline3Val": 0,
+      "matPipeline6Val": 0,
+      "buildingValue": 250000,
+      "capitalWip": 0,
+      "overdraft": 0,
+      "mgmtBudgetEffective": 70,
+      "mgmtBudgetPending": null
+    }
+  }
+}

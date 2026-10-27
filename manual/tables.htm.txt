@@ -1,0 +1,572 @@
+
+ 
+
+ 
+  GMC 2012 Tables 
+  
+  
+  
+
+ .main {padding:40px 60px; }
+ ol{margin-top:2px; margin-bottom:5px;}
+   body{font:13px "Arial"; background: #EBF4EA;}
+
+  table{border: 1px outset; border-spacing:1px; background-color:#666666;
+        width: 500px; margin:20px;}
+
+ table.shallow{line-height: 98%;}
+
+     th{text-align:left;   font-weight:bold; color:#036; background:#FFFDDA;
+        padding:5px;}
+   th.c{text-align:center;}
+   th.n{text-align:center; font-weight:bold; color:#036; background:#B7D787;}
+   th.b{text-align:center; font-weight:bold; color:#036; background:#E0EDC5;}
+
+
+     td{text-align:center; background:#FFFDED; padding:5px;}
+   td.l{text-align:left;}
+
+  
+ 
+
+
+
+ 
+
+ 
+  G LOBAL  M ANAGEMENT  C HALLENGE  
+
+  Tables of parameters and costs 
+
+  
+   Demographic data             
+   Marketing costs              
+   Agents and distributor costs 
+   Internet costs               
+ 
+  
+   Manufacturing parameters       
+   Maintenance costs              
+   Machine hours per shift        
+   Valuation of rejected products 
+   Guarantee servicing charges    
+   Production costs              
+ 
+  
+   Container capacity                
+   Distribution parameters           
+   Warehouse and purchasing costs    
+   Calculation of average stock etc. 
+ 
+  
+   Personnel costs              
+   Operatives hours per quarter 
+   Minimum hours and pay        
+ 
+  
+   Plant and equipment costs 
+   Financial limits          
+   Financial parameters      
+   Inventory valuations      
+   Insurance options         
+   Customer credit periods   
+   Payments to creditors     
+ 
+  
+   Website capacity     
+   Space requirements   
+   Carbon footprint     
+  
+
+  Or, back to - 
+ Introduction             
+ The business environment 
+ Your management report   
+
+ 
+World Copyright 2011 -  EDIT 515 Ltd, UK 
+SDG – Simuladores e Modelos de Gestão, S.A.
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+  
+   Table 1 
+   Demographic data 
+  
+      Population (millions) GDP ($) per capita % Internet access 
+  European Union (EU)  501  34222 67.3 
+  North American free trade area (Nafta)    453  37315 65.7 
+  Other major economies                  3504    5390 23.8 
+ 
+ 
+ 
+
+
+
+ 
+ 
+   Table 2 Marketing costs 
+  
+   Information on market shares             € 5000 
+   Information on competitors' activities   € 7500 
+ 
+ 
+
+
+ 
+ 
+   Table 3 
+       Costs for agents (EU), distributors (Nafta) and internet distributor 
+  
+   Minimum quarterly support cost per agent   € 5000 
+   Setting up cost per agent             € 7500 
+
+ Termination cost per agent             € 5000 
+ 
+ 
+
+ 
+ 
+   Table 4 Internet marketing costs 
+  
+   Service cost (based on internet sales value)   3% 
+   Initial joining fee to Internet Service Provider             € 7500 
+
+ Quarterly cost per website port             € 1000 
+
+ Cost of closing down an internet operation             € 5000 
+ 
+ 
+
+ 
+ 
+  Table 5   Manufacturing parameters 
+                              Product 1 Product 2 Product 3    
+  Minimum machining time per unit  60 min.   75 min.  120 min.  
+  Minimum assembly time per unit   100 min.  150 min.  300 min.  
+  Material content per unit          1 unit    2 units   3 units 
+ 
+ 
+
+
+ 
+ 
+    
+     Table 6 Maintenance costs 
+   
+    
+     Contracted maintenance per machine € 85 per hour 
+   
+    
+     Uncontracted breakdown repairs  
+       (over contracted hours per machine) € 175 per hour 
+   
+ 
+ 
+
+ 
+ 
+   
+   Table 7 
+   Maximum hours available per machine per quarter 
+                              relative to shift level worked 
+  
+   
+   Shift Level 
+   Maximum hours per quarter that each 
+      machine can work, accumulating hours 
+      to each successive level of shift 
+   Unskilled workers needed for each machine 
+  
+  1   576  4 
+  2  1068  8 
+  3  1602 12 
+ 
+ 
+
+ 
+ 
+  
+   Table 8 
+   Valuation of rejected products 
+  
+                          Product 1 Product 2 Product 3 
+  
+   
+   Scrap value per product unit € 40  € 80 € 120    
+  
+ 
+ 
+
+ 
+ 
+  
+   Table 9 
+   Guarantee servicing charges 
+  
+   
+                            Product 1 Product 2 Product 3 
+  
+   
+   Servicing charge per product unit € 60 € 150 € 250 
+  
+ 
+ 
+
+ 
+ 
+   
+   Table 10 Production costs 
+  
+  Cost of supervision per shift      € 12,500 
+  Production overheads, per machine €   3500 
+  Machine running cost per hour      €      8 
+  Production planning cost per unit €      1 
+  Variable cost of inspection per unit €  1 
+ 
+ 
+
+
+
+ 
+ 
+   
+     Table 11 
+     Container capacity 
+   
+    
+                               Product 1 Product 2 Product 3 
+   
+    
+    Container capacity in product units    500        250        125     
+   
+  
+   Note:  mixed loads may be carried 
+  
+ 
+ 
+
+
+
+ 
+ 
+  Table 12   Distribution parameters 
+
+  Daily all-in hire cost of container and tractor € 650  
+  Distance to Nafta shipment port                  250 km 
+  Cost of container hire across North Atlantic          € 8000 
+ Distance to internet distribution agent                  150 km 
+ Legal distance limit per day on each vehicle                  400 km 
+
+ 
+ 
+
+
+
+ 
+ 
+   Table 13 Purchasing and warehousing 
+   Quarterly cost of purchasing administration             € 7,500 
+   Cost of unplanned material purchases                    spot price  plus  10% 
+   Cost of premium materials purchases                     spot price  plus  50% 
+   External storage cost per unit of material              € 2.50 
+   External storage cost per component unit                € 3.00 
+   Storage cost per product unit at EU agents and internet distributor   € 3.50 
+   Storage cost at Nafta distributor                       $US 4 
+ 
+ 
+
+ 
+ 
+    
+     Table 14 
+     Calculation of average quarterly stocks 
+   
+  
+      0.5 x (opening value + closing value) 
+  
+ 
+ 
+
+
+
+ 
+
+ 
+ 
+  Table 15 Personnel department costs 
+                   Recruitment Dismissal Training 
+
+  Skilled assembly worker   € 2000 € 5000 € 8500 
+  Unskilled machinist       € 1000 € 2000    n/a      
+  Staff training consultant € 1000 per day 
+ 
+ 
+
+
+ 
+ 
+   
+   Table 16 
+   Maximum hours per quarter for each production worker 
+      plus shift pay premiums 
+  
+   
+   Shift level 
+   Hours per worker at basic rate 
+   Hours per worker at Saturday rate (basic + 50%) 
+   Hours per worker at Sunday rate (basic + 100%) 
+   Machinists shift premium 
+  
+  1. Single 420 + 84 + 72  0  
+  2. Double 420 + 42 + 72 1/3 
+  3. Treble 420 + 42 + 72 2/3 
+ 
+ 
+
+ 
+ 
+  Table 17 Minimum hours and pay 
+  Unskilled machinist's minimum paid hours per quarter   360   
+  Skilled assembly worker's strike hours per week          48   
+  Skilled assembly worker's minimum hours per quarter     nil   
+  Skilled assembly worker's minimum hourly wage rate    €   9 
+  Ratio of unskilled : skilled rate of pay                   65 %  
+ 
+ 
+
+
+ 
+ 
+   
+   Table 18 
+   Plant and equipment  
+  
+  Cost per machine (€)     300,000 
+  Rate of depreciation per quarter  2.50 % 
+  Decommissioning charge (€)   60,000 
+  
+ 
+
+
+ 
+ 
+   
+   Table 19 
+   Calculation of financial limits 
+  
+  Authorised overdraft limit 
+  50% of property + inventories 
+         plus  90% of trade receivables  
+         less  100% of tax due and trade payables 
+  
+ 
+  Borrowing power 
+  50% of (share price x number of shares) 
+  less  term loans and bank overdraft limit 
+   
+ 
+   
+   Credit-worthiness  
+   borrowing power + cash and equivalents  
+  
+
+  
+   Note:  All of these values are taken from last quarter's management report 
+ 
+   If any of the limits calculated above are negative, then that limit is set to 0 
+  
+ 
+ 
+
+ 
+
+
+ 
+ 
+  Table 20                Financial parameters 
+  Credit control cost per unit sold in EU and Nafta   € 1   
+  Credit card rate per unit sold for internet sales    € 1           
+  Factory fixed expenses per quarter          € 20 per sq m 
+  Company tax rate per annum                           25 %      
+  
+  
+   Annual interest rates:   (based on the EU base rate announced last quarter) 
+    
+    Term deposits               base rate  
+    Authorised overdraft        base rate plus 4%  
+    Unauthorised overdraft      base rate plus 10% 
+   Term loans    Fixed annual rate of 10% 
+
+ 
+ 
+
+ 
+ 
+  
+   Table 21 
+   Inventory valuations 
+  
+   
+   Materials stock  90% of the lowest of 
+      the spot, 3-month and 6-month prices quoted last quarter (converted into euros), 
+       times the number of units in stock and on order 
+  
+ 
+   
+   Component stocks 
+    These are valued at purchase cost, 
+     the ranges of which are shown in last quarter's management report. 
+     (the actual costs can be derived by interpolation using the percentages of 
+     premium materials in each product)
+    
+  
+
+   
+   Product stocks For each product, 110% of the total cost calculated as:
+   
+    The material content, valued as above but adjusted for premium material usage; 
+    plus  (65% of the basic wage rate + the % shift premium, if any) x 4 times the machining time; 
+    plus  the basic skilled wage rate times the assembly time for the product 
+  
+  Note:  If any product stock is brought forward from the 
+   quarter before last, then the valuation will use the weighted average 
+   of the opening stocks plus new deliveries. 
+  
+ 
+ 
+
+ 
+ 
+ 
+  
+   Table 22 
+   Insurance Options 
+  
+  Insurance Plan Number Primary Risk  Insurance Premium 
+  0      100 %   no insurance  
+  1      0.1 %   0.60 %   
+  2      0.2 %   0.35 %   
+  3      0.3 %   0.20 %   
+  4      0.4 %   0.10 %   
+  
+     Note:  The monetary value of the primary risk is calculated as: 
+ the quoted percentage of non-current assets and inventories,  
+ taken from last quarter's balance sheet 
+
+ 
+ 
+
+ 
+ 
+   Table 23 Target customer credit periods 
+  
+   Internet   0 days (credit card) 
+   EU agents             60 days 
+
+ Nafta distributors             90 days 
+ 
+ 
+
+ 
+ 
+   
+   Table 24 
+   Timing of payments to creditors 
+  
+   
+   EXTERNAL COST ITEMS ONLY 
+        (internal costs and pay omitted)  
+   For goods delivered, or services provided 
+        next quarter the charged amount will be paid as follows - 
+  
+       Next quarter    Quarter after next 
+  Advertising                     100 % 
+  Internet Service Provider     100 %    
+  Agents and distributors       100 %            
+  Guarantee servicing             100 % 
+
+  Web-site development            100 % 
+  Personnel costs               100 %   
+  Maintenance                     100 % 
+   Warehousing costs               100 % 
+  Business intelligence           100 % 
+  Insurance                    100 %    
+  Miscellaneous overheads       100 %   
+
+  Materials and components *     50 %  50 %  
+  Hired transport costs           100 % 
+
+  Capital expenditure          100 %    
+  Interest (paid or received) 100 %    
+
+    
+     *  All materials  and components  ordered next quarter
+    will be paid 50% next quarter and 50% in the quarter after next.  
+    The second payment will not be affected by any change in the exchange rate in the meanwhile.
+   
+ 
+ 
+
+
+ 
+ 
+ 
+  
+   Table 25 
+   Website capacity 
+  
+  
+    Note:  Demand on your web-site varies from day to day and also from hour to hour.  
+   If you are not able to provide a quick and efficient service to visitors at peak times, 
+   your marketing image can decline quite sharply.  
+   The capacity of your web-site (measured in visits per hour) 
+   depends on the number of ports that you have. 
+  
+
+  Number of ports in parallel  1  2  5  10  20  50   
+  'Theoretical' capacity      12 24 60 120 240 600 
+  Effective working capacity   2  7 31  81 190 537 
+ 
+ 
+ 
+
+
+ 
+ 
+   
+     Table 26 
+     Space requirements 
+   
+  Land utilisation (maximum) 80% 
+  Factory space utilisation (maximum) 75% 
+  Machining (per machine)        25 sq m 
+  Assembly (per assembly worker) 10 sq m 
+  Materials stock (per 1000 units) 5 sq m 
+  Work in progress stocks:         Product 1 Product 2 Product 3 
+  (sq m required per product unit)   0.25       0.5       1.0    
+ 
+ 
+
+ 
+ 
+   
+     Table 27 
+     Carbon footprint (CO2e) 
+   
+  Factory heat and light (per sq m )   50 kWh 9.50 kg 
+  Machining (per machine hour)         6 kWh  2.82 kg 
+  Assembly (per skilled hour worked)   1 kWh  0.47 kg 
+ 
+ 
+ 
+ 
+
+ 
+ 
+

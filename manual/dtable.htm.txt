@@ -1,0 +1,79 @@
+
+ 
+
+ 
+  Decision limits etc. 
+  
+   body{font: 11px "Arial"; color:#000; background: #EBF4EA; }
+
+  table{border: 1px outset; border-spacing:1px;    background-color:#666666;
+        width: 500px; line-height: 99%;}
+
+     th{text-align:left;   font-weight:bold; color:#036; background:#FFFDDA;
+        padding:3px 5px;}
+   th.c{text-align:center;}
+   th.n{text-align:center; font-weight:bold; color:#036; background:#B7D787;}
+   th.b{text-align:center; font-weight:bold; color:#036; background:#E0EDC5;}
+ 
+     td{text-align:center; background:#FFFDED; padding:3px 5px;}
+   td.l{text-align:left;}
+  
+ 
+
+
+
+ 
+ 
+ 
+   
+   Decisions 
+   Units 
+   Minimum 
+   Maximum 
+   Default 
+  
+
+  Advertising              €'000   0     99 repeat 
+  Product prices              euros     0    999 repeat 
+  Delivery to Europe 
+         Delivery to Nafta 
+         Delivery to Internet        number  -999 
+                                                               0 
+                                                             -999  9999 repeat 
+  Implement improvement       yes/no    0      1  0  
+  Product development      €'000   0     99 repeat 
+  Product 1 assembly 
+         Product 2 assembly 
+         Product 3 assembly          minutes 100 
+                                                             150 
+                                                             300    999 repeat 
+  Premium materials             %       0    100 repeat 
+  Subcontracting              number    0   9999  0  
+  Agents/distributors wanted  number    0     99 repeat 
+  Support payment          €'000   5     99 repeat 
+  Commission rate                %      0     99 repeat 
+  Materials to buy             '000     0     99  0  
+  Plant maintenance/machine    hours    0     99 repeat 
+  Shift level                 number    1      3 repeat 
+  Website ports               number    0     99 repeat 
+  Website development      €'000   0    999 repeat 
+  Assembly workers to recruit number   -9     99   0    
+  Assembly workers to train   number    0      9   0    
+  Assembly wage rate per hour  cents   900  9999 repeat 
+  Management budget        €'000  30    999 repeat 
+  Staff training consultant    days     0     90 repeat 
+  Share issue/repurchase   €'000 -999   999   0    
+  Dividend to pay                %      0     99   0    
+  Additional loan          €'000   0   9999   0    
+  Term deposit             €'000 -999  9999   0    
+  Machines to buy or sell     number    0     99 0 
+  Factory - build             sq. m.    0   9999 0 
+  Insurance plan              number    0      4 repeat 
+  Information wanted          yes/no    0      1 repeat 
+ 
+
+ 
+
+ 
+ 
+

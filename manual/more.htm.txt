@@ -1,0 +1,701 @@
+
+ 
+
+ 
+ GMC - Technical detail 
+ 
+ 
+
+ body{margin: 0; padding: 30px 40px 0 0;}
+
+ .main{padding:40px 60px; background: #e0f4ea; }
+ div#main p{margin: 8px 0;}
+ .detail{padding: 20px 30px; }
+   h2{margin: 0 0 10px;}
+ h3{margin: 12px 0  5px;} 
+    p{margin: 7px 0;}
+ div#main ul{margin-bottom: 15px;}
+ div#main li{margin-bottom: 10px;}
+table{font-size: 12px;}
+ 
+ 
+
+ 
+ 
+  G LOBAL  M ANAGEMENT  C HALLENGE  
+
+ Introduction 
+  
+   What is the challenge ? 
+   Your task     
+   How it works  
+   General points         
+   How to use this manual 
+  
+
+ The business environment 
+  
+   Economic background 
+   World events        
+  
+
+   Marketing 
+   Operations 
+   Personnel 
+   Finance 
+
+ Your management report 
+  
+    Decisions            
+    Resources employed     
+    Product data         
+    Financial statements 
+    Group information    
+  
+ 
+ The decision form 
+  
+    Screen example 
+  
+ Tables 
+
+ Guidance notes 
+
+ 
+World Copyright 2011 -  EDIT 515 Ltd, UK 
+SDG – Simuladores e Modelos de Gestão, S.A.
+ 
+ 
+ 
+ 
+
+ 
+  
+
+ Important detail on how to use this on-line manual 
+  The left hand 'frame' always contains a clickable contents list.  
+    The relevant part of the manual appears in the (scrollable) right hand frame, as here.
+   
+  When you choose one of the main sections (for example, The business environment), 
+    then the contents list changes in order to expand the choices for that section.
+  
+  The main parts of the manual are shown with a pale blue/green background. 
+    Within the manual there are hyperlinked cross-references 
+    to other, relevant parts of the manual.
+    
+   In addition, there are many links to additional pages - 
+  Guidance notes, which provide general help on various important topics,  
+     are shown with a pale yellow background. 
+  Detail notes, containing technical details (as here), 
+     are shown in boxes, or panels, with a pale blue/green background. 
+  Tables of various fixed parameters (eg costs)  
+  
+  These optional pages, replace the main (right hand) page.
+    Use the 'backspace' key (or browser 'Back' button) to retrace your selections.
+  
+  If you prefer, and if you have a large screen, 
+    you can open these additional pages in a new window, by right-clicking. 
+    You can then move and resize these windows as needed. 
+    They can be left on screen for reference, or  
+    you can exit them in the usual (X) way.
+  
+ Or, you can open any other page (eg Tables) in another 'tab' 
+   and switch to and from your main page and any other such pages.
+  
+  The manual is optimised for a 1024x768 screen. 
+    Toggling F11 maximises the useable area. Alternatively, 
+    you can temporarily remove one or more toolbars (eg the status bar).
+ 
+  Note that, currently, there is no keyword index to this manual.
+    However, you can search each of the main sections 
+    using your browser's search facility (Edit then Find, or use Ctrl+F).
+  
+ 
+ Back 
+ 
+ 
+ 
+
+ 
+ 
+ 
+  Important detail about Exchange Rates 
+
+  The exchange rate is quoted in € per US$: i.e. the price paid in euros for one US dollar.  
+    When the euro-cost of a dollar is falling you will be paying fewer euros per dollar 
+    hence the euro is strengthening and the dollar weakening, and  
+    you can expect to sell fewer products in the dollar area (all other things being equal). 
+    If the euro-cost of a dollar is rising the opposite effect occurs.
+  
+  The exchange rate quoted is fixed at the end of last quarter and 
+    will be used in exchange transactions throughout next quarter. 
+    The rate used last quarter (i.e. in the latest management report that you have) 
+    will have been quoted in the report for the quarter before last.
+  
+  The economic statistics are given in deseasonalised form, 
+    so that underlying economic trends can be deduced from them directly with no need to worry about smoothing.
+  
+ 
+  Back 
+ 
+ 
+
+ 
+ 
+ 
+  Important detail about Information 
+  Free information comprises - 
+    Prices which are quoted by company, product and sales area (Europe, Nafta and Internet). 
+    Total number of employees which includes unskilled machinists and skilled assembly workers. 
+    The basic wage rate is the rate for assembly workers decided by each company. 
+    Total number of agents (Europe) and distributors (Nafta) last quarter. 
+                  
+  
+  Information which must be paid for includes - 
+  Market shares: for each of your competitors,  
+    based on the number of  sales  made last quarter.
+  
+
+  Other company activities are: 
+     The figures for spending on advertising and product development are totals. 
+        There is no breakdown by product. 
+     The consumer assessment rating of the design quality of your own and your 
+        competitors' products takes the form of the award of 'stars', 
+        varying in number from five for a superlatively designed, technically advanced, 
+        well-made product; to one star for an obsolete, shoddily made product. 
+        This information is gathered from consumer panels and reflects the views of the 
+        general public. Consumer assessments should be viewed with a 
+        little caution as they come from an analysis of subjective discussion 
+        between small sample groups of consumers. 
+     An assessment rating, based on the same 5-star system) of 
+        the attractiveness, effectiveness and ease of use of your web-site 
+        (if you are trading on the Internet). 
+  
+  
+ 
+  Back 
+ 
+
+ 
+  
+ 
+  Important detail about Product Development 
+  Each quarter, the degree of success of your product development 
+    is shown at the bottom of the 'Products' section 
+    of your management report, by the words 'MAJOR', 'MINOR', or 'NONE'.
+  
+  You must have had a Major improvement reported before you can take one up. 
+    If you start the process to take one up without having had one reported, 
+    it goes ahead anyway and existing stocks are sold off, 
+    but there is no corresponding marketing advantage.
+  
+  A Major product improvement is only reported once. 
+    Whether or not you take it up immediately next quarter, 
+    your product development department will have started a new project,  
+    and it is up to you to remember if you have improvements in hand, not yet implemented.
+  
+  Major improvements which are not taken up immediately do not disappear. 
+    You can take them up in a future quarter. 
+    If you do not take them up soon, however, you are likely to find that 
+    rival companies seize the advantage by bringing similar improvements to the market before you.
+  
+  It is possible to leave a major improvement for so 
+    long that a second one is reported. In this case when you do 
+    take one up, you automatically take both with an increased marketing effect.
+  
+  Taking up a major improvement has no effect on any backlog of unfulfilled orders you may have.
+  
+  Minor improvements are a by-product of the research on the way to a major improvement, 
+    and do not interfere with the progress of that research. 
+  
+
+  The process of taking up a Major product improvement is as follows:
+  
+    Each quarter you 
+       decide  
+       the product development expenditure for each of your products. 
+    After a number of quarters this investment pays off and your product development 
+       department reports a Major product improvement for one of the products. 
+    Next quarter, or in some later quarter, 
+       you  decide   
+       to implement that improvement. It is important to weigh up the 
+       marketing benefits an improved product will bring against the 
+       potential loss of sales revenue in selling off obsolete stocks 
+       of old product cheaply, and that will depend on how much old 
+       stock you currently have in hand. 
+    Once you decide, at the beginning of next quarter, any stocks of that product 
+       are sold off at the  valuation price , 
+       outside the normal markets. 
+    Your production department begins to make the new product and marketing begins to sell it. 
+    Consumer assessment committees evaluate the new product and may revise its star rating. 
+  
+  Back 
+  
+ 
+
+ 
+ 
+ 
+  Important detail about Agents and Distributors 
+
+  If you have no agents or distributors working for you, then you will receive 
+    no orders from the European or Nafta markets. 
+    If you wish to appoint some, then you must decide one quarter in advance 
+    how many agents or distributors you want to try to appoint, 
+    and what support and commission you are offering, so that the terms are clear 
+    before they join your network.
+    The key for successfully appointing and retaining them is both the level of 
+    support and commission they receive.
+  
+  Reduction in the number of agents you have must also be notified 
+    one quarter in advance.
+  
+  There are fees to be paid 
+    for  recruiting , and 
+    for  closing down  agents 
+    and distributors.
+  
+  The same should apply to internet operations, but you only need one distribution agent. 
+    The agent is appointed automatically when you start to operate on the internet, 
+    and should you close down your internet operation he will be dismissed.
+  
+  If you wish to start an internet operation for the first time, 
+    you must decide how many internet ports your web-site will operate. 
+    Making this decision will signify the start of your operation, via 
+    a web-hosting Internet Service Provider (ISP). 
+    A distributor will be recruited automatically, and
+    orders should begin to flow in the quarter after next.
+  
+  Starting an internet operation incurs a substantial 
+    joining fee , and also, at least, a  
+    minimum support  payment to the distributor.
+  
+  Closing an Internet operation requires one quarter's notice, and 
+   is signalled by reducing the number of ports to zero.
+  
+  Commission paid to agents in the European market is based on the value of orders received. 
+    Distributors in Nafta are paid commission based on the value of sales made. 
+    Your internet distribution agent is also paid a percentage of the value of sales. 
+    Agents and distributors are sensitive to the rewards they receive 
+    compared to your internet operation. If they feel that the internet 
+    operation is competing against them unfairly and undermining 
+    their profitability then they are likely to leave your organisation. 
+    This situation can be controlled by the level of commission paid.
+  
+  The capacity of your web-site to handle potential customers 
+    at peak times is critical to your  marketing image . 
+    People who can't access your web-site quickly, 
+    because of a lack of capacity, will simply go elsewhere. 
+    Statistics about your site are available to help you monitor its performance. 
+    Adding extra ports to an existing system will only have a partial impact 
+    on the number of orders received in the quarter they are added.
+  
+ 
+  Back 
+ 
+ 
+
+ 
+ 
+ Important detail about Internet Operations 
+
+ Starting on the Internet 
+ If you want to start trading on the internet for the first time,  
+   you must set up your operation one quarter in advance,  
+   by deciding on how many ports you want. 
+   There is a  joining fee  
+   when you make this decision for the first time. 
+   Your system will then be available to use from 
+   the beginning of the quarter after next.
+ 
+
+ During this preliminary quarter, you also appoint a distributor and 
+   you should  decide  
+   on a support payment, otherwise the minimum will apply. 
+   There is also a  cost  
+   of setting up your distributor.
+ 
+
+ You will also need to design and develop your web-site software. 
+   This also takes one quarter, and so you must decide on development costs 
+   when you decide what capacity you want.
+ 
+ 
+ Website capacity 
+ Deciding on the number of ports to have is not easy, because 
+   demand on your web-site will vary considerably from day to day, and 
+   also throughout the day. 
+   If you are not able to give quick and efficient service to visitors 
+   at peak times your marketing image may decline quite sharply. 
+  
+
+ Adding a port to your system means adding capacity 24 hours per day.  
+   A single port operating on its own is much less able to handle the varying 
+   web-site traffic than a system of multiple ports. 
+   For example, a realistic average capacity for a single port is only 
+   about one fifth of the capacity it would have if traffic were steady. 
+   But, as the number of ports is increased, the capacity rises 
+   more quickly because more ports allow more effective use. 
+   With a large number of ports the average approaches the maximum.
+ 
+ The following table gives a guide to the link between ports and service. 
+ 
+
+ 
+ Number of parallel ports 
+      1  2  5  10  20  50 
+ Theoretical average capacity  
+                                   (number of visits per hour) 
+     12 24 60 120 240 600 
+ Practical working capacity 
+                                   (number of visits per hour) 
+      2  7 31  81 190 537 
+ 
+
+ If you wish to close down your internet operation, you should set the 
+   number of ports to zero. As you must give one quarter's notice of closure,  
+   your existing ports will continue to function until the end of next quarter. 
+   You must also pay  closing down fees  
+   to both your ISP and distributor. 
+ 
+ Back to  Marketing  or  Operations 
+ 
+ 
+
+ 
+ 
+  Important detail about Recruitment 
+  Because of the time taken to advertise for, and interview workers, 
+    recruits will not begin work until the beginning of the quarter after next. 
+    The  cost of recruitment  
+    includes the costs of advertising and interviewing expenses.
+  
+
+ As an alternative to recruitment of experienced people, 
+   you can train unskilled unemployed people to the standard needed for assembly. 
+   Training takes place in the company's own training school at the factory. 
+   This limits the number that can be trained to nine per quarter. 
+   After decisions to train people have been taken, 
+   they are brought in from the local unemployed labour pool 
+   at the beginning of next quarter, complete the course 
+   and become available to work at the beginning of the quarter after next. 
+   The  cost of training  
+   covers the trainees' wages, materials and training-staff. 
+   Training people is more expensive than recruiting them directly, 
+   but it ensures that you get the number you want, and that they stay 
+   and work for you for at least one quarter after their training is complete.  
+  
+
+ Skilled workers can be dismissed by making the appropriate decision. 
+   The decision to dismiss implies that notice is given 
+   at the beginning of next quarter, and that the workers continue to work 
+   for the remainder of the quarter before leaving at the end of it. 
+   Those who are dismissed are paid  compensation ). 
+   Dismissals tend to make the remaining workers restive, 
+   and demotivated.
+  
+
+ The same general causes which influence people to leave for other companies 
+   will also create discontent among those skilled workers who remain, 
+   possibly leading to industrial unrest and strikes in the assembly shop. 
+   Official strike notice from the trade union is given in one quarter, 
+   determining the length of the strike (in weeks), which then takes place at the 
+   beginning of the next quarter regardless of any changes you may make 
+   to improve wages and conditions, and involves all your skilled workers. 
+   Unskilled workers do not belong to the same trade union 
+   and are content to stay at work while benefiting from any wage increases 
+   or improvements which may be won by the skilled workers.
+  
+
+ When assembly workers take industrial action the total number of hours 
+   that can be worked is reduced by 48 hours per person, per strike-week 
+   (thirty-five hours basic, plus seven hours on Saturdays and six hours on Sundays).
+  
+
+ Absenteeism can also reduce the number of hours of work available. 
+   In the case of unskilled workers this has no apparent effect, 
+   but it does affect skilled workers, and hours can be lost in the assembly shop 
+   because of genuine sickness, disaffection caused by too much over-time, 
+   and low motivation brought on by poor quality products or poor management.
+  
+
+ Assembly workers may become ill, or suffer serious accidents 
+   so that they are off work for a significant length of time. 
+   When this happens you continue to pay them as normal, but their position 
+   is temporarily filled with skilled workers from an agency 
+   who charge twice the assembly wage rate. 
+   The cost of the agency workers can be covered by insurance.
+  
+
+ Reductions in the number of machines or in the shift 
+   level means that you will have surplus unskilled labour. Because 
+   of a trade union agreement, only half of these workers can be 
+   dismissed at the beginning of next quarter. Any surplus still 
+   remaining are given labouring jobs around the factory, and paid 
+   the same average earnings as those workers who are still manning 
+   the machines. Half of this surplus will then be dismissed at 
+   the beginning of the quarter after next, and so on until all 
+   have gone, or an increase in the number of machines or shift 
+   level enables them to go back to productive work again. 
+   Unskilled workers who are forced to leave are paid 
+   compensation . 
+  
+  Back 
+  
+ 
+
+ 
+ 
+ 
+ 
+ Important detail about Pay 
+ Assembly workers and machine operators are paid up to a 
+    maximum number of hours  per person 
+   at basic rates of pay. 
+   Thereafter the rate is increased for additional hours worked 
+   on compulsory overtime on Saturdays which is paid at 50% more than the basic rate, 
+   and on Sundays which is paid at 100% more than the basic rate. 
+   No decision needs to be taken about overtime working, 
+   which is applied automatically at a lower management level. 
+   Basic hours are applied first, then Saturday working, then Sunday working 
+   up to the limits shown. 
+   After that no further work can be done, even though your delivery schedule 
+   may call for more products to be made than your labour force can produce. 
+ 
+
+ The skilled assembly workers operate only a single shift, 
+   but they can work overtime up to the limit shown in Table 16. 
+   They are paid only at the single shift rate. 
+   There is no guaranteed minimum number of hours worked for skilled workers, 
+   but a trade union agreement requires that the average weekly earnings 
+   of skilled employees (based on the number of weeks out of twelve worked) 
+   should not be less than that paid to unskilled workers, 
+   and any deficiency that occurs is made up by a 'parity payment'.
+ 
+
+  Unskilled workers are paid at a basic rate, which is set as a 
+     fixed proportion  
+    of the basic skilled rate, as agreed with the trade union.
+ 
+ If you decide to work more than one shift, all of your machines are 
+   manned fully on all of the shifts, and the rate of pay for all unskilled 
+   workers is increased by a  shift premium . 
+ 
+
+ Table 16 sets out the maximum hours that each person can work, and the rates paid. 
+   Unskilled workers are paid for hours worked, but each quarter there is a 
+    guaranteed minimum  number of hours work per person. 
+   Unskilled workers are paid when machines are broken down and under repair, 
+   but not for maintenance, which is carried out when the factory is not working.
+ 
+
+ Any increase in your management budget will be implemented at the beginning of next quarter, 
+   but a decrease requires one quarter's advance notice and is limited to 10% in any one quarter. 
+ 
+ 
+  Back 
+ 
+ 
+
+ 
+ 
+  Important detail about Finance 
+
+  At the beginning of next quarter your bank account (or overdraft) 
+   as shown on last quarter's balance sheet will be immediately adjusted 
+   to take account of any cash movements resulting from new decisions 
+   involving share transactions, long term loans, term deposits and 
+   any dividends paid.
+  
+
+  Term deposits earn interest at the European Central Bank rate 
+    as announced in last quarter's management report. 
+    The interest is credited to your bank account at the end of next quarter. 
+  
+
+  The flow of cash into and out of your company for all other reasons 
+   is assumed to occur at a steady rate throughout the rest of the quarter.
+   
+
+  The maximum  authorised overdraft  
+   available to you next quarter is shown in your management report for last quarter. 
+  
+
+  
+   Interest due on an overdraft, if any, is calculated from both the revised 
+   opening balance (as above) and the level of overdraft at the end of next quarter. 
+   A different  interest rate  could apply in each case, 
+   depending on whether the level is above or below your overdraft limit.   
+  
+
+ Any overdraft at the end of next quarter will include the interest charged, and this 
+   may sometimes take your overdraft above your authorised limit, even if the interest 
+   was charged at the lower rate. 
+ 
+
+ The total medium term loan (or addition to an existing loan) 
+   is limited to your  borrowing power . 
+   This varies from quarter to quarter and depends on the value of your company's shares 
+   on the Stock Exchange, the amount of any existing term loans 
+   and overdraft limit which your bank has set. 
+   Your borrowing power for next quarter is shown in last quarter's management report.
+ 
+
+ Interest on term loans is at a  fixed rate   
+   and is calculated from the first day of each quarter. 
+ 
+
+ 
+    Back 
+ 
+
+ 
+
+ 
+ 
+  Important detail about Insurance 
+
+  When disruption does occur, it is shown in the management report 
+    in the following ways -
+  
+  
+   Physical loss of material and product stocks 
+     are reported directly in the report.  
+
+   Loss of machine time and assembly time 
+     are shown under breakdown time and absenteeism, respectively 
+     and are not separated from routine minor problems.  
+
+   Dangerous or ecologically unsound products are included 
+     in guarantee servicing, and are usually large quantities.  
+  
+
+  If disruption occurs in any of the above cases, the symbol "!" will 
+   occur alongside the relevant figure. 
+  
+
+  The total notional cost of disruption is combined into 
+    a single claims figure each quarter and 
+    if the total claim is greater than the value 
+    you have decided to underwrite yourself, 
+    you will then be paid the difference, immediately. 
+  
+
+  If you have no insurance cover you cannot make a claim. 
+  
+  Insurance premiums are calculated as a percentage of the total value of  
+    your non-current assets and inventories. 
+    This percentage varies with the amount of primary risk that you are 
+    prepared to accept yourself, before a claim is passed to the insurance company. 
+  
+  The larger the proportion of the risk that you are prepared to take on, 
+    the lower the premium will be on the remaining asset value to be covered. 
+  
+  There are  four plans  
+    in which the proportion of primary risk which your company takes on itself 
+    rises successively from 0.1% to 0.4%, and the corresponding percentage 
+    premium which the insurance company will charge to cover the remaining asset value.
+  
+ 
+    Back 
+ 
+
+
+ 
+ 
+ 
+  More detail about balance sheet definitions 
+
+ Machinery 
+   The value of machines shown in the balance sheet for the quarter before last,  
+   less the depreciated value of any machines sold last quarter, all  
+   reduced by the quarterly  rate of depreciation ; 
+   plus the value of any machines purchased last quarter. 
+
+ Product inventories 
+   The numbers of each product held in the area warehouses multiplied by 
+   their  valuations . 
+ 
+ Component inventories 
+   The numbers of each component held in stock, or on order, multiplied by 
+   their  purchase costs .
+ 
+ Materials inventory 
+   The total number of units held and on order, multiplied by a percentage (Table 21) 
+   of the lowest of the spot, 3-month or 6-month price for material next quarter 
+   given in the management report for last quarter. 
+   This price, in dollars, is converted to euros using the exchange rate quoted last quarter.
+
+ Cash and cash equivalents and overdraft 
+   Cash and cash equivalents includes any term deposit, even if you have an overdraft. 
+   Note that any overdraft at the end of a quarter will include the interest charged 
+   for that quarter.  As a result, the overdraft 
+    may slightly exceed your authorised limit, but without penalty. 
+
+
+ Trade payables 
+   The cost of advertising, guarantee servicing, website development,
+   maintenance, warehousing, business intelligence and hired transport, 
+   plus 50% of materials purchased (see  Table 24 ).
+
+ 
+ Share premium account 
+   When shares are issued at a price above the €1 par value, 
+   the corresponding surplus is added to this reserve account. 
+   Conversely, when shares are repurchased, the total premium paid 
+   above par value is deducted from it.
+   This reserve cannot be used for paying dividends.
+ 
+     
+  back 
+  
+ 
+ 
+ 
+ More detail about accounting practice 
+
+  Cash collection and credit control  
+  have associated costs which are a fixed amount per unit of product sold
+    both for European and Nafta agents and also 
+    for servicing credit card payments by internet customers 
+    ( see table 20 ).
+  
+
+  Sales 
+  made by your company are invoiced to customers for payment. 
+    Amounts due, but not paid before the end of a quarter 
+    are carried forward as  trade receivables  
+    on your balance sheet. 
+    Payments from the different markets are expected in full 
+    within the target periods given in Table 23. However not all 
+    customers pay promptly so that these targets are never quite met. 
+    This does not apply to internet customers 
+    who pay in full by credit card (see below).
+  
+
+  Purchases  
+  made by your company are either paid in the same quarter 
+    as the purchase was made, or in a later quarter, 
+    in which case the amount owed is carried forward in your Balance Sheet
+    as a liability ( trade payables ). 
+    Table 24 lists all types of purchase that can be made and the timing 
+    of these payments. 
+    Trade payables cannot be manipulated to assist your cash flow.
+  
+
+  Company tax  
+  is levied on  taxable profit  
+    at a rate given in  table 20 . 
+    The tax year is the same as the calendar year, 
+    and an  assessment of tax  
+    is made at the end of the fourth quarter. 
+    Any tax assessed is deducted immediately from the company's profit 
+    and entered as a liability on the balance sheet, where it remains 
+    until it is automatically paid in the second quarter of the following year. 
+    Any losses are accumulated, and offset against future taxable profits.
+  
+ 
+
+  
+ 
+ 

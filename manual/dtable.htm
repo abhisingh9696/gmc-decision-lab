@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+ <title>Decision limits etc.</title>
+ <style>
+   body{font: 11px "Arial"; color:#000; background: #EBF4EA; }
+
+  table{border: 1px outset; border-spacing:1px;    background-color:#666666;
+        width: 500px; line-height: 99%;}
+
+     th{text-align:left;   font-weight:bold; color:#036; background:#FFFDDA;
+        padding:3px 5px;}
+   th.c{text-align:center;}
+   th.n{text-align:center; font-weight:bold; color:#036; background:#B7D787;}
+   th.b{text-align:center; font-weight:bold; color:#036; background:#E0EDC5;}
+ 
+     td{text-align:center; background:#FFFDED; padding:3px 5px;}
+   td.l{text-align:left;}
+ </style>
+</head>
+
+
+
+<body>
+<div align="center">
+<table cellspacing="1">
+ <tr> 
+  <th class="n" width="40%">Decisions</th>
+  <th class="b" width="12%">Units</td>
+  <th class="b" width="16%">Minimum</td>
+  <th class="b" width="16%">Maximum</td>
+  <th class="b" width="12%">Default</td>
+ </tr>
+
+ <tr><th>Advertising             </th><td>&euro;'000</td><td>  0 </td><td>   99</td><td>repeat</td></tr>
+ <tr><th>Product prices             </th><td>euros  </td><td>  0 </td><td>  999</td><td>repeat</td></tr>
+ <tr><th>Delivery to Europe<br>
+         Delivery to Nafta<br>
+         Delivery to Internet       </th><td>number </td><td>-999<br>
+                                                               0<br>
+                                                             -999</td><td> 9999</td><td>repeat</td></tr>
+ <tr><th>Implement improvement      </th><td>yes/no </td><td>  0 </td><td>    1</td><td> 0 </td></tr>
+ <tr><th>Product development     </th><td>&euro;'000</td><td>  0 </td><td>   99</td><td>repeat</td></tr>
+ <tr><th>Product 1 assembly<br>
+         Product 2 assembly<br>
+         Product 3 assembly         </th><td>minutes</td><td>100<br>
+                                                             150<br>
+                                                             300 </td><td>  999</td><td>repeat</td></tr>
+ <tr><th>Premium materials          </th><td>  %    </td><td>  0 </td><td>  100</td><td>repeat</td></tr>
+ <tr><th>Subcontracting             </th><td>number </td><td>  0 </td><td> 9999</td><td> 0 </td></tr>
+ <tr><th>Agents/distributors wanted </th><td>number </td><td>  0 </td><td>   99</td><td>repeat</td></tr>
+ <tr><th>Support payment         </th><td>&euro;'000</td><td>  5 </td><td>   99</td><td>repeat</td></tr>
+ <tr><th>Commission rate            </th><td>   %   </td><td>  0 </td><td>   99</td><td>repeat</td></tr>
+ <tr><th>Materials to buy           </th><td> '000  </td><td>  0 </td><td>   99</td><td> 0 </td></tr>
+ <tr><th>Plant maintenance/machine  </th><td> hours </td><td>  0 </td><td>   99</td><td>repeat</td></tr>
+ <tr><th>Shift level                </th><td>number </td><td>  1 </td><td>    3</td><td>repeat</td></tr>
+ <tr><th>Website ports              </th><td>number </td><td>  0 </td><td>   99</td><td>repeat</td></tr>
+ <tr><th>Website development     </th><td>&euro;'000</td><td>  0 </td><td>  999</td><td>repeat</td></tr>
+ <tr><th>Assembly workers to recruit</th><td>number </td><td> -9 </td><td>   99</td><td>  0   </td></tr>
+ <tr><th>Assembly workers to train  </th><td>number </td><td>  0 </td><td>    9</td><td>  0   </td></tr>
+ <tr><th>Assembly wage rate per hour</th><td> cents </td><td> 900</td><td> 9999</td><td>repeat</td></tr>
+ <tr><th>Management budget       </th><td>&euro;'000</td><td> 30 </td><td>  999</td><td>repeat</td></tr>
+ <tr><th>Staff training consultant  </th><td> days  </td><td>  0 </td><td>   90</td><td>repeat</td></tr>
+ <tr><th>Share issue/repurchase  </th><td>&euro;'000</td><td>-999</td><td>  999</td><td>  0   </td></tr>
+ <tr><th>Dividend to pay            </th><td>   %   </td><td>  0 </td><td>   99</td><td>  0   </td></tr>
+ <tr><th>Additional loan         </th><td>&euro;'000</td><td>  0 </td><td> 9999</td><td>  0   </td></tr>
+ <tr><th>Term deposit            </th><td>&euro;'000</td><td>-999</td><td> 9999</td><td>  0   </td></tr>
+ <tr><th>Machines to buy or sell    </th><td>number </td><td>  0 </td><td>   99</td><td>0</td></tr>
+ <tr><th>Factory - build            </th><td>sq. m. </td><td>  0 </td><td> 9999</td><td>0</td></tr>
+ <tr><th>Insurance plan             </th><td>number </td><td>  0 </td><td>    4</td><td>repeat</td></tr>
+ <tr><th>Information wanted         </th><td>yes/no </td><td>  0 </td><td>    1</td><td>repeat</td></tr>
+</table>
+
+</div>
+
+</body>
+</html>
+

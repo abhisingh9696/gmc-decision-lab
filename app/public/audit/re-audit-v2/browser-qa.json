@@ -1,0 +1,57 @@
+{
+  "surface": "Managed local preview of the source published as hosted v2",
+  "checks": [
+    {
+      "name": "Q2 baseline matches CLI",
+      "result": "PASS",
+      "revenue": 1356375,
+      "netProfit": 131024,
+      "bankCash": 1032580
+    },
+    {
+      "name": "FX zero shows clamp and announcement without blank screen",
+      "result": "PASS",
+      "effective": 0.01
+    },
+    {
+      "name": "Ports zero closes NET after notice",
+      "result": "PASS",
+      "Q3NETOrders": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Live shared strategy search",
+      "result": "PASS",
+      "plans": 316,
+      "economicCases": 8,
+      "cashSafe": 206,
+      "modelSafe": 153
+    },
+    {
+      "name": "Candidate load and numerical match",
+      "result": "PASS",
+      "Q2Profit": 262896,
+      "terminalProxy": 7484165
+    },
+    {
+      "name": "Selected plan JSON download",
+      "result": "PASS"
+    },
+    {
+      "name": "75-field portal export and deferred management notice",
+      "result": "PASS"
+    },
+    {
+      "name": "Escape closes export dialog",
+      "result": "PASS"
+    },
+    {
+      "name": "Restore initial baseline inputs",
+      "result": "PASS"
+    }
+  ],
+  "consoleObservation": "Observed browser-extension metadata errors originate from chrome-extension content script; no application error established from those entries."
+}

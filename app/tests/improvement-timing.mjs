@@ -1,0 +1,10 @@
+import assert from 'node:assert/strict';
+import {baselineState,defaultDecisions,defaultEcon,forecastFromState} from '../dist-audit-engine.mjs';
+const s=baselineState();s.rdProgress[0]=61;s.improvementsAvailable[0]=true;
+const d=defaultDecisions();d.rd=[0,0,0];d.takeImprovement[0]=true;
+const x=forecastFromState(s,[d],[defaultEcon(1)]);
+assert.equal(x.finalState.improvementsAvailable[0],false);assert.equal(x.finalState.rdProgress[0],0);
+const off=structuredClone(d);off.takeImprovement[0]=false;
+const y=forecastFromState(s,[off],[defaultEcon(1)]);
+assert(x.reports[0].orders[0][0]>y.reports[0].orders[0][0]);
+console.log('PASS: same-quarter launch response and no repeated discovery without new R&D.');

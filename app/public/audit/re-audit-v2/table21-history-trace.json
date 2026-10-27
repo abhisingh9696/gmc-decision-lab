@@ -1,0 +1,192 @@
+[
+  {
+    "method": "multiplicative shift premium",
+    "file": "HstY15Q1.Xls",
+    "units": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "unitStandard": [
+      94.43976666666667,
+      162.14953333333332,
+      257.57930000000005
+    ],
+    "rawUnit": 47.45433333333333,
+    "expectedFG": 0.0,
+    "actualFG": 0.0,
+    "difference": 0.0,
+    "relativeDifference": null
+  },
+  {
+    "method": "multiplicative shift premium",
+    "file": "HstY15Q2(1).Xls",
+    "units": [
+      106.0,
+      82.0,
+      76.0
+    ],
+    "unitStandard": [
+      113.41391512662562,
+      186.31116358658457,
+      298.44174537987686
+    ],
+    "rawUnit": 49.27022587268994,
+    "expectedFG": 49980.96306639289,
+    "actualFG": 52942.0,
+    "difference": -2961.036933607109,
+    "relativeDifference": -0.05592982761526022
+  },
+  {
+    "method": "multiplicative shift premium",
+    "file": "HstY15Q3(1).Xls",
+    "units": [
+      146.0,
+      98.0,
+      88.0
+    ],
+    "unitStandard": [
+      122.4872455009401,
+      200.40615766854688,
+      321.4817365028203
+    ],
+    "rawUnit": 52.13537469782433,
+    "expectedFG": 65241.215631483174,
+    "actualFG": 69022.0,
+    "difference": -3780.7843685168264,
+    "relativeDifference": -0.05477651138067319
+  },
+  {
+    "method": "multiplicative shift premium",
+    "file": "HstY15Q4(1).Xls",
+    "units": [
+      97.0,
+      0,
+      36.0
+    ],
+    "unitStandard": [
+      136.98725587144625,
+      225.35451174289247,
+      360.8017676143387
+    ],
+    "rawUnit": 59.93386897404203,
+    "expectedFG": 28813.545334268787,
+    "actualFG": 30355.0,
+    "difference": -1541.454665731213,
+    "relativeDifference": -0.05078091470041879
+  },
+  {
+    "method": "multiplicative shift premium",
+    "file": "HstY16Q1(3).Xls",
+    "units": [
+      135.0,
+      9.0,
+      8.0
+    ],
+    "unitStandard": [
+      130.9089534883721,
+      213.19790697674424,
+      342.56686046511635
+    ],
+    "rawUnit": 54.40813953488372,
+    "expectedFG": 22379.50524473124,
+    "actualFG": 23568.0,
+    "difference": -1188.494755268759,
+    "relativeDifference": -0.05042832464650204
+  },
+  {
+    "method": "additive wage-rate shift premium",
+    "file": "HstY15Q1.Xls",
+    "units": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "unitStandard": [
+      94.43976666666667,
+      162.14953333333332,
+      257.57930000000005
+    ],
+    "rawUnit": 47.45433333333333,
+    "expectedFG": 0.0,
+    "actualFG": 0.0,
+    "difference": 0.0,
+    "relativeDifference": null
+  },
+  {
+    "method": "additive wage-rate shift premium",
+    "file": "HstY15Q2(1).Xls",
+    "units": [
+      106.0,
+      82.0,
+      76.0
+    ],
+    "unitStandard": [
+      118.54724845995895,
+      192.72783025325123,
+      308.7084120465435
+    ],
+    "rawUnit": 49.27022587268994,
+    "expectedFG": 51831.529733059564,
+    "actualFG": 52942.0,
+    "difference": -1110.470266940436,
+    "relativeDifference": -0.020975223205402793
+  },
+  {
+    "method": "additive wage-rate shift premium",
+    "file": "HstY15Q3(1).Xls",
+    "units": [
+      146.0,
+      98.0,
+      88.0
+    ],
+    "unitStandard": [
+      128.13391216760678,
+      207.46449100188022,
+      332.7750698361537
+    ],
+    "rawUnit": 52.13537469782433,
+    "expectedFG": 67724.28129952545,
+    "actualFG": 69022.0,
+    "difference": -1297.7187004745501,
+    "relativeDifference": -0.018801522709781637
+  },
+  {
+    "method": "additive wage-rate shift premium",
+    "file": "HstY15Q4(1).Xls",
+    "units": [
+      97.0,
+      0,
+      36.0
+    ],
+    "unitStandard": [
+      143.14725587144625,
+      233.0545117428925,
+      373.1217676143387
+    ],
+    "rawUnit": 59.93386897404203,
+    "expectedFG": 29942.668495413505,
+    "actualFG": 30355.0,
+    "difference": -412.3315045864947,
+    "relativeDifference": -0.013583643702404724
+  },
+  {
+    "method": "additive wage-rate shift premium",
+    "file": "HstY16Q1(3).Xls",
+    "units": [
+      135.0,
+      9.0,
+      8.0
+    ],
+    "unitStandard": [
+      137.0689534883721,
+      220.89790697674422,
+      354.88686046511634
+    ],
+    "rawUnit": 54.40813953488372,
+    "expectedFG": 23378.43052419762,
+    "actualFG": 23568.0,
+    "difference": -189.5694758023783,
+    "relativeDifference": -0.008043511362965772
+  }
+]

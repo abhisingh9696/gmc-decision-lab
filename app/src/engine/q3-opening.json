@@ -1,0 +1,135 @@
+{
+  "quarterLabel": "2016 Q3",
+  "seasonIndex": 2,
+  "machines": 4,
+  "machineEfficiency": 93.3,
+  "machineValue": 1044100,
+  "assemblyWorkers": 19,
+  "machinists": 24,
+  "factoryArea": 500,
+  "landUnused": 300,
+  "machinesPipeline": 0,
+  "workersPipeline": 0,
+  "traineesPipeline": 0,
+  "factoryExtPipeline": 0,
+  "agentsPipeline": 0,
+  "portsPipeline": null,
+  "subcontractPipeline": [
+    0,
+    0,
+    0
+  ],
+  "subcontractPipelineVal": [
+    0,
+    0,
+    0
+  ],
+  "subcontractPayable": 0,
+  "matPipeline3": 1,
+  "matPipeline6": 0,
+  "materialsStock": 332,
+  "componentWipUnits": [
+    0,
+    0,
+    0
+  ],
+  "componentWipValue": [
+    0,
+    0,
+    0
+  ],
+  "productStocks": [
+    [
+      198,
+      132,
+      112
+    ],
+    [
+      50,
+      39,
+      33
+    ],
+    [
+      0,
+      0,
+      0
+    ]
+  ],
+  "backlog": [
+    [
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0
+    ]
+  ],
+  "agentsEU": 3,
+  "distNafta": 1,
+  "distNet": 1,
+  "ports": 5,
+  "cash": 1051507,
+  "termDepositAmt": 1150000,
+  "receivables": 503393,
+  "payables": 242181,
+  "taxDue": 0,
+  "termLoanAmt": 0,
+  "shareCapital": 4000000,
+  "shareCapYearStart": 4000000,
+  "sharesIssuedThisYear": 0,
+  "sharesRepurchasedThisYear": 0,
+  "retainedEarnings": 18573,
+  "sharePrice": 0.9833,
+  "machineryBoughtThisYear": 0,
+  "corpImage": [
+    10,
+    5,
+    10
+  ],
+  "webImage": 30,
+  "stars": [
+    2,
+    2,
+    1
+  ],
+  "rdProgress": [
+    0,
+    0,
+    0
+  ],
+  "cumDividends": 0,
+  "cumRepurchases": 0,
+  "cumIssues": 0,
+  "taxableCarryforward": -43916,
+  "improvementsAvailable": [
+    false,
+    false,
+    false
+  ],
+  "priorWage": 1200,
+  "overdraftLimit": 467000,
+  "borrowingPower": 1500000,
+  "sharePremium": 0,
+  "finishedGoodsValue": 131971,
+  "productFGValue": [
+    36191.70613823958,
+    40625.61943554194,
+    55153.67442621847
+  ],
+  "materialsValue": 19885.85285285285,
+  "matPipeline3Val": 59897.147147147145,
+  "matPipeline6Val": 0,
+  "buildingValue": 250000,
+  "capitalWip": 0,
+  "overdraft": 0,
+  "mgmtBudgetEffective": 70,
+  "mgmtBudgetPending": 63
+}

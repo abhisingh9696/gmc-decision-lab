@@ -1,0 +1,1310 @@
+
+ 
+
+ 
+ GMC Management report 
+ 
+ 
+ 
+ 
+
+ .top{color: #016774;}
+
+ 
+ 
+
+ 
+
+ 
+  G LOBAL  M ANAGEMENT  C HALLENGE  
+
+ Introduction 
+
+ The business environment 
+
+   Marketing  
+   Operations 
+   Personnel  
+   Finance    
+
+
+  Your management report 
+  Decisions          
+  Resources employed 
+  
+   Physical resources   
+   Machines             
+   Materials            
+   Production employees 
+   Agents/distributors    
+   Transport              
+   Internet statistics    
+   Carbon footprint       
+  
+  Product data 
+
+  Financial statements 
+  
+   Administrative expenses 
+   Income statement     
+   Balance sheet        
+   Cash flow statement  
+  
+  Group information  
+  
+   Business intelligence 
+   Economic intelligence 
+   Business report       
+  
+ 
+  The decision form 
+
+  Tables 
+
+ 
+World copyright 2011 -  EDIT 515 Ltd, UK 
+SDG – Simuladores e Modelos de Gestão, S.A.
+ 
+ 
+ 
+
+ 
+  
+ THE MANAGEMENT REPORT 
+ YOUR COMPANY 
+ The first part of this report contains information 
+   solely about your company.  
+   It describes all the entries in your report 
+   and defines the arithmetic derivation of each number, where possible.   
+   It consists of: 
+ 
+   a copy of your decisions 
+   resource usage and availability statistics 
+   product statistics 
+   financial accounts 
+ 
+  
+
+ The  second part  gives information about all the companies in your group, 
+   plus information about the economy in which you operate.
+ 
+
+ On receipt of your management report, check that -
+ 
+  the copy you have received is for you, 
+  it has your group and company number on it, and  
+  it is for the correct quarter. 
+ 
+  If any of these are incorrect please 
+    contact the simulation controller as quickly as possible.
+ 
+
+ 
+ 
+ DECISIONS 
+ The first section of your report shows the decisions 
+   which were actually used (or in effect) last quarter. 
+   Normally these numbers are the same as the decisions you made, 
+   or tried to enter, but there are three ways in which they might differ.
+   Any such  difference  
+   will be marked by an appropriate symbol -
+  
+    + not entered (default values will have been used). 
+  * invalid (not possible because of the current state of your company). 
+  ! changed due to unforeseen circumstances (possible insurance claim). 
+ 
+ 
+
+ 
+ If a number is different, and there is no error indicator, 
+   you should contact the simulation controller immediately  
+   so that a check can be made against the decisions which you sent. 
+   If the number turns out to have been wrongly entered into the computer, 
+   then the appropriate action can be taken.
+ 
+  Note that it can only be corrected within an appropriate period, 
+    which will be communicated in advance by the simulation controller. 
+ 
+ 
+
+ The rest of the report gives you information about 
+   the state of your company and the simulation. 
+   It will either tell you what happened last quarter, 
+   the state of some parameters of your company now, 
+   or say something about next quarter. 
+   It also gives you information about your competitors and the economic 
+   environment. 
+ 
+
+ The remainder of this part of the manual examines 
+   each of the headings of the report in turn and 
+   explains how the corresponding figure was obtained.
+ 
+
+ 
+ 
+ RESOURCES EMPLOYED 
+ PHYSICAL RESOURCES (availability and usage)  
+ 
+  Space 
+  This section shows the utilisation of your land (in square metres) 
+    at the end of last quarter.
+  
+  It also shows the size of your factory (in square metres) 
+    at the end of last quarter, and how the space available for production 
+    will be used at the start of next quarter.
+   
+  For component and material stocks, it shows the storage area required 
+    even if you do not have the space to store them in your factory (see below).
+  
+
+  Available space (overflow if negative) : shows the unused space 
+   (in square metres) available in your factory
+    at the beginning of next quarter.  If negative, it implies that you will have  
+    to use  external storage  
+    for at least some of your material or component stocks. 
+  
+ 
+
+ 
+ 
+ MACHINES 
+
+ 
+  Number decommissioned  at the beginning of last quarter, 
+    and sold during last quarter.
+ 
+
+  Machines in use last quarter : Machines available next quarter 
+    from the quarter before last, less the number you decommissioned.
+ 
+  Number bought and installed  at the end of last quarter.
+ 
+ 
+
+ Machines available next quarter : 
+    the number of machines available for use next quarter. 
+    Machines in use last quarter, plus the number you installed last quarter.
+ 
+ 
+ Theoretical hours available : 
+   the number of machines available to you last quarter, multiplied by 
+   the  maximum number of hours  
+   each could work under the shift system decided.
+ 
+
+ Breakdown time : the total number of hours during which 
+   machines were out of production due to breakdown and repair. 
+   Where breakdown time is partly due to catastrophic failure 
+   of a machine, you may be able to claim the cost of repair against 
+   your insurance. Look for the "!" sign to see if this is the case.
+ 
+
+ Used last quarter : the total number of hours of machine time 
+   used to produce products last quarter. 
+   The number of units of each product which were machined, 
+   multiplied by the machining time appropriate to each, 
+   extended by the effect of declining machine efficiency.
+ 
+
+ Maintenance hours : the number of hours of preventive 
+   maintenance given to your machines last quarter, outside of normal production time. 
+   The maintenance hours you decided 
+   multiplied by the number of machines in use, less breakdown time. 
+   If breakdown time exceeded the number of maintenance 
+   hours allocated, no maintenance will have been carried out.
+ 
+
+ Average machine efficiency % : the theoretical minimum number 
+   of hours which should have been taken to manufacture your products 
+   last quarter, compared with the actual time. 
+ 
+
+ 
+ 
+ MATERIALS 
+ A)  Opening stock : the number of units of material available 
+   at the beginning of last quarter.  
+   Closing stock at the end of the quarter before last 
+   plus any material ordered in earlier quarters for delivery last quarter 
+  (see F & G below taken from the report for the quarter before last).
+ 
+
+ B)  Bought spot : Material ordered at the beginning of last quarter 
+   for delivery last quarter. 
+   This figure includes any premium materials purchased last quarter. 
+ 
+
+ C)  Bought default : Material bought last quarter 
+   to make good any shortfall in material ordered. 
+   Materials used from D & E 
+   less the total of materials from A & B, if positive. 
+ 
+
+ D)  Lost or destroyed : The number of material units lost, stolen 
+   or spoiled in your own warehouse last quarter. (Look for the "!" sign).
+ 
+
+ E)  Used last quarter : The total number of units of material 
+   used last quarter. 
+   The number of each product delivered, plus rejects last quarter, 
+   multiplied by the material content of each.
+ 
+
+ F)  Closing stock : the number of units of material on hand 
+   at the end of last quarter, to be carried forward into next quarter. 
+   The sum of A, B & C, less D & E.
+ 
+
+ G)  For delivery next quarter : the number of units of material 
+   ordered by you last quarter, and in the quarter before last,
+   for delivery next quarter.
+ 
+
+ H)  For delivery quarter after next : the number of units 
+   of material ordered last quarter for delivery in the quarter after next.
+ 
+
+ 
+ 
+ PRODUCTION EMPLOYEES 
+ At start of last quarter : the number of skilled assembly workers 
+   and unskilled machine operators available to you at the beginning of last quarter. 
+   This is the number of skilled workers that worked for you throughout last quarter. 
+   For unskilled workers this is simply the number that were available 
+   to you at the start of last quarter.
+ 
+
+ Recruited : the number of each type of worker which 
+   you successfully recruited last quarter. 
+   Skilled workers were recruited at the end of last quarter, 
+   and hence did not work during that period. 
+   Unskilled workers were recruited automatically at the beginning of the quarter, 
+   to make up the number needed to operate your machines 
+   at the shift level decided (4 workers per machine, per shift).
+ 
+
+ Trained : 
+   the number of workers trained last quarter to be skilled assembly workers, 
+   after being recruited from the pool of unemployed unskilled labour. 
+   They can work for you next quarter.
+ 
+
+ Dismissed : the number of each type of worker 
+   which you decided to dismiss last quarter. 
+   Skilled workers were dismissed at the end of last quarter and 
+   hence worked for you during that period. 
+   Unskilled workers were dismissed at the beginning of last quarter. 
+   Unskilled workers are dismissed only as a result of a reduction 
+   in the number of machines, or a lowering of shift level, 
+   but as only half of any surplus labour can be dismissed in one quarter 
+   it is possible to have more unskilled workers than you need.
+ 
+
+ Left : the number of each type of worker who left 
+   because of retirement, sickness, or who went to work for rival companies. 
+   All of these would have left at the end of last quarter.
+ 
+
+ Available for next quarter : the number of each type of worker 
+   who will be available to you at the beginning of next quarter. 
+   The number of unskilled workers may then change immediately 
+   due to changes in the number of machines or in the level of shift working. 
+   This figure is the total of 'Personnel at start of quarter' 
+   plus 'Recruited' and 'Trained', less 'Dismissed' and 'Left'. 
+ 
+
+ 
+ Assembly workers 
+ Assembly hours available last quarter : the number of 
+   skilled workers you had available last quarter multiplied by the 
+    maximum number of hours  
+   that each could have worked, less a fixed number of hours per worker 
+   for each strike week notified at the end of the quarter before last 
+   (see below).
+ 
+
+ Absenteeism : the number of skilled man-hours lost 
+   through workers being sick, or not starting work for other reasons. 
+   Where part of absenteeism is due to serious illness or accident 
+   the cost of it may be covered by insurance. 
+   Look for "!" alongside to show that you have had a problem which 
+   may be claimed on insurance, if your cover is sufficient. 
+   The precise number of hours attributable to serious illness is not shown. 
+ 
+
+ Hours worked : the total number of paid hours worked 
+   by skilled assembly workers last quarter.  Defined as, 
+   the number of products you  produced  last quarter, 
+   multiplied by the assembly time for each product decided by you last quarter.
+ 
+
+ Notice of strike weeks next quarter : The number 
+   of weeks' work which will be lost by each skilled worker next quarter, 
+   due to intended industrial action.  This is a 
+   fixed number of hours per person per week .
+ 
+
+ 
+ 
+ AGENTS and DISTRIBUTORS 
+ Details of changes to your sales agents 
+   in the European market and distributors in Nafta.
+ 
+
+ Active last quarter : 
+   The number of agents and distributors who represented you last quarter. 
+   Equal to 'Active next quarter' from the quarter before last.
+ 
+
+ Resigned : The number of agents and distributors who 
+   decided to stop representing you. 
+   This is possibly because they felt that they were not making sufficient profit, 
+   or are not being supported sufficiently by your advertising or 
+   commission levels, compared to other companies.
+ 
+
+ Dismissed : The number of agents and distributors 
+   who you decided should stop representing you at the end of last quarter 
+   by a decision taken at the beginning of last quarter 
+ 
+
+ Appointed : The number of new agents and distributors 
+   who have agreed to represent you from the beginning of next quarter. 
+   They were appointed last quarter to fulfill your decision 
+   on the target size of your network taken at the beginning of last quarter. 
+   You may not have attracted all the agents and distributors you were seeking. 
+   Agents and distributors are attracted to your network 
+   for broadly the opposite reasons that make them leave.
+ 
+
+ Active next quarter : The number of agents/distributors 
+   who will represent you next quarter. 
+ 
+
+ 
+ 
+ TRANSPORT 
+ Journey length (km) : the average length of journey 
+   made when delivering your products to the agents and distributors. 
+   The trips to your internet distributor and to the port used for shipment 
+   to Nafta are of a  fixed length . 
+   For Europe, the average number of days taken per journey will be 
+   the average journey distance divided by the daily 
+    distance limit . 
+   Part days will be rounded up, to cover maintenance, loading, etc.
+ 
+
+ Number of loads : The number of container loads of products 
+   sent to each area. Part loads are rounded up to full loads. This 
+   is equivalent to the number of journeys. 
+ 
+
+ 
+ 
+ INTERNET STATISTICS 
+ This section gives performance statistics relating to your internet operation. 
+   If you are not operating a web-site the statistics will show as 0.
+ 
+
+ Number of internet ports : The number of ports which you 
+   decided to operate last quarter.  
+   This determines the capacity of your web-site (see below).
+ 
+
+ Number of visits to your web-site : 
+   The number of successful visits made to your web-site last quarter. 
+   This shows the degree of interest in your web-site. 
+   Your success in converting these visits into orders for products 
+   will depend on the effectiveness of your web-site 
+   and on the marketing image of your products.
+   This statistic is provided by your ISP. 
+ 
+
+ Estimated level of failed visits (%) : 
+   the number of failed attempts to visit your web-site last quarter 
+   divided by the total number of potential visits. 
+   This performance statistic is provided by your ISP. 
+ 
+ Internet service complaints : The number of complaints received 
+   by your internet distributor because of poor packaging, 
+   incorrect addressing, or other delivery problems. 
+   It is an indication of the efficiency of your internet 
+   distributor's operation, and affects your marketing image.
+ 
+
+ 
+ 
+ 
+ CARBON FOOTPRINT 
+ This shows your primary carbon footprint or CO2e (carbon dioxide equivalent).
+   It is made up from your use of energy for factory heating and lighting, 
+   plus the energy used in your machining and assembly operations.
+ 
+ There is a cost for offsetting your primary footprint.  This service is purchased     
+   from a charity who plant trees whose lives will offset the carbon footprint you generate.
+   The cost (at a rate of €40 per tonne of CO2e) is included under 'other costs' 
+   in your administrative expenses.
+ 
+ Note: it does not show your secondary carbon footprint, which consists of 
+   the CO2e generated by other firms from whom you purchase products 
+   and services such as buildings, machines, materials, subcontracted components 
+   and hired transport. Even though you are responsible for it 
+  (because it is 'embodied' in your products) you do not offset this footprint.
+ 
+ 
+
+ 
+ 
+ PRODUCT DATA 
+ Quantities scheduled : the number of each product scheduled 
+   for production last quarter as a result of your delivery decisions, 
+   summed across all market areas.
+ 
+
+ Produced : the number of products which were actually 
+   produced in your factory last quarter, including those which 
+   were rejected and those made again to replace rejects. 
+   This may be less than the number requested if you did not have sufficient 
+   production capacity to make the number you wanted.
+ 
+
+ Rejected : the number of each product rejected from those produced 
+   because they were found to be sub-standard by your Quality Control department. 
+   These rejects are sold at  scrap value . 
+   If you have sufficient resources your production department 
+   will automatically produce more units to replace these rejects.
+ 
+
+ Lost or destroyed  : the number of each product lost, stolen 
+   or destroyed within your distribution system, last quarter, 
+   for which insurance may pay if you are covered (Look for the "!" sign).
+ 
+
+ Delivered to : the number of each product made and 
+   actually delivered to each marketing area and to your internet distributor. 
+   This may be less than the number originally decided 
+   if your factory did not have sufficient production capacity ,
+   or if any products are lost or destroyed (see above) . 
+   Products will not be sent to markets where you do not have an organisation.
+ 
+
+ Orders from : the number of orders received for each 
+       of your products from each area last quarter. 
+   These are new orders and do not include any backlog of orders 
+   waiting to be satisfied from the quarter before last.
+ 
+
+ Sold to : the number of each product sold to each area last quarter. 
+   Calculated as the lesser of: new orders plus any backlog 
+   from the quarter before last; or, deliveries last quarter plus 
+   any product stock carried forward for sale from the quarter before last.
+ 
+
+ Backlog of orders : the number of unsatisfied orders (backlog) 
+   for each product in Europe and Nafta brought forward from last quarter 
+   because of poor delivery. There can be no backlog of orders on the internet. 
+   Note that these quantities are only half of the actual number of dissatisfied orders, 
+   as the other half will have cancelled their order. 
+   These have not gone directly to your competitors, but are likely to do so indirectly 
+   at some time in the future. Your backlog of orders may fall 
+   still further at the beginning of next quarter if you decide 
+   to raise your price in the meantime, or reduce the assembly time for your products. 
+   (See next paragraph for method of calculation.). 
+ 
+
+ Warehouse stocks : the number of each product warehoused in each area 
+   and available for sale next quarter. 
+   Redundant stocks of any product may be sold at the beginning of next quarter 
+   if you decide in the meantime to take up a reported major product 
+   improvement for that product. 
+   'Product stocks' or 'Backlog' for each product in each area, is calculated as:
+  
+    Product stocks from the quarter before last,  
+    plus deliveries last quarter,  
+    less backlog from the quarter before last,  
+    less orders received last quarter. 
+
+ If positive, then you have product stocks in that area 
+   available for sale next quarter. 
+   If negative, you had unsatisfied orders in that area, 
+   half of which will have been cancelled, so that the result 
+   will have been divided by two before being shown as backlog, 
+   to be carried forward. 
+   A negative result in the internet area will be ignored.
+ 
+
+ Guarantee services : The number of each product serviced 
+   to correct defects, under the company's one year guarantee, 
+   by local servicing agents. This may include products returned 
+   for repair resulting from poor design or inherent ecological problems 
+   in the products, and also similar repairs to product stock still 
+   in your distribution system (look for the "!" sign). 
+   The number of units returned for this reason is not given separately.
+ 
+
+ Product Improvements : three words can appear here, for each product, 
+   either: 
+ 
+  
+  'None' indicating that no product improvement suggestions have come out 
+     of your product development department last quarter. 
+  'Minor' indicating that your product development department has made 
+   a relatively minor improvement to your product, 
+   which will already have been incorporated into the product last quarter. 
+   No further action is needed.  
+  'Major' indicating that your product development department has 
+     come up with an improvement of major significance which now awaits 
+     your decision to be implemented when you are ready to do so. 
+  
+   
+   A product improvement is only listed once, at the time it is reported, 
+   though it remains available until you decide to take it up. 
+   Indeed further major improvements may be notified before an earlier one 
+   has been implemented, and when  this happens all available improvements 
+   are introduced at the same time, when you do make the decision.
+ 
+
+ Product components : This section shows the numbers of 
+   components which were used in assembling your products last quarter.
+   It also shows the numbers of components you decided to purchase and 
+   how many were held in stock at the end of last quarter and how many 
+   are available to be used for assembly next quarter.
+ 
+
+ 
+ 
+ FINANCIAL STATEMENTS 
+ The final part of the management report shows your company accounts under 
+   the headings  Administrative costs ,  Income statement , 
+    Balance sheet  and  Cash flow statement . These are dealt with in detail, below. 
+   All transactions are recorded in euros. 
+   Where payments are due in dollars these will have been 
+   converted to euros at the exchange rate in operation last quarter.
+ 
+
+ 
+ 
+ ADMINISTRATIVE EXPENSES 
+ The following items are for costs incurred last quarter.
+ 
+
+ Advertising : the total cost of advertising all products in all areas, 
+   as decided.
+ 
+
+ Internet distributor : There can be only one agent.
+   The total support payment and commission paid to your internet distributor 
+   for handling your products. 
+   The value of sales last quarter multiplied by the percentage rate decided; 
+   plus the lump sum support payment which you decided. 
+   In addition, there can be   costs  
+   for opening, or closing, an Internet operation.
+ 
+
+ Internet service provider : the 
+   cost  of operating your web-site. 
+   This depends on the number of ports you have installed, 
+   plus a variable charge for services such as security. 
+   This is a fixed percentage of the value of internet sales. 
+   In addition, there can be costs for opening, or closing, an internet operation. 
+ 
+
+ Agents/distributors : the total cost of support payments and commission 
+   paid to EU agents and Nafta distributors last quarter; 
+   plus the cost associated with any agents and distributors 
+   who ceased to represent you at the end of last quarter; 
+   plus the cost of attempting to recruit new agents and distributors 
+   to bring the number up to your requirements. 
+   The number you tried to recruit (and hence had to pay recruitment charges for) 
+   was the target number you decided to try to obtain last quarter, 
+   less the number in your network at the end of the quarter before last 
+   ( Table 3 ). 
+   Agents' commission is paid on the value of orders. 
+   Distributors' commission is paid on the value of sales.
+ 
+
+ Sales office : sales administration costs 1% of the 
+   total value of orders taken in all areas last quarter.
+ 
+
+ Guarantee servicing : the total cost of repairing products 
+   returned last quarter as faulty, under the company's guarantee. 
+   The number serviced last quarter multiplied by 
+   their respective  costs . 
+   Products repaired as a result of a product re-call, 
+   are charged at 75% of the standard cost.
+ 
+
+ The number of container-days can be calculated by dividing 
+   the distances by the daily maximum allowed (rounded up), 
+   multiplied by the number of loads. 
+   In all cases  mixed product loads  
+   can be carried. 
+ 
+
+ Product development : the total amount spent last quarter on 
+   product development to improve your products, as decided.
+ 
+
+ Website development : Each quarter you decide how much to invest in 
+   the development and maintenance  of your web-site (if you have one). 
+   Money is spent on updating the information presented, and on 
+   software development to make  the site more attractive. 
+   There is an in-built obsolescence factor which will tend to make the site 
+   look old fashioned and out of date. You should invest to overcome this tendency. 
+   The "Website Star Rating" depends on how much and how regularly you spend.
+ 
+
+ Personnel department : the total cost last quarter of  
+   trying to recruit, dismissing and/or training personnel. 
+   The number decided in each category multiplied by 
+   the relevant  cost rate .
+ 
+
+ Machine maintenance : the cost of maintaining and repairing the company's machines.  
+   The number of contract hours decided, multiplied by the number of machines, 
+   multiplied by the  hourly cost . 
+   If the number of breakdown hours exceeds the total contract hours decided, 
+   the difference will be paid for at a premium hourly rate.
+ 
+
+ Purchasing and warehousing : the administrative costs of your purchasing department, 
+   plus a cost for each of the average number of units of material held in commercial    warehouses, due to lack of available space in your factory, 
+   plus a cost for each of the average number of product units warehoused 
+   in the sales areas at their respective costs 
+  (see  Tables 13 and 14 ).
+ 
+
+ Business intelligence : the  costs  
+   of buying information last quarter, as decided. 
+ 
+
+ Management salaries : the cost of your company's management last quarter, 
+   as decided.
+ 
+
+ Credit control : the  costs  
+   of collecting money from your company's debtors 
+   and for handling internet credit card payments.
+ 
+
+ Insurance premiums : the amount paid as a proportion 
+   of your insured risk to provide insurance cover. 
+   The total from the balance sheet in the quarter before last 
+   of non-current assets and inventories, 
+   all multiplied by the rate for insurance under the insurance plan 
+   which you decided. 
+   If you have not taken out insurance cover, then this will be zero.
+ 
+
+ Other costs : the total of other miscellaneous costs not included 
+   so far under other headings.  These are mainly 
+   fixed (or semi-fixed) costs  
+   which depend on the size of your factory, such as building maintenance, 
+   heating and local taxation. 
+   They also include  decommissioning charges 
+   incurred when selling machines  and  
+   the cost of off-setting your primary carbon footprint . 
+ 
+ 
+
+ Total administrative expenses : the total of all items listed above. 
+ 
+
+ 
+ 
+ ACCUMULATED TAXABLE PROFIT 
+ Profit/loss before tax : as shown in your income statement.
+ 
+ Previous taxable profit/loss : The amount of accumulated profit 
+   (or loss, if negative) from the quarter before last. 
+    This will be zero if any tax was assessed at the end of that quarter.
+ 
+ Taxable profit/loss : The amount of accumulated profit 
+   (or loss, if negative) at the end of last quarter. 
+   This is the sum of the above two items.
+ 
+
+ 
+ Important detail 
+ If this value is positive when tax is assessed in the fourth quarter 
+   of the year, then tax will be payable on that value, 
+   at the  current rate . 
+   It will then be carried forward to the next quarter as zero.
+  
+   
+ If it is negative (a loss) when the tax assessment is made, no tax 
+   will be payable and the loss will be carried forward to the next quarter.
+ 
+
+ In the fourth quarter of each year the figure shown is its value 
+   immediately before tax is assessed. 
+ 
+ 
+
+ Insurance claimed : the total assessed value of claims for losses incurred last quarter. 
+   If you did not take out insurance cover this will be zero.
+ 
+
+ Primary non-insured risk : 
+   the amount of risk which your company agreed to underwrite itself, 
+   before receiving payment  from the insurers. 
+   By applying the percentage agreed under the insurance plan decided, 
+   it is possible to use this figure to work back to the value of the total insured risk. 
+ 
+
+ 
+ 
+ INCOME STATEMENT 
+ This account is set out in two parts. 
+   The first part calculates the gross profit, the second gives the net profit.
+ 
+
+ Sales revenue : total revenue from all trading last quarter. 
+   The number of each product sold in the European, Nafta and Internet markets 
+   multiplied by the appropriate prices; 
+   plus the number of each product sold off at their 
+    valuation price  
+   after introducing a major product improvement; plus the 
+   sale of any product rejects at their  scrap value .
+ 
+ 
+
+ Opening inventory values : the total value of product, component 
+    and material stocks held or on order at the beginning of last quarter. 
+    This is the same as the total value of closing inventories 
+    in the balance sheet for the quarter before last.
+ 
+
+ Components purchased : the cost of machined components ordered 
+   from subcontractors last quarter, for delivery next quarter.  
+   The cost per unit can be calculated from the price ranges announced 
+   in the quarter before last, by adjusting for premium material content.  
+ 
+
+ Materials purchased : the cost of materials ordered last quarter, 
+   in the quantities decided, and at the prices announced in the quarter before last. 
+   Materials ordered for future quarters are included in this figure 
+   at the future prices quoted. 
+   Material units purchased to make up shortages last quarter are charged 
+   at last quarter's spot price 
+   plus a  premium . 
+   Note that material is priced and paid for in US$, but appears in the accounts 
+   in euros, converted at the rate of exchange used last quarter.
+ 
+
+ Machine running costs : the  costs  
+   of operating your machines last quarter. The number of machines available 
+   multiplied by the cost of machine overheads, 
+   plus the cost per shift for supervision, 
+   plus the number of machine hours used multiplied by the machine rate, 
+   plus a charge for each unit of product requested for production planning charges.
+ 
+
+ Machinists wages : the number of machine hours 
+   used last quarter plus breakdown time, at the basic rate, Saturday 
+   overtime rate and Sunday overtime rate, for the shift level being worked, 
+   multiplied by the appropriate  wage rate , 
+   all enhanced by the shift premium, and multiplied by four workers per machine. 
+   If the number of unskilled workers employed was greater than the number 
+   needed to operate your company's machines at the shift level being worked, 
+   these surplus workers are paid at the same average rate as those manning 
+   the machines. Unskilled workers are paid for a 
+    minimum number  of hours each, per quarter.
+ 
+
+ Assembly wages : the number of skilled hours used last quarter 
+   on basic working, Saturday overtime working and Sunday overtime working, 
+   all multiplied by the basic skilled wage rate, or increments of it, 
+   as appropriate. 
+   If this total, converted into the average wage per worker, per week worked, 
+   is less than a similar figure for unskilled workers, the unskilled 
+   rate of average weekly earnings is used instead, 
+   multiplied by the total number of weeks worked.
+ 
+
+ Quality control : The cost of your quality control department.
+   The total number of products assembled last quarter multiplied by 
+   the  cost per unit. 
+ 
+
+ Hired transport : The cost last quarter of using hired transport 
+   to deliver your company's products to your agents and distributors: 
+    
+   The cost within the European market is 
+      the number of container-days needed, multiplied by 
+      the  daily container hire rate .
+  
+   The cost of deliveries to Nafta is the number of container-days needed 
+      to transport products to the port, multiplied by the daily cost per container, 
+      plus  the number of container loads multiplied by 
+      the  cost of shipment  across the Atlantic to Nafta.
+  
+   The cost of deliveries to the internet distributor is 
+      the number of container-days, multiplied by the daily cost per container.
+  
+ 
+ 
+
+ less Closing inventory values : the total value of product, work in progress and material  
+    stocks   
+   (both in hand and on order) at the end of last quarter. 
+ 
+
+ Cost of sales : the cost of making and bringing your products to market last quarter.
+   The sum of opening inventory values, components and materials purchased, 
+   machine running costs, machinists' and assembly wages,  
+   quality control and hired transport, less closing inventory values.
+ 
+
+ Gross profit : Sales revenue, less cost of sales.
+ 
+
+  Administrative expenses : the total as shown 
+    above .
+  
+
+ Insurance receipts : the amount your insurance company paid to you 
+   in settlement of your claims last quarter.  The total amount claimable less the 
+   percentage of the total insured risk  
+   that you agreed to meet under your chosen  insurance plan. 
+ 
+
+ Depreciation : the amount by which your machines depreciated last quarter. 
+   Calculated as a  fixed percentage  
+   of the value of assets shown in the balance sheet for the quarter before last, 
+   less the value of any assets sold last quarter.
+  
+ 
+
+ 
+ Operating profit/loss : Gross profit less administrative expenses and 
+   depreciation, plus any insurance receipts.
+ 
+
+ Finance income : interest earned on deposits during last quarter.
+ 
+
+ Finance costs : interest and other charges, 
+   paid last quarter on any bank overdraft and medium term loans. 
+   The  interest calculation  
+   assumes an initial re-organisation of cash and borrowings 
+   from the balance sheet position at the end of the quarter before last,
+   due to decisions made at the beginning of last quarter. 
+ 
+
+ Profit/loss before tax : Operating profit plus finance income, less finance expense.
+ 
+ 
+
+ Taxation : the amount of tax on profits which your company 
+   must pay is assessed at the end of the fourth quarter each year. 
+   This is calculated on any positive value of accumulated taxable profit 
+   at the current  rate of tax . 
+   Tax assessed is carried forward as a liability in the balance sheet 
+   until it is paid in the second quarter of the next year.
+ 
+
+ Profit for the period : Profit before tax, less taxation.
+ 
+ 
+
+  Earnings per share : profit for the period divided by share capital.
+  
+
+ 
+ Dividend : the amount paid to your shareholders 
+   following your decision to pay a dividend.  
+   Your  share capital  multiplied by the percentage dividend decided. 
+ 
+
+ Transferred to retained earnings : Profit for the period less dividend. 
+ 
+ Previous retained earnings : Retained earnings at the end of quarter before last.
+ 
+ Retained earnings : The sum of the above two items 
+     (see also  below  under balance sheet).
+ 
+
+ 
+ 
+ BALANCE SHEET 
+   This shows your company's non-current (long term) and current (short term) assets 
+   and liabilities plus a reconciliation of its net assets with shareholders' equity. 
+ 
+
+ 
+ NON-CURRENT ASSETS 
+ 
+ Land : the value, at original cost, of the company's land.
+ 
+
+ Buildings : the value, at cost, of the company's factory building.
+ 
+ Machinery : 
+   the current  depreciated value  of your company's machines. 
+
+ 
+ Property, plant and equipment : 
+    The total value of land, buildings and machinery.
+ 
+ 
+ 
+ 
+ CURRENT ASSETS 
+ Product inventories : the value of product stocks 
+   held in all the sales areas. 
+ 
+ 
+ 
+  Component inventories : the value of any stocks of bought-in components 
+    that were delivered last quarter (or previously), but not yet assembled.
+  
+ 
+ Materials inventory : the value of material stocks held in 
+   or near your factory at the end of last quarter, 
+   plus units already ordered for next quarter and the quarter after next. 
+ 
+
+ Trade receivables : 
+   money owed to your company by its customers. 
+   Trade receivables for the quarter before last, plus sales revenue last quarter, 
+   less  trading receipts .
+ 
+
+ Cash and cash equivalents :  your bank account balance, if positive, 
+   plus any term deposit.   
+ 
+
+ Total assets : the above 
+   non-current assets, inventories, trade receivables, and cash. 
+ 
+
+ 
+ LIABILITIES 
+ Tax due : the  tax assessed  in the fourth quarter
+   of the year and due for payment next year. Note that
+   a figure appears here only in the fourth and first quarters of each year.
+ 
+
+ Trade payables : 
+   money owed by the company for goods and services bought last quarter. 
+ 
+
+ Bank overdraft : the balance of your bank account, if negative. 
+   It is the amount of money loaned by the bank on variable interest 
+   secured against the company's short term assets. 
+ 
+
+ Current liabilities : the sum of the above 
+   tax payable, trade payables and overdraft.
+ 
+ 
+  Term loans : the total of long term loans which you have received. 
+  
+  Net assets : the above total assets, 
+    less current liabilities  and term loans . 
+  
+
+ 
+ EQUITY 
+ Share capital : the original shareholders' funds,
+   or starting capital for the company, in the form of €1 shares,  
+    modified by any further issues of shares, 
+   less any share repurchases .
+ 
+ 
+ Share premium account : undistributable profits from the issue of shares 
+   at a price above the par value of €1, less any reduction through repurchases 
+   of shares.
+  
+ 
+ Retained earnings : undistributed profits 
+  (or losses) accumulated during the lifetime of the company. 
+   These reserves are usually equal to previous retained earnings (from the quarter before last) 
+   plus  transferred to retained earnings  last quarter.
+   However, if a share repurchase exhausts your share premium account, then 
+   any excess will be deducted from these reserves.  
+ 
+ Total equity : Share capital plus  share premium account and  retained earnings.
+   The total shareholders' equity interest in your company is equal to net assets (as defined above).
+   
+ 
+ 
+  More  (on balance sheet definitions)
+  
+
+ 
+             
+ CASH FLOW STATEMENT 
+ This account shows how funds flowed into and out of 
+   the company during the last quarter.
+ 
+ 
+ 
+ OPERATING ACTIVITIES 
+ Trading receipts : payments made to the company by its customers. 
+   A proportion of trade receivables from the quarter before last and sales last quarter. 
+   The receipt of sales revenue is subject to 
+   target credit periods . 
+   These targets are never met in full, and outstanding debts are carried forward 
+   to next quarter as trade receivables on the balance sheet.
+ 
+ Insurance received : see  Income statement  above.
+ 
+ Trading payments : 
+   payments made for salaries and wages, and goods and services supplied to the company. 
+   Trade payables from the quarter before last, plus 
+   administrative expenses, materials and components purchased, total wages, 
+   machine running costs, quality control and hired transport costs, 
+   less trade payables last quarter.
+ 
+ Tax paid : in the second quarter only, tax payable 
+                  from the balance sheet in the quarter before last.
+ 
+ Net cash from operations : trading receipts less trading payments and tax paid
+ 
+
+ 
+ INVESTING ACTIVITIES 
+ Interest received : interest received from your term deposit account.
+ 
+ Asset sales : the value of machines sold last quarter 
+    (excluding decommissioning charges).
+ 
+ Assets purchased : 
+   capital expenditure last quarter on any factory building extension, 
+   and payments for machines ordered and installed. 
+ 
+ Net cash from investing : interest received less net capital expenditure
+ 
+
+ 
+ FINANCING ACTIVITIES 
+ Shares issued : funds received from issuing new shares (number x price).
+ 
+ Share repurchases : payments made for any repurchases of the company's shares.
+ 
+ 
+ Dividends paid : see  Income statement  above.
+ 
+ Additional loans : funds from additional long term loans. 
+ 
+ Interest paid : the cost of borrowing last quarter. 
+   Different  interest rates  
+   apply to term loans, agreed overdrafts and unauthorised overdrafts. 
+ 
+ 
+ Net cash from financing : income from shares and loans, 
+   less dividends and interest paid
+ 
+ 
+ Net cash flow : Net cash from operations, investing and financing.   
+ 
+
+ Previous cash balance : Cash and cash equivalents, less any bank overdraft, 
+     at the end of quarter before last.
+ 
+ Cash balance : The sum of the above two items. 
+     Cash and cash equivalents, less any bank overdraft, 
+     at the end of last quarter (see  balance sheet ).
+ 
+ 
+
+ 
+ 
+ Overdraft limit next quarter : Your authorised overdraft limit for next quarter.
+      This depends on the 
+      assets and liabilities  
+      in your balance sheet at the end of last quarter.
+ 
+
+ Borrowing power : the maximum additional long term loan 
+      that you can raise next quarter. 
+      This is  determined  by 
+    
+    the stock market value of your company's shares  
+    the amount of any existing term loan 
+    your overdraft limit 
+     
+ 
+
+ 
+ 
+ THE MANAGEMENT REPORT - GROUP INFORMATION 
+
+ This part of the report gives information 
+   about all the companies in your group, 
+   and about the economy in which you all operate. 
+ 
+
+  This description of the contents of the management report 
+    assumes that you have just received it. 
+    It therefore refers mainly to last quarter's data, except where specifically noted. 
+    This information can help you make decisions for next quarter.
+  
+ 
+ 
+
+  Building cost : the cost per square metre of extending your factory next quarter.
+  
+  Component costs : for each product, the cost range per unit 
+     for purchasing components next quarter.  
+     The lower figure is for components made from basic materials only, 
+     the higher figure is for components made from 100% premium materials.
+   
+ 
+  Prices of  basic  material  in $ (USD) per 1000 units: 
+    Prices quoted, if ordered next quarter for delivery next quarter (spot price), 
+    for delivery in the quarter after next (3-month price), 
+    or for delivery in the quarter after that (6-month price). 
+    A percentage of the lowest of spot, 3-month or 6-month price was used 
+    to value material stocks at the end of last quarter 
+   (see  Table 21 ). 
+
+  Share prices,  market valuations and investment performance : 
+    The price quoted on the stock market for each company's shares 
+    at the end of last quarter, is given in cents.   
+    Investment performance measures the total return for investors in each company, 
+    taking into account the share price, dividends paid and any share issues or repurchases. 
+
+  Dividend % : The percentage of each company's ordinary capital 
+    paid out in dividend as decided last quarter. 
+ 
+ Balance sheets for all companies in your Group 
+    are supplied free of charge at the end of every quarter.
+ 
+
+ 
+ 
+ BUSINESS INTELLIGENCE 
+ This part of the management report is concerned with general information, 
+   either given to you free, or which you requested and paid for 
+  (see  Table 2 ).
+ 
+
+ Information about every company in your group last quarter 
+   which would, in the normal course of events, be available to you free of charge:
+  
+   Prices : charged for each product in the European, Nafta and Internet markets. 
+
+   Production employees : the total number of assembly workers and machinists employed.  
+
+   Skilled wage rate : the basic hourly wage rate paid to skilled assembly workers. 
+
+   Agents and distributors : The total number of active EU agents and 
+      Nafta distributors. 
+ 
+ 
+
+ Business Activity : this information is paid for ( Table 2 ). 
+    advertising expenditure  
+    product development expenditure 
+    star ratings for each product, as assessed by a consumer panel  
+    an assessment of web-site effectiveness.   
+ 
+    In all cases star ratings range from one to five, where one is poor and five is excellent.
+ 
+ 
+
+ % Market share of sales : 
+  Market shares are calculated on the number of sales, and not on orders. 
+  The information is given in three parts, for each product. 
+   Each company's share of the total European retail shop market. 
+      Apart from you and your direct competitors there is also other competition 
+      selling imported products, hence the total may be less than 100%. 
+
+   Each company's share of the total Nafta retail shop market. 
+      Again, these will sum to less than 100%.  
+
+   Each company's share of the internet market. 
+      Again, the total will be considerably less than 100% 
+      because of the existence of other competitors, world-wide. 
+ 
+  
+
+ 
+ 
+ ECONOMIC INTELLIGENCE 
+
+ Various official statistics covering both the European market 
+   and Nafta are given to you free of charge each quarter. 
+   These give an indication of the relative performance of the European 
+   and export economies, and hence where market growth is likely. 
+   These statistics are: 
+   Gross domestic product : in a seasonally adjusted form. 
+      This gives an indication of the underlying trend of economic growth 
+      (or decline) in the markets, and of changes in that trend.   
+
+   % Unemployed rate : this gives the percentage of unemployed people 
+      in both market areas and gives an indication of likely 
+      movements in spending power. It also gives a guide to the availability 
+      of labour in the European market. It is given in a deseasonalised form. 
+
+   % Central Bank rate next quarter : this gives the rate of 
+      annual interest set by the Central Bank in each area at the 
+      end of last quarter, which will apply next quarter. 
+      The European rate is the basis for all other interest calculations in 
+      the simulation.  
+
+   Trade balance : is a measure of the competitive strength 
+      of the European and Nafta economies.  
+
+   Exchange rate : quoted as € per $ (USD). 
+      This is the rate which will be used throughout next quarter, 
+      and which was used to value materials at the end of last quarter. 
+
+   Economic information about the other markets outside Europe 
+      and Nafta is limited. To give some idea of how its economy is 
+      functioning, estimates of the corresponding economic statistics 
+      where applicable are given for the "Rest of the World". 
+      It may be dangerous to rely on this information.  
+ 
+ 
+ 
+ 
+ BUSINESS REPORT 
+
+  Finally, you may receive brief extracts of current 
+    economic information extracted from the financial press which 
+    may help you to forecast economic trends and warn of business problems ahead. 
+  
+ 
+  All companies can be affected by significant 'world events'.  These events 
+    may be the result of political upheaval, economic or environmental developments, 
+    wars, physical disasters such as volcanic eruptions or earthquakes, epidemic diseases, etc.  
+    They can have a serious effect on companies' operations, and also affect 
+    the product markets.
+    For example, an outbreak of an infectious disease that has a global impact could not only 
+    affect the markets for your products, but also significantly upset your ability to make 
+    products because your labour force is unable to get to work.
+  
+  Externally, the level of disruption should affect all companies equally, but 
+    the level of internal disruption will depend on how well the company is able 
+    to cope with what happens.  For example, where adequate reserve stocks of material 
+    and finished products are held by a company, it may be able to continue to trade, whereas 
+    another company with inadequate stocks may find itself in difficulty.
+  
+  These events may occur suddenly, without warning, giving you little chance to take action.
+    It is more likely, however, that at least some information taken from the press and appearing 
+    in the Business Report ahead of an event will give a hint that it may happen.
+    The effect of world events on a company's operations will be indicated by a '!' sign on the 
+    management report, except where markets and the economy are concerned.
+  
+  It is important that you read all sections of the business report 
+    since they may contain important information which can affect calculations 
+    in the management report - for example, changes in costs or decommissioning charges.
+  
+  You should bear in mind that, although this kind of physical disruption might not affect 
+    the consumer market directly, there may be an indirect effect on consumer confidence.
+  
+
+  Note: although such world events  may  happen, 
+    it does not mean that they  will  happen.
+  
+    
+ 
+
+ 
+ 

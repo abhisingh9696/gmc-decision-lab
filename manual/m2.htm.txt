@@ -1,0 +1,1603 @@
+
+ 
+
+ 
+ GMC Business environment 
+ 
+ 
+ 
+ 
+
+ ol{margin-top: 7px; margin-bottom: 3px;}
+ .main li{margin-bottom: 3px;}
+
+ 
+ 
+
+ 
+
+ 
+  G LOBAL  M ANAGEMENT  C HALLENGE  
+
+ The business environment 
+   
+   Economic background 
+   World events        
+   
+
+   Marketing 
+   
+   Information          
+   Pricing              
+   Product quality      
+   Product development  
+   Advertising          
+   Selling              
+   Product availability 
+  
+
+  Operations 
+  
+    Machining              
+    Plant maintenance      
+    Subcontracting         
+    Assembly               
+    Production planning    
+    Quality control       
+    Distribution          
+    Material purchasing   
+    Internet website      
+  
+
+  Personnel 
+  
+    Recruitment        
+    Staff training     
+    Pay and conditions 
+    Senior management  
+  
+
+  Finance 
+  
+    Shares and dividends 
+    Term deposit         
+    Borrowing            
+    Capital expenditure  
+    Insurance            
+  
+
+  Your management report 
+ 
+  The decision form 
+  
+   Screenshot 
+  
+
+  Tables 
+
+ 
+World copyright 2011 -  EDIT 515 Ltd, UK 
+SDG – Simuladores e Modelos de Gestão, S.A.
+ 
+ 
+
+
+ 
+  
+
+  THE BUSINESS ENVIRONMENT 
+
+  Your market 
+  Your company operates in direct competition with a number of other companies 
+    that manufacture and sell the same products as yours, 
+    in the same geographic areas.
+    You make three products, which are not specifically defined. 
+    They are three different, but related, types of consumer durables 
+    that the public think are generally desirable.
+  
+  Your market consists of two geographic areas for traditional retail trade - 
+  
+    the Euro-market - which is most of western and central Europe;  
+    the Dollar-market - which is the North America free trade agreement area (Nafta). 
+  
+    At the same time, through the internet, you can reach both of the above geographic areas 
+    and also the rest of the world. 
+  
+  In all areas, you compete directly with the other companies 
+    taking part in the simulation, but additional competition also exists 
+    in the form of imports, or other local firms. Consequently, 
+    the  market shares  
+    of the competing teams do not add up to 100%. 
+    This other competition, however, is not directly involved in the simulation.
+  
+
+ 
+  
+  ECONOMIC BACKGROUND 
+  The  population size  and social make-up
+    determine the underlying demand for products in each market area, 
+    and normal economic cycles of growth and decline can affect all markets.
+  
+  Please note, however, that the economy in this simulation 
+    does not necessarily follow the present-day, real life economy; 
+    nor do real-life Government Policies have any bearing on it.
+   
+  Superimposed on the general economic trend is a strong 
+    seasonal pattern of demand for the industry's products. 
+    This is not necessarily the same in all market areas, 
+    nor for every year,  but the peak is usually in the fourth quarter.
+  
+  Within the European market, trade is conducted in euros. 
+    In Nafta, trade is in U.S. dollars. Trade on the internet is in dollars.
+  
+  All monetary decisions which you make will be in euros, 
+    including decisions affecting Nafta and the Internet, 
+    even though the final transaction may be in dollars. 
+    The rate of exchange between the euro and the dollar will,
+    therefore, affect trading.
+  
+  
+
+  Economic statistics and reports will be issued during the simulation 
+    to help you assess economic trends and movements in exchange rates. 
+    These take the form of deseasonalised, official 
+    statistics for last quarter, for both the European market and Nafta, covering:
+  
+     Gross domestic product (GDP) 
+     Percentage unemployment 
+     Trade balance
+     Central Bank annual base interest rates which will apply next quarter. 
+     Exchange rate of the euro against the dollar which will apply next quarter. 
+  
+  
+  Limited information on some of these topics 
+    is also available about the rest of the developed world under  
+ Economic intelligence   in your management report.
+   
+  In addition, short extracts of political, economic and commercial commentary 
+    from newspapers will be given to help you forecast the way in which 
+    economies and markets are likely to move. 
+    You should decide how reliable this information is. 
+  
+  More  (technical detail on exchange rates) 
+
+ 
+ 
+  WORLD EVENTS 
+  Significant 'world events' can affect all companies.  
+    These events may be the result of political upheaval, 
+    economic or environmental developments, wars, physical disasters 
+    such as volcanic eruptions or earthquakes, epidemic diseases, etc.  
+    They can have a serious effect on companies' operations, and also affect 
+    the product markets.
+  
+  Externally, the level of disruption should affect all companies equally, 
+    but the level of internal disruption will depend on how well the company 
+    is able to cope with what happens.  
+    For example, a company that holds adequate stocks of materials 
+    and finished products may be able to continue to trade, 
+    but a company with inadequate stocks may find itself in difficulty.
+  
+  These events may occur suddenly, and without warning, 
+    giving you no opportunity to react.  It is more likely, however, 
+    that at least some information, taken from the press and appearing in 
+    the  Business Report  ahead of an event, 
+    will give some hint that it may happen.
+  
+  It is important that you read all sections of the BUSINESS REPORT 
+    since they may contain important information about changes in costs 
+   (eg decommissioning charges) or other factors 
+    that are not necessarily fixed throughout the simulation.
+  
+  You should bear in mind that, although this kind of disruption 
+    might not affect consumer markets directly, 
+    there could be an indirect effect on consumer confidence.
+  
+  Note: although such world events  may  happen, 
+    it does not mean that they  will  happen.
+  
+  
+ 
+
+ 
+ MARKETING 
+
+  Your company's marketing department is responsible for creating demand for, 
+    and selling the company's products successfully in the face of competition 
+    from rival companies. To do this successfully you must have a good 
+    marketing strategy .
+  
+
+  In Europe and Nafta you sell through 
+    agents  
+    to retailers who, in turn, sell to the general public. 
+    In those areas retailers are the prime target of your marketing effort. 
+    You can also sell directly to the public worldwide through the internet to 
+    people who have appropriate computer access. 
+    Selling through the internet will also reach Europe and Nafta so that, 
+    in a sense, you will be competing against your own agents in these areas. 
+    Public demand will vary according to the economic climate 
+    and the marketing effort of the competing companies. 
+    The retailers and the general public are also the target of 
+    direct competitors selling similar products in competition to yours.
+  
+  
+
+  Each product has a marketing  
+    image  
+    which you are seeking to promote in order to attract sales. 
+    This image is formed over time from a number of factors 
+    such as product quality, reliability, advertising, price and delivery 
+    which are of varying importance 
+    relative to similar factors in your competitors' products.
+  
+
+  You decide some of these factors as part of your marketing plan, 
+    but others, such as the activities of your competitors, 
+    should be taken into account as you prepare the plan.
+  
+ 
+  
+  
+  INFORMATION 
+  To help you make forecasts, certain economic and competitive information 
+    about your competitors' activities last quarter is available to you, 
+    free of charge. This consists of the kind of information 
+    that would normally be freely available: 
+  
+    Product selling prices  
+    Total number of employees  
+    Basic skilled wage rates  
+    Number of distributors  
+  
+
+  Apart from this free information, 
+    you can  decide  
+    to subscribe to Audit Research, which monitors the sales of each product 
+    and provides information about how the market is divided 
+    between you and your competitors.  This information costs 
+    a  fixed amount  
+    each time you ask for it. 
+    The information gives market shares by volume of sales 
+    for each of the competing companies in: 
+  
+    The European market.  
+    The Nafta market. 
+    The internet 
+  
+
+  You can also  decide  
+    to commission research about your competitors' business activities 
+    and products.  This information costs you 
+    a  fixed amount  
+    every time you ask for it. It includes:
+  
+    Total amounts spent on advertising  
+    Total amounts spent on product development. 
+    A consumer assessment rating of the product design quality.  
+    A consumer assessment of the quality of your web site (if relevant)  
+  
+ More 
+  
+
+ 
+ 
+  PRICING  
+  Each quarter you must review and  decide  
+    the prices at which you will sell your products.
+  
+
+  The price that you decide for each product is the amount you will 
+    charge your agents and distributors for each unit delivered. 
+    It is also intended as a guide to the retail price that should be charged. 
+    Your  agents in the EU  and 
+    distributors in Nafta  
+    make most of their profit from commission that you pay to them 
+    based on the value of orders and sales. 
+  
+  For internet sales, the price you decide is 
+    the price which the consumer pays (excluding any delivery charge). 
+  
+  The products are quite price sensitive, though not equally so, 
+    with relatively high prices leading to fewer orders 
+    and low prices yielding more.
+    Price reduction, as a means of gaining more orders, only works 
+    up to a point - the public become suspicious of very low prices.
+  
+
+  You set all prices in Euros regardless of where they are to be sold. 
+    Because Nafta and internet prices are decided in Euros, 
+    but passed to the end customer in dollars, 
+    fluctuations in the euro/dollar exchange rate 
+    will affect demand, and your ability to compete in these markets.  
+    You should, therefore, 
+    take into account exchange rates when fixing your prices.
+  
+
+  If you decide not to offer a particular product for sale, 
+    enter a zero price on your decision form. 
+    You will then receive no new orders for that product from that market next quarter.
+  
+
+ 
+ 
+  PRODUCT QUALITY 
+  Apart from product design (see below) 
+    you  decide  the build quality of your 
+    products through decisions taken at production time. 
+    In general, the longer you allow your skilled workers to assemble each product, 
+    the better finish it will have, and the more reliable it will be.
+  
+  You may unintentionally release to the public products with serious health and safety problems. 
+    Apart from the cost of physically putting things right, 
+    serious damage can be done to your marketing image, leading to 
+    loss of public confidence and consequent loss of orders.
+  
+  You may also improve the build quality, and reliability, of your products 
+    by using premium quality materials, rather than basic materials. 
+    You can  decide  to use such materials to whatever 
+    extent you wish, product by product.  
+    Quality materials are also less likely to be a danger to the public. 
+    Premium quality materials are, however, significantly more expensive.
+  
+
+  The more attention you pay to quality, the better your  image  
+    will be, and the more products you should be able to sell.
+    (See also the description of your  quality control process ). 
+  
+
+  Customers who find any products to be faulty can return them, 
+    under the company's guarantee, for repair or replacement. 
+    Obviously, the better their quality, 
+    the fewer product units will need to be returned. 
+  
+  Sub-contractors carry out repairs for you and invoice you for the work
+    at an  agreed cost . 
+  
+  Internet customers may also return faulty products to your distribution agent.  
+    A local sub-contractor repairs these products, under your guarantee.
+  
+ 
+
+ 
+ 
+  PRODUCT DEVELOPMENT 
+  An important way in which your products can be competitive is 
+    through developments in design and technology. 
+    Each quarter, therefore, you should 
+    decide 
+    how much to spend on product development for each of your products. 
+  
+  Regardless of how much you spend, 
+    you cannot assume that your efforts will be immediately successful. 
+    Product development is cumulative, so that the more you spend 
+    the greater the chance of making real improvements. 
+    A steady effort is most likely to be effective.
+  
+
+    Each quarter, there are three possible product development outcomes - 
+  
+  When MINOR improvements are reported they will have been automatically 
+     incorporated into your products (without requiring any decision) and 
+     have a small but immediate effect on your product image and sales. 
+
+  MAJOR improvements that are reported may need further consideration, 
+     because the introduction of a major improvement renders existing models 
+     of the product obsolete. 
+     You may, therefore, wish to reduce existing product stocks, 
+     or build up marketing effort to introduce the improved product 
+     more effectively. You are therefore given the opportunity 
+     to  decide  whether to take up the 
+     improvement immediately or later. 
+
+  NONE means that your product development was not successful last quarter. 
+     Product development is a cumulative process, 
+     so this is not necessarily a bad thing.
+     Following the announcement of a major improvement (see above) , 
+     your team starts on a fresh project 
+     which may take two or more quarters to come to fruition. 
+     The more you invest in product development, 
+     the shorter this period is likely to be.
+  
+
+  Introducing improvements enhances your  product image  
+    in the eyes of consumers, so that your consumer assessment rating - 
+    the number of stars awarded by product assessment panels - is likely to increase. 
+    If your development effort is too small, or has little success, then 
+    your products may become obsolescent, with a declining marketing image 
+    and a reduction in the number of stars awarded. 
+    If one or other of your products is found to be environmentally unsound, 
+    the accompanying bad publicity will usually lead to loss of stars.
+  
+
+  The quality of your management will also affect the department's chances of success.
+  
+
+  More 
+
+ 
+ 
+  ADVERTISING 
+  For each product, in each area, you should  decide  
+    how much money to spend on advertising:
+  
+  
+  on promoting sales of your products in the short term 
+    by providing television commercials, material for press advertising, and so on. 
+    This type of advertising has a limited effect on internet business.
+  
+
+  on promoting your company's corporate image in each area, 
+    regardless of product, in order to create long term confidence and goodwill. 
+    Corporate image advertising is cumulative, needing steady expenditure over a period to be effective. 
+    It not only extends the market for your own company's products, but also, 
+    combined with all advertising, tends to contribute to the general growth of the market. 
+    A strong corporate image is the main influence which persuades people to visit your web-site, 
+    so it is important for your internet business.
+  
+  
+  In addition to direct advertising, it is important for users of the internet 
+    that your web-site reflects and maintains your company's  image . 
+    You can  decide  how much to spend each quarter 
+    on enhancing the efficiency and attractiveness of your site.
+  
+
+  There is no precise information about the effects of advertising, 
+    except that it affects sales of products differently in different areas. 
+    Advertising in Nafta and the internet areas will also depend on the 
+    relative movements in the euro/dollar exchange rate.
+  
+
+ 
+  
+  SELLING 
+  You can sell your products in two ways:
+  
+    To retailers in the EU and Nafta areas who then, in turn, sell 
+       to their customers.  
+    Directly to customers world-wide (including the EU and Nafta areas) 
+       via the internet. 
+   
+ 
+ 
+  European market sales agents  
+
+  In the European market, you appoint agents who will act for you 
+    to sell and distribute your products. 
+    You have three  decisions  
+    to make each quarter:
+  
+
+ 
+
+  The number of agents you want to represent you in 
+    the European market from the beginning of the quarter after next. 
+
+  The amount that you are prepared to spend on behalf of each agent, each quarter. 
+    This covers basic payments for sales aids, supervision and accounting, market research, etc. 
+    This includes a  minimum quarterly payment  
+    for each agent, to cover certain administrative expenses. 
+    A decision to spend more than this minimum 
+    will allow your agents to cover a wider geographic area 
+    and improve selling on your behalf.  
+
+  The percentage you will pay your agents in commission 
+    on the value of orders received each quarter. Commission is 
+    your agents' main source of income. Higher commission will motivate 
+    them to sell on your behalf and will compensate them 
+    for the fact that the prices of products sold through the internet 
+    will tend to be lower than retail prices. 
+ 
+ 
+
+  Because the European market is large, you may need several agents 
+    to provide complete coverage of the area. 
+    Their effectiveness will depend on the level of support you give them. 
+    The higher the commission they are paid, the greater will be 
+    their selling motivation, especially if you 
+    support them with an adequate level of advertising.
+    You need to offer both reasonable support and commission 
+    if you are to successfully appoint and retain your agents.
+  
+
+  
+  Nafta distributors  
+  The Nafta market is more difficult and costly to penetrate 
+    because of distribution difficulties. To reach this market you appoint distributors, 
+    each of whom have an established network of wholesalers. 
+    Three decisions are needed each quarter: 
+
+    The number of distributors you wish to act for you. 
+    The level of support payments you decide to make, per distributor, 
+       subject to a  minimum payment  to cover basic overheads. 
+       Support payments are intended to cover basic costs of handling your product. 
+       The efficiency of the operation on your behalf will increase 
+       as support payments go up 
+       but movements in the relative price indices and the exchange rate 
+       will also affect performance. 
+    The percentage you will pay to the distributors in commission 
+       on the value of sales made. 
+    
+   
+
+  In general the same factors that motivate selling 
+    agents in the European market apply to distributors in the Nafta area. 
+    However distributors are not active sellers of your products. 
+    Instead they respond to demand created by your advertising. 
+    Commission is not intended to stimulate demand for your products, 
+    but contributes to the distributors' profit, and other variable costs.
+    Again, you need to provide both adequate support and reasonable commission.
+   
+  More 
+  
+
+  
+  The internet  
+  You can sell directly to consumers world wide through the internet. 
+    The number of orders you receive will depend not only 
+    on the usual marketing factors of price (plus delivery charge), 
+    advertising, quality and availability, 
+    but also on the attractiveness, ease of use and selling power 
+    of your  web-site , 
+    backed by a strong corporate image. 
+    The function of short term advertising 
+    is to remind people of what is available on your web-site.
+  
+
+
+ Four  decisions  are needed each quarter;
+ 
+ the number of ports (this determines the capacity of your website) 
+ the amount spent on website development 
+ your distributor's support payment (see Table 3) 
+    - this will affect the efficiency of, and care given to your operation 
+ the % commission paid to your distributor on the value of sales   
+   (this will also influence your distributor's efficiency and care)  
+ 
+ 
+
+
+  One problem with e-business is that consumer access 
+    to the internet depends on the general availability of computers, 
+    which is not universal. Another is that you will compete 
+    against your own products available through normal retail outlets. 
+    The advantages are that you are not dependent on middlemen to 
+    sell for you and that customers pay by credit card and therefore 
+    you get paid at the same time as the goods are delivered.
+  
+
+  Order processing and credit card payments are handled 
+    for you by secure e-commerce software. Orders are then passed 
+    to a single distribution agent to be made up, packaged and delivered. 
+    The efficiency and care with which this is done will affect 
+    your  marketing image  so that poor service from your distribution 
+    agent will reflect badly on the company and its products. Conversely, 
+    prompt and efficient service will boost your image.
+  
+
+  
+   More 
+  
+
+ 
+ 
+  PRODUCT AVAILABILITY 
+  Product availability affects the number of orders received, 
+    and the ability of your production department to keep up with orders is important. 
+    Completed products are delivered to agents' warehouses in the European market, to distributors 
+    in Nafta and to your internet distribution agent. 
+    All orders are intended for delivery as soon as possible in the same quarter 
+    in which they are received. Consequently you should try to keep 
+    an adequate stock of products available in all areas so that 
+    deliveries can be made promptly. Orders are only converted into 
+    sales when the goods have been delivered. 
+    Failure to meet orders received, will result in a queue of customers 
+    awaiting delivery, leading to dissatisfaction and lost sales, 
+    which will adversely affect your  marketing image . 
+    The greater the number of orders outstanding, the greater this adverse marketing 
+    effect will be.
+  
+
+  Product availability is even more important for trade on the internet. 
+    Goods for sale on the internet are sent to your distributor's warehouse 
+    from the factory for this purpose. 
+    If demand is greater than availability then potential customers are lost, 
+    and your company's image as an efficient internet trader will decline.
+  
+ 
+  
+  Important Detail 
+
+  At the end of each quarter, at least half of any orders 
+    which remain outstanding in the European and Nafta areas will be cancelled 
+    by your potential customers, and those orders left for you to supply 
+    in the next quarter will be carried forward as a backlog 
+    to be cleared as soon as products become available.
+  
+ 
+  If you decide to raise your price in the meantime, 
+    or to reduce the quality of your products in some way, 
+    then more of your backlog will be cancelled at the beginning of next quarter 
+    and the total number of orders cancelled will then be greater than half. 
+  
+
+  Should you decide to stop production of a product, any backlog of orders 
+    which you may have at that time will remain to be satisfied at last quarter's price. 
+  
+
+  Cancelled orders do not go directly to your competitors, 
+    but they will benefit in future quarters due to your poor delivery image.
+  
+
+  On the internet, if there is a shortage of product, no further orders can be taken. 
+    Hence, although there can be no backlog, there is a negative effect on 
+    your image.
+  
+ 
+
+ 
+  
+  MARKETING MANAGEMENT 
+  The whole of your marketing effort depends on good management. 
+    The amount you  decide  to allocate to your 
+     management budget  
+    will therefore have an important effect on the quality of your sales management, 
+    and hence on the success of your marketing effort as a whole.
+  
+
+  Your company's selling effort has an indirect cost which covers 
+    the expenses of a sales office, and of supervising your marketing effort. 
+    This is calculated as one percent of the value of orders obtained 
+    in each quarter.
+ 
+ 
+
+ 
+  OPERATIONS 
+
+  Your company's operations department is 
+    responsible for making, assembling and distributing the company's products 
+    as efficiently and cheaply as possible within the quality standards 
+    defined by your overall strategy.
+  
+
+  The three types of product which your company sells 
+    are manufactured in your own factory, from one basic type of material. 
+   The products are made in two sequential processes: 
+  
+  
+  Machining, in which components are made on machines, each operated by 
+    four unskilled machinists.  Shift working is possible in the machine shop. 
+   In addition, or alternatively, you can outsource components 
+    by ordering them from external subcontractors for delivery in the quarter after next 
+   (see  subcontracting  below). 
+  
+  Assembly, in which the machined components are assembled into finished products 
+    and packed by skilled assembly workers, who only work single shifts. 
+  
+  Table 5 shows the  material content  
+    of each product, and the  minimum times  
+    taken to process one unit of each product through each of these stages. 
+  
+ 
+  Because of the differing 
+    space requirements  
+    of machines and assembly operations, you may need to consider the 
+    total production area needed for the mix of products you plan to make. 
+    Note that only a  proportion  
+    of your total factory area can actually be used, because of the need for 
+    circulation and access space etc.
+ 
+ 
+  The number of products that can be made in your factory 
+    in any quarter depends either on the number of available components  
+    (whether machined in your own factory, or outsourced) , 
+    or on the capacity of your assembly shop to assemble these components, 
+    whichever is the lower.  
+  
+  A lack of materials will never limit your production capacity, 
+    because any shortfall is purchased automatically on the spot market, 
+    although at a premium price (see below).
+  
+
+  
+  
+  MACHINING 
+  The capacity of your machine shop, in terms of productive hours, 
+    depends on the number of machines that you have 
+    in your factory (see  Capital expenditure ), 
+    and the shift level which 
+    you  decide  
+    to operate, diminished by the number of hours lost 
+    through breakdowns and slower machine speeds due to ageing. 
+  
+  Catastrophic machine failure can also seriously reduce production time 
+    for more than just a few days, while the machine is brought back into production. 
+    If this lost time leads to a loss of sales, incurring backlog, 
+    the value of lost sales can be recovered from your insurance company. 
+    The cost of such repairs can also be recovered. 
+ 
+  For each level of shift working there is a 
+    maximum number of hours  
+    each quarter available for production from each machine.
+  
+ 
+ 
+  Important Detail 
+  The machining times, given in  Table 5  
+    are for producing a set of components ready to be assembled into the finished product. 
+    These are the times expected from 100% efficient, new machines. 
+    As machines get older, or are used more, they become less efficient, 
+    and take longer to make the components for each product. 
+  
+  The introduction of a preventive maintenance programme (see below) 
+    can slow, or even reverse, this process of deterioration, 
+    but eventually each machine will reach a level of inefficiency at 
+    which it may be better to sell it and replace it with a new one. 
+    A further consequence of ageing is that a machine will 
+    tend to break down more often, and productive hours will be 
+    lost until it can be repaired.
+  
+ 
+  Your insurer's assessment of lost sales first considers Product 3 
+    in the EU, then Nafta and finally the internet; 
+    then Product 2 and finally Product 1, until all lost sales 
+    specifically attributable to loss of machine capacity are covered. 
+  
+ 
+
+ 
+  
+  PLANT MAINTENANCE 
+  You employ specialist independent contractors 
+    to carry out maintenance on your machines. Each quarter 
+    you  decide  
+    how many hours of planned maintenance per machine 
+    you wish to contract out.
+  
+  There is a  fixed cost  per contract hour 
+    for each machine which covers labour, spares, materials, tools and supervision. 
+  
+  The first priority of the maintenance effort will be to repair 
+    broken down machinery, any hours left over within the contract 
+    will be used on preventive maintenance outside normal working 
+    hours. 
+  
+  When there is a catastrophic machine failure, 
+    your normal maintenance contractors carry out repairs in the usual way. 
+    The cost of this work (which may need to be done at the emergency rate) 
+    can then be added to your quarterly insurance claim 
+    provided that you have the appropriate insurance.
+  
+
+  The more preventive maintenance you are able to do, 
+    the fewer breakdowns there will be, and if a breakdown does 
+    occur the shorter the time before the machine is back in service again. 
+    Preventive maintenance also slows the rate at which machines 
+    become less efficient.
+  
+
+  If your allocation of hours to contract maintenance 
+    is not even sufficient to cover basic repair times, any additional 
+    hours needed to meet this primary effort will be charged at 
+    a  higher rate  per contract-hour.
+  
+
+ 
+ 
+ 
+  SUBCONTRACTING 
+  You can  decide  
+    to outsource some, or all of your machining work to external subcontractors 
+    in addition to, or instead of, machining components in your own factory.
+  
+  However, any subcontracted components that you order next quarter 
+    will not be available for assembly next quarter, 
+    but will be delivered to you in the quarter after next. 
+    You can then assemble them, along with any components machined in your own factory.  
+ 
+
+  The current price of materials, your decisions about the use of premium materials, 
+    and the exchange rate, will determine the cost of any outsourced components. 
+    The cost range for each product is shown in last quarter's management report, 
+    but the  actual cost  
+    will depend on the percentage of premium materials used.
+  
+  In fulfilling your production schedule, your operations department 
+    will use any outsourced components first.  If required, 
+    machining  will then be used in order to complete the schedule. 
+  
+  Any components that remain after your production schedule is completed, 
+    will be held in stock as 'work in progress', to be assembled later. 
+    Such stock is valued at purchase cost.
+  
+   
+    If you have sufficient  space ,
+    you will hold such work in progress stocks in your factory.   
+    If not, you will need to store them in external warehouses at 
+    a  cost  shown in Table 13.
+       
+ 
+
+ 
+  
+  ASSEMBLY 
+  As well as being limited by your machine capacity 
+ (or bought-in components) , your factory's output 
+    also depends on the ability of your skilled workers 
+    to assemble the components into finished products. 
+  
+  Each product has a  minimum assembly time    
+    but, as part of your marketing policy (see above), you should 
+    decide  the actual times to be taken. 
+    The longer the assembly time, the better the quality of your products will be (up to a point).
+  
+
+  Having decided the time that it should take to assemble 
+    one unit of each product, the number of each that you can make, 
+    and the product mix, will then depend on the number of skilled workers 
+    that you employ, diminished by absenteeism and industrial unrest.
+  
+  Assembly workers work only on a single, day shift, up to a maximum  
+     number of hours  per quarter. 
+    There is no limit to the number that you may employ, provided that 
+    you can recruit them  and that you have enough space for them.
+    After allowing for the area taken up by your machines  
+   (see  Table 26 ) the remaining factory area 
+    may limit the number of assembly workers that you can usefully employ.  
+  
+
+  Your assembly workers are prone to serious accident 
+    like any one else, both at work and at home. 
+    Prolonged absence can seriously affect your production schedule 
+    and could lead to loss of sales. 
+    When this happens, temporary assembly workers are brought in from an agency 
+    service, which charges twice the hourly wage rate paid to your own workers. 
+    Meanwhile, you continue to pay your own employee who is off sick. 
+  
+  If you are insured (see later) then these additional costs 
+    can be recovered through the company's insurance claim.
+    
+  You could also try to improve motivation, reduce absenteeism, 
+    and improve safety by spending more on management and staff training.
+ 
+
+ 
+  
+  PRODUCTION PLANNING 
+  Each quarter, you  decide  
+    the number of each product that you plan to deliver to each area.  
+    This  delivery schedule  
+    is the main set of decisions that concerns the operations department. 
+  
+
+  Normally the number of each product actually produced 
+    will be those scheduled to be delivered plus those which have 
+    had to be re-made because the original was rejected as defective, 
+    either at the assembly stage or the inspection stage in quality control.
+  
+
+  Apart from labour and material costs, which are discussed elsewhere, 
+    there are certain other  semi-fixed costs  
+    which are charged to your operations department. These are:  
+     a cost per shift for supervision;  
+     a cost per machine for production overheads;  
+     a charge per machine hour for running costs;  
+     a production planning charge for each unit to be delivered.  
+  
+  
+
+ 
+  Important Detail 
+  If your production schedule is too ambitious because you have insufficient 
+    machine capacity  (and work in progress)  or skilled labour, 
+    then production will be limited to whatever quantities you can make. 
+    Quality control will reject any sub-standard products and the remainder 
+    will be delivered in proportion to the number asked for in your original production schedule. 
+    When your production schedule is cut back in this way 
+    you will find that where your decisions are reproduced in the Management Report 
+    for next quarter, the affected numbers will be starred (*). 
+  
+
+  Any stock of product left unsold in an area at the end of a quarter 
+    will be kept in the warehouse to be sold in the next quarter. 
+    You can decide, however, to return excess stock from  
+    your internet distribution agent or European selling agents 
+    for redistribution to other areas, 
+    by specifying a negative quantity on the  Decision form . 
+    Goods cannot be returned from Nafta.
+  
+
+  You cannot deliver products to areas where you have no agent. 
+    Such decisions will be set to '0'.
+  
+
+  Rejects found in the production process are sold as 
+     scrap , and reduce 
+    the number of product units available for delivery, 
+    though if you have sufficient capacity, 
+    extra products to replace those rejected will be produced automatically, 
+    so that deliveries can be completed. 
+ 
+ 
+
+ 
+ 
+ QUALITY CONTROL 
+ Your quality control department inspects products during the manufacturing process. 
+   The cost of inspection per unit is shown in  Table 10 .
+ 
+ Inevitably, some products will develop faults 
+   after they have reached the customer and be returned 
+   under the terms of your guarantee 
+  (see  above ). 
+   The servicing of products returned under guarantee in the EU and Nafta 
+   is carried out in those areas by local service agents, who charge you 
+   (at  fixed rates ) for the work carried out.  
+   Products returned to your internet distributor are repaired locally 
+   by a sub-contractor at the same rates (including delivery).
+ 
+
+ It is possible that your products are delivered with unsuspected design faults, 
+   or be made from sub-standard materials, so that they become a danger 
+   to members of the public. 
+   If this happens, products are returned under guarantee for repair 
+   in large numbers, and you also require to examine and repair all units 
+   of product currently in the distribution system. 
+   This work is done by the normal repair contractor, who 
+   (because of the volumes involved) charges 75% of the normal 
+   fee per unit repaired. The additional cost of repair work done 
+   under an incident of this kind is added to your company's quarterly 
+   insurance claim for settlement by your insurer.
+ 
+
+ Your product reliability (and also the number that will be returned 
+   for repair under your guarantee) depends on the time that you allow 
+   your skilled workers for assembling the products, 
+   how well trained and motivated they are, 
+   the quality of the materials you use, and 
+   also the effectiveness of your quality control management . 
+ 
+
+
+ 
+ 
+ DISTRIBUTION 
+ You  decide  
+   the number of products to deliver to the EU, Nafta and 
+   to your internet distribution agent (unless your production resources 
+   limit your ability to manufacture these quantities). 
+   Products are delivered to warehouses controlled by the agents and distributors, 
+   who make a  charge for storage .
+ 
+
+ When in your distribution system, units of finished product can be lost, 
+   stolen or broken so that they do not reach their final destination 
+   in usable condition and have to be written off. 
+   Depending on the level of stock in your warehouse losses 
+   of this kind can lead to backlog and loss of sales. 
+   If you are unable to meet orders because of a loss of product, your insurer is 
+   prepared to cover the full sales price of all sales lost providing
+   you have adequate insurance. 
+   If you simply lose stock but have no loss of orders 
+  (because you have sufficient stocks), you just receive the valuation of 
+   the stock lost ( Table 21 ).
+ 
+   
+ Journeys to your internet distributor and to the port used 
+   for shipment to Nafta, are of a  fixed length . 
+   Nafta distributors are responsible for transport from the port in America. 
+   Journeys to Europe are made as round trips and depend on 
+   the number of agents you have selling for you. 
+ 
+
+ Transport is by standard sized containers and mixed product loads 
+   can be carried, but part loads are charged at the full load rate.
+ 
+   
+ 
+ Important Detail 
+ Hired transport has 
+   an all-in  cost per day  
+   for the container and transport costs.  
+    
+   The total cost of delivery to your internet distribution agent and 
+   to Nafta distributors will depend on -
+  
+    the number of loads to be delivered - which is determined by 
+    the number of products you specified for delivery and 
+    the  container capacity  (in product units),  
+    the fixed  journey length  and 
+    the  maximimum distance  
+       that can be covered per day 
+   
+   In Europe the journey length is not fixed, but depends on 
+   the number of agents you have in the EU market 
+   (assuming them to be evenly distributed throughout the area).  
+ 
+
+ Finished product units are warehoused in the European market 
+   (including products for the internet distributor) and Nafta at a 
+    cost per unit , 
+   based on the  average quarterly holding . 
+   Warehousing in Nafta is charged in dollars and converted to euros 
+   at the rate quoted in last quarter's management report. 
+ 
+ 
+
+ 
+ 
+ MATERIAL PURCHASING 
+ All three products are made from the same basic materials, but the 
+    material content  
+   varies product by product.  Furthermore, you may 
+   decide to use a proportion of premium quality materials for any, 
+   or all of your products.  
+ 
+
+  You  decide  how 
+    to buy basic materials.  
+    You can buy them at the current spot price for delivery next quarter, or 
+    on the  Futures Market  
+    for delivery in three months' or six months' time.  
+    Prices for each option are quoted in last quarter's management report. 
+  
+  Materials ordered for future delivery incur no storage charges, 
+    but all material becomes your property from the time it is ordered, 
+    and is valued on your balance sheet. 
+    Once material is delivered you may have to pay storage costs (see below)
+  if there is insufficient space in your factory 
+    after allowing for the  area occupied  
+    by your machines and assembly operations. 
+  
+
+  Premium quality materials are purchased from suppliers 
+    who deal in superior, environmentally friendly, materials.  
+    The price for such materials is a 
+    fixed percentage  above the spot price. 
+    Deliveries of premium materials are made on a 'just-in-time' basis to 
+    meet your production schedule and, therefore, do not need to be held in stock.
+    You  decide  the proportion of such materials 
+    to use, product by product.
+   
+
+ 
+ Important Detail 
+ Material ordered next quarter is invoiced next quarter, 
+   based on prices quoted in dollars last quarter. 
+   The equivalent amount in euros is then paid in two parts. 
+   50% immediately and 50% in the following quarter. No adjustment is made 
+   for a change in the exchange rate between these part-payments. 
+   The second part of the payment is carried forward in the balance sheet 
+   as part of creditors until it is paid in the quarter after next.
+ 
+
+ If your production plan requires more materials than you have available 
+   for next quarter, then sufficient additional materials are bought 
+   automatically on the Spot Market in order for you to complete production.  
+   Such emergency purchases are at a 
+    premium  over the normal price.
+ 
+
+ Your buying and warehouse department incurs a fixed
+   administrative cost  per quarter.
+ 
+
+ Material is stored in covered space in your own factory, if possible.
+   There is no specific cost for maintaining your own storage area other than 
+   the fixed administrative cost (see above).
+  
+  
+ The space available depends on the area of your factory 
+   and how it is being used (see  Table 26 ).
+ 
+   If there is insufficient space, then the excess materials must be stored in 
+   commercial warehouses nearby at a quarterly 
+   rate per unit , based on 
+   the  average quantity  held. 
+ 
+ 
+
+ 
+ 
+ INTERNET WEBSITE 
+
+  An Internet Service Provider (ISP), who sells you web-hosting capacity, 
+    provides you with access to the internet.  
+    If you wish to trade over the internet, your website should have 
+    the  capacity  
+    to cope with the volume of traffic that it might attract. 
+    This capacity is defined in terms of the number of access "ports" it has.
+  
+  You  decide  
+    the number of ports that you want to operate, 
+    but any change requires one quarter's notice and, therefore, 
+    will not be fully effective until the quarter after next.
+  
+  Demand on your web-site will vary from day to day, and also throughout the day, 
+    so that deciding how many ports to install is not straightforward. 
+    If you are not able to give quick and efficient service to visitors 
+    at peak times your marketing image may decline quite sharply. 
+
+   The management report for last quarter shows three statistics 
+   which may be helpful:  
+    The capacity of your system, as decided, in terms of its number of ports 
+    The number of visits made to your web-site last quarter. 
+    The percentage of potential visits to your site that failed 
+       due to poor capacity. 
+  
+ 
+                  
+ Your website incurs a  quarterly cost . 
+   This includes a cost per port, and a volume cost 
+   to pay for secure trading and credit-card handling. 
+   The total quarterly cost is treated as a marketing expense and 
+   is paid to your ISP in the same quarter. 
+ 
+
+ Software determines the  quality  
+   of your website (attractiveness, ease of use, etc.) and 
+   you  decide  
+   how much to spend on website development, which is mainly for such software.
+ 
+ Regular, independent surveys give "Star Ratings" which show how customers 
+   rate your web-site. 
+   Five stars are the best possible; one star is the worst. 
+   Such  information  incurs an  additional cost .
+ 
+ More 
+
+ 
+ 
+ OPERATIONS MANAGEMENT 
+ Good management affects the whole of your operations. The amount that 
+   you  decide  
+   to allocate to your management budget 
+   will therefore have an important effect on the quality of your operations, 
+   and hence on the success of your ability to meet demand.
+  
+ 
+
+ 
+ PERSONNEL 
+
+  Your personnel department is responsible for ensuring 
+    that the company has sufficient employees to function effectively. 
+    Workers must be recruited in a competitive labour market, within which 
+    people can move from company to company seeking the best terms and conditions. 
+    The supply of people in the labour market can significantly 
+    affect your company's ability to operate efficiently. 
+  
+
+  The company's labour force is divided into four sections:  
+     Unskilled machine operators - who make the components for the company's products.  
+     Skilled workers - who assemble completed products from the machined components. 
+     Ancillary workers - storepeople, clerks, junior management, etc. 
+     Senior management.  
+   
+  
+
+  All grades of workers may leave because of retirement, sickness 
+    or in order to work for rival companies. 
+    Workers who leave do so at the end of a quarter.
+  
+  In order to meet your delivery schedule, you need to recruit employees  
+    in sufficient numbers to cope with your production needs  
+    and to counteract the loss of any workers 
+    retiring or leaving to work for other companies.
+  
+  Your personnel management task has two specific aspects  - 
+        recruitment 
+   and  motivation .
+  
+
+ In the simulation, ancillary workers are dealt 
+   with in the context of their own departments and their costs 
+   are linked directly with departmental costs. 
+   You do not need to make any decisions about them.
+ 
+
+ Senior management is dealt with  below . 
+ 
+
+ 
+ 
+ RECRUITMENT 
+ Assembly Workers 
+  Skilled assembly workers are the product of intensive training 
+    and may be difficult to recruit. 
+  
+  You  decide   
+    how many assembly workers you wish to recruit (or dismiss).
+    Recruitment is either from the pool of unemployed skilled labour, 
+    or from other companies who employ skilled workers. 
+    Note, however, that recruiting is not always successful - 
+    you may not get any!
+  
+  Effective recruiting depends not only on current earnings, but also on 
+    motivation, the quality of goods which you produce, 
+    and the ability of your personnel management. 
+  
+  It also depends on the number of unemployed available in the labour pool.  
+    In periods of full employment, recruitment can be very difficult, 
+    and trying to tempt people away from other companies 
+    may lead to a very unstable labour market.
+  
+
+  Alternatively, in order to acquire a small number of assembly workers, 
+    you may  decide 
+    to train unemployed unskilled workers.  
+    Although more  expensive  
+    than recruitment, training is more certain.
+  
+  Whether you decide to recruit or train, the new employees 
+    will not be available for production until the quarter after next.
+    Furthermore, you may be limited by the space available in your factory 
+    for more assembly workers (see  Table 26 ).  
+    If this is insufficient, then your decisions will be reduced 
+    to a level that is possible (this could be zero).
+  
+ 
+ Unskilled Machine Operators  
+ Four unskilled machine operators are needed 
+   to operate each machine on each shift that you work. 
+   Any change in the number of machines you have, or in the level of shift working, 
+   will mean that more or fewer unskilled workers are needed.
+ 
+
+ As with assembly workers, unskilled workers may leave if they feel that  
+   working conditions in your factory are not as good as can be found elsewhere. 
+ 
+
+ Because there are always unskilled workers available 
+   in the local pool of unemployed labour, any need for new or replacement people  
+   is handled automatically at a lower level of management in the company, 
+   and senior management is not involved.  
+   The shift supervisor will always be able to recruit enough workers  
+   from the pool of unemployed, at the start of next quarter. 
+ 
+ More  (important detail)
+
+ 
+ 
+ 
+ STAFF TRAINING 
+  In addition to training unemployed unskilled workers 
+    to become assembly workers (as described above), 
+    you may also  decide  
+    to provide your staff with general skills training in order 
+    to improve their motivation, teamwork and effectiveness.
+  
+  External consultants provide such 'on the job' training which   
+    can have both immediate and long-term benefits for your company.  
+    The results of such training, however, can be variable.
+  
+  The training is measured in consultant days, and 
+    charged at a  rate per day  (see Table 15).
+    Typically, a consultant can provide training 
+    for about 5 to 10 employees each day.
+  
+ 
+
+ 
+ 
+ PAY and CONDITIONS  
+ As well as ensuring that you have enough workers,  
+   your personnel department should also manage the cost of the workforce. 
+   Although you decide the wage rate, the way in which your workers are treated 
+   can also have a significant effect not only on motivation, but also earnings. 
+  Overtime, and shift payments can be controlled to keep costs down, 
+  but these elements can only be managed effectively in the context 
+  of current economic conditions, and your marketing and operations strategy. 
+ 
+
+ Assembly Workers 
+ Skilled assembly workers are paid at a basic hourly rate, which 
+   you  decide  each quarter. 
+   This basic rate is subject to an agreement with the trade union which 
+   does not permit wage rates to be reduced. 
+   Any increase in the basic rate is implemented at the beginning of next quarter. 
+ 
+
+  Machine Operators 
+ You can change the capacity of your machine shop by installing more machines, 
+   selling existing machines or by changing shift levels 
+  (see  machining  above).
+   Changes of these kinds will directly affect working conditions and pay. 
+ 
+
+ Ancillary Staff  
+ The cost of other workers in your company is included 
+   in the various costs associated with the departments in which they are employed. 
+   These include: clerical and accountancy staff, buyers, warehouse staff, researchers, etc. 
+ 
+
+ 
+ 
+ SENIOR MANAGEMENT  
+ Your team assumes the role of the company's Board of Directors and can 
+   consist of a Chief Executive, and executives who are responsible for Marketing, 
+   Operations, Personnel and Finance. 
+   You  decide  
+   a  management budget  which is spent on outside services and expertise, 
+   directors' salaries, and general management expenses. 
+   The management budget influences the general quality of management and 
+   this, in turn, affects efficiency in all parts of the company. 
+ 
+ More  (important detail on pay)
+ 
+
+ 
+ FINANCE 
+
+ Your finance department is responsible for ensuring that the company's 
+      funds are managed efficiently in line with corporate strategy. 
+      This implies a variety of roles which include monitoring profitability, 
+      controlling investment and borrowings, 
+      and managing the company's assets and dividend policy. 
+      Above all, it must work closely with the management team 
+      to maximise the company's investment performance, 
+      the criterion by which you will be judged.
+ 
+
+
+ 
+ SHARES 
+ The company is financed by shareholders' capital, consisting of shares 
+   with a nominal value of €1 (euro) each, to the amount shown on the company's balance sheet.
+ 
+
+ The company's shares are quoted on the Stock Exchange, 
+   and the latest share prices for all companies are quoted each quarter 
+   in your management report. Many different factors determine 
+   your  share price .
+ 
+ 
+ You can  decide  to: 
+    issue more shares 
+    or repurchase (and cancel) shares from the market 
+   
+   In either case, the transaction takes place at the start of next quarter, 
+   but the number of shares issued (or repurchased) in any one year 
+   cannot be more than 10% of the issued capital at the start of the year.
+ 
+
+ There may be other restrictions that apply to share issues and repurchases.
+   For example, share issues and repurchases are not allowed 
+   if the share price is below par value (€1).
+ 
+ 
+
+ 
+ 
+ DIVIDENDS 
+ Each quarter  you should 
+   decide  
+   the rate of dividend to be paid to your shareholders.  
+   This is expressed in cents per share (or as a percentage of the share capital).  
+ 
+ Good dividend payments are an important element of your investment performance.
+   Many shareholders look for capital growth from an increasing share price but 
+   others, including major institutional investors such as pension funds, 
+   value a consistent stream of dividends.
+ 
+ Dividend payments are made at the beginning of quarters. 
+   The total dividends paid next quarter may not exceed the company's 
+    retained earnings  as shown in your balance sheet
+   for last quarter. 
+   If you try to pay a dividend that exceeds your retained earnings, the dividend 
+   rate will be restricted to what is possible (this could be zero).
+ 
+
+ 
+  
+ TERM DEPOSIT 
+ 
+  If your company has spare funds, then you may 
+    decide  to place them on deposit for a period of 3 months. 
+    Term deposits earn interest at the current EU bank rate and such 
+    interest will be credited to your bank account at the end of next quarter.
+  
+
+  By default, any term deposit will be 'rolled over' next quarter 
+    for a further 3 months, unless you decide to change the amount. 
+    Such deposits will be taken from, or credited to, your bank account 
+    at the beginning of next quarter 
+   (see  more  detail). 
+  
+
+  If you wish to reduce (or cancel) your term deposit, then you should 
+    enter the appropriate negative amount.
+  
+ 
+
+ 
+ 
+ BORROWING - Term Loans 
+ You can  decide  
+   to take out, or add to, a long term loan 
+   at a  fixed interest rate . 
+   In this type of loan the money comes from investment institutions 
+   that are prepared to commit themselves to your company for the long term, 
+   and become part of the funding structure of your company. 
+   Your company's  borrowing power , 
+   as shown in last quarter's management report, may limit (or prevent) 
+   any new term loans.
+ 
+  The money is credited to you immediately at the beginning of next quarter 
+   as cash, or used to repay all or part of any outstanding overdraft 
+   which you may have - see below. 
+ 
+ 
+  Note that these loans cannot be repaid during the period of the simulation. 
+ 
+
+ 
+ BORROWING - Overdraft 
+ Finance is also available from a bank overdraft (i.e. a flexible bank loan) 
+   at an   interest rate  related to 
+   the current European Central Bank rate. 
+ 
+
+ Your bank sets a maximum, authorised 
+   overdraft limit  for next quarter, 
+   based on your company's short term assets and liabilities 
+   as shown in last quarter's balance sheet.   
+   Overdrafts are issued and repaid automatically as your cash requirements dictate.   
+ 
+
+  If you need more funds than your overdraft limit permits, your bank 
+   will still continue to fund your company, but without security, by means 
+   of an  unauthorised overdraft. 
+  
+  The  interest rate  
+   charged on an unauthorised overdraft is much higher. Furthermore, 
+   this higher rate will apply to the whole overdraft, 
+   and not just the excess over your authorised limit.   
+ 
+ In this simulation,  bank loans will continue to be granted 
+   to your company even though, in normal circumstances, 
+   you might be considered to be insolvent. 
+    
+ No one is declared bankrupt in the simulation,  even if your shares 
+   become worthless.
+ 
+ More 
+
+ 
+ 
+ CAPITAL EXPENDITURE - Property 
+ The company's factory (land and buildings) is wholly owned and 
+   has a value as shown in your company's balance sheet. 
+   No depreciation is charged on land or buildings.
+ 
+ 
+  Your management report shows both the area of land you own, 
+    and the effective floor space in your factory.
+    Office space is mainly at the front of the building on an upper floor 
+    and, therefore, does not impinge on the total production space available.
+ 
+
+ You can  decide  
+   to extend your factory (in order to provide more space for machines, 
+   assembly workers and  stocks of material or work in progress), 
+   subject to the limitation of enough land being available, after 
+   allowing for access and parking (see  Table 26 ).
+   Such work is also subject to your financial position.
+ 
+ Using information from last quarter's balance sheet, your building contractor 
+   checks your  credit-worthiness .   
+   If this is at least equal to the total cost of the planned extension, 
+   then the building work can go ahead.  
+   But, if your credit-worthiness is insufficient, then  
+   the contractor will only agree to extend your factory by some smaller amount
+  (which may be not at all).
+ 
+  New building work takes nearly one quarter to complete, so that extra space 
+    only becomes available starting in the quarter after next.  However, any new 
+    machines purchased next quarter can be installed at the end of the quarter 
+    (see below).  The current cost (per square metre) of new building work 
+    is shown in your  management report .
+ 
+ 
+ 
+ 
+ CAPITAL EXPENDITURE - Plant and equipment 
+ You can  decide to buy  
+   new machines, at a  fixed cost . 
+   You may not be able to place orders for some or all of the machines
+   you require unless your company's financial position is sound  
+   and you have enough space in your factory . 
+ 
+ 
+ The machine supplier checks your ability to pay from your credit-worthiness,  
+   which may be reduced by the cost of any building work (see above) .   
+   If your credit-worthiness is at least equal to the total price 
+   of the machines you want, the supplier will accept your order, 
+   together with your payment of the purchase price. 
+   If your credit-worthiness is insufficient, then  
+   the supplier will only take orders for that number of machines 
+   which your credit-worthiness covers (which may be none).
+ 
+
+  Machines that you buy next quarter are delivered and installed 
+    at the end of next quarter . 
+    They become available for use in the 
+    quarter after next . 
+  
+
+ The value of a machine is  
+    depreciated  quarterly,  
+   by the decreasing balance method.
+ 
+ 
+  Each installed machine occupies 
+    an  area  of your factory.
+    This includes the space needed for access and temporary storage 
+    of materials and machined components.
+  
+ 
+ When you  decide to sell  
+   machines, the oldest are sold first, at the start of next quarter, 
+   at their depreciated (book) value last quarter. 
+ However, because of new legislation on environmental issues, 
+   the potential for contamination and the need for safe waste disposal, 
+   there is a  decommissioning charge  
+   whenever a machine is removed for sale.  
+   Any decommissioning costs are included under 'Other costs'.  
+  
+  Furthermore, because of the need for decommissioning, 
+   the space vacated on removal will not become available for other uses 
+   until the quarter after next. 
+ 
+
+ 
+ 
+ INSURANCE 
+ Your company's activities are at risk from a variety of random events 
+   which can disrupt its operations:  
+    Some or all of the materials held in your own warehouse 
+       may be accidentally destroyed by careless handling, theft, flooding or fire.  
+    Similar risks can destroy all or part of stocks of material 
+       in transit or in your own local warehouse.  
+    Key assembly workers, can suffer from serious home or workplace 
+       accidents which might disrupt your production capacity.  
+    Machines can suffer from catastrophic breakdown which takes 
+       them out of production for periods of time. 
+    Badly designed products can be distributed or sold which later are 
+       found to be environmentally dangerous, and need to be withdrawn for modification.  
+   
+   Disruptive events are relatively rare, and the effects of each 
+   are described in the relevant parts of the manual.
+   Such events are identified by a "!" (exclamation mark) 
+   alongside the relevant figures in the management report.
+ 
+
+  To guard against such incidents, you can 
+    decide  to take out insurance 
+    which will cover any financial loss caused by them. Your insurance company 
+    has  four plans  in which 
+    the proportion of primary risk which your company takes on itself 
+    rises successively. Premiums are calculated as a percentage of 
+    the value of your  non-current assets and inventories . 
+  
+
+  A fifth option is to take out no insurance at all, in which case you are exposed 
+    completely to the dangers and consequent costs of random disruption.
+  
+
+  The other factor affecting the risk of random disruption will be 
+    the level of your management budget  (Decision form) . 
+    Good management leads to safer working environment, ensures 
+    that Health and Safety procedures are properly implemented and 
+    that your products are properly designed. 
+    Poor management tends to lead to a high-risk company.
+   
+
+  More 
+ 
+ 
+ 
+
+ 
+ 

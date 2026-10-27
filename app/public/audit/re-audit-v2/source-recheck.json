@@ -1,0 +1,40 @@
+{
+  "totalPopulatedCells": 10380,
+  "files": [
+    {
+      "file": "HstY15Q1.Xls",
+      "sheets": 5,
+      "populatedCells": 2076,
+      "byteAndCellMatch": true,
+      "sha256": "158c158a8a7c2c9423e7717dcc965ea1c2d67576aa3127fe53335e99a6f043c5"
+    },
+    {
+      "file": "HstY15Q2(1).Xls",
+      "sheets": 5,
+      "populatedCells": 2076,
+      "byteAndCellMatch": true,
+      "sha256": "79bde101cebd8e8e46599625bcb70ea275138825cd5a4a8d7c5f785b78cef250"
+    },
+    {
+      "file": "HstY15Q3(1).Xls",
+      "sheets": 5,
+      "populatedCells": 2075,
+      "byteAndCellMatch": true,
+      "sha256": "e85f70bfddc38c1ac3445c759a884322ffd6a141421946a58a259428e6f16369"
+    },
+    {
+      "file": "HstY15Q4(1).Xls",
+      "sheets": 5,
+      "populatedCells": 2077,
+      "byteAndCellMatch": true,
+      "sha256": "eaaa1cd56a4b2e1c550f4a035ff0dbf063853ff3823cfe4ec82a77b34c0c4615"
+    },
+    {
+      "file": "HstY16Q1(3).Xls",
+      "sheets": 5,
+      "populatedCells": 2076,
+      "byteAndCellMatch": true,
+      "sha256": "f13cbee573a5641b8aca8b8612e948e2fafa685d38f26c9065baa41f5cc14fbb"
+    }
+  ]
+}

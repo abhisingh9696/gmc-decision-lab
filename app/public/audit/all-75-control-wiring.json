@@ -1,0 +1,757 @@
+[
+  {
+    "field": "Corporate advertising €'000 EU",
+    "path": [
+      "advCorp",
+      0
+    ],
+    "requested": 11,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "Corporate advertising €'000 NAFTA",
+    "path": [
+      "advCorp",
+      1
+    ],
+    "requested": 6,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "Corporate advertising €'000 NET",
+    "path": [
+      "advCorp",
+      2
+    ],
+    "requested": 11,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "Product advertising €'000 EU P1",
+    "path": [
+      "advProd",
+      0,
+      0
+    ],
+    "requested": 6,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "Product advertising €'000 EU P2",
+    "path": [
+      "advProd",
+      0,
+      1
+    ],
+    "requested": 6,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "Product advertising €'000 EU P3",
+    "path": [
+      "advProd",
+      0,
+      2
+    ],
+    "requested": 11,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "Product advertising €'000 NAFTA P1",
+    "path": [
+      "advProd",
+      1,
+      0
+    ],
+    "requested": 6,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "Product advertising €'000 NAFTA P2",
+    "path": [
+      "advProd",
+      1,
+      1
+    ],
+    "requested": 6,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "Product advertising €'000 NAFTA P3",
+    "path": [
+      "advProd",
+      1,
+      2
+    ],
+    "requested": 6,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "Product advertising €'000 NET P1",
+    "path": [
+      "advProd",
+      2,
+      0
+    ],
+    "requested": 6,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "Product advertising €'000 NET P2",
+    "path": [
+      "advProd",
+      2,
+      1
+    ],
+    "requested": 6,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "Product advertising €'000 NET P3",
+    "path": [
+      "advProd",
+      2,
+      2
+    ],
+    "requested": 6,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "Price € EU P1",
+    "path": [
+      "prices",
+      0,
+      0
+    ],
+    "requested": 358,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "Price € EU P2",
+    "path": [
+      "prices",
+      0,
+      1
+    ],
+    "requested": 539,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "Price € EU P3",
+    "path": [
+      "prices",
+      0,
+      2
+    ],
+    "requested": 770,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "Price € NAFTA P1",
+    "path": [
+      "prices",
+      1,
+      0
+    ],
+    "requested": 369,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "Price € NAFTA P2",
+    "path": [
+      "prices",
+      1,
+      1
+    ],
+    "requested": 539,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "Price € NAFTA P3",
+    "path": [
+      "prices",
+      1,
+      2
+    ],
+    "requested": 798,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "Price € NET P1",
+    "path": [
+      "prices",
+      2,
+      0
+    ],
+    "requested": 413,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "Price € NET P2",
+    "path": [
+      "prices",
+      2,
+      1
+    ],
+    "requested": 649,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "Price € NET P3",
+    "path": [
+      "prices",
+      2,
+      2
+    ],
+    "requested": 935,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "Make & ship units EU P1",
+    "path": [
+      "deliveries",
+      0,
+      0
+    ],
+    "requested": 1100,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "Make & ship units EU P2",
+    "path": [
+      "deliveries",
+      0,
+      1
+    ],
+    "requested": 688,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "Make & ship units EU P3",
+    "path": [
+      "deliveries",
+      0,
+      2
+    ],
+    "requested": 358,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "Make & ship units NAFTA P1",
+    "path": [
+      "deliveries",
+      1,
+      0
+    ],
+    "requested": 165,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "Make & ship units NAFTA P2",
+    "path": [
+      "deliveries",
+      1,
+      1
+    ],
+    "requested": 165,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "Make & ship units NAFTA P3",
+    "path": [
+      "deliveries",
+      1,
+      2
+    ],
+    "requested": 83,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "Make & ship units NET P1",
+    "path": [
+      "deliveries",
+      2,
+      0
+    ],
+    "requested": 275,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "Make & ship units NET P2",
+    "path": [
+      "deliveries",
+      2,
+      1
+    ],
+    "requested": 165,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "Make & ship units NET P3",
+    "path": [
+      "deliveries",
+      2,
+      2
+    ],
+    "requested": 110,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "Take P1 major improvement",
+    "path": [
+      "takeImprovement",
+      0
+    ],
+    "requested": true,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "Take P2 major improvement",
+    "path": [
+      "takeImprovement",
+      1
+    ],
+    "requested": true,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "Take P3 major improvement",
+    "path": [
+      "takeImprovement",
+      2
+    ],
+    "requested": true,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "R&D €'000 P1",
+    "path": [
+      "rd",
+      0
+    ],
+    "requested": 28,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "R&D €'000 P2",
+    "path": [
+      "rd",
+      1
+    ],
+    "requested": 17,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "R&D €'000 P3",
+    "path": [
+      "rd",
+      2
+    ],
+    "requested": 17,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "Assembly minutes P1",
+    "path": [
+      "assemblyTimes",
+      0
+    ],
+    "requested": 127,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "Assembly minutes P2",
+    "path": [
+      "assemblyTimes",
+      1
+    ],
+    "requested": 182,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "Assembly minutes P3",
+    "path": [
+      "assemblyTimes",
+      2
+    ],
+    "requested": 358,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "Premium materials % P1",
+    "path": [
+      "premium",
+      0
+    ],
+    "requested": 1,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "Premium materials % P2",
+    "path": [
+      "premium",
+      1
+    ],
+    "requested": 1,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "Premium materials % P3",
+    "path": [
+      "premium",
+      2
+    ],
+    "requested": 1,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "Subcontract components P1",
+    "path": [
+      "subcontract",
+      0
+    ],
+    "requested": 1,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "Subcontract components P2",
+    "path": [
+      "subcontract",
+      1
+    ],
+    "requested": 1,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "Subcontract components P3",
+    "path": [
+      "subcontract",
+      2
+    ],
+    "requested": 1,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "EU agents want",
+    "path": [
+      "agentsEU",
+      "want"
+    ],
+    "requested": 4,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "EU agents support",
+    "path": [
+      "agentsEU",
+      "support"
+    ],
+    "requested": 11,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "EU agents commission",
+    "path": [
+      "agentsEU",
+      "commission"
+    ],
+    "requested": 8,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "NAFTA distributors want",
+    "path": [
+      "distNafta",
+      "want"
+    ],
+    "requested": 2,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "NAFTA distributors support",
+    "path": [
+      "distNafta",
+      "support"
+    ],
+    "requested": 9,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "NAFTA distributors commission",
+    "path": [
+      "distNafta",
+      "commission"
+    ],
+    "requested": 7,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "NET distributor support",
+    "path": [
+      "distNet",
+      "support"
+    ],
+    "requested": 10,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "NET distributor commission",
+    "path": [
+      "distNet",
+      "commission"
+    ],
+    "requested": 6,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "Materials spot '000",
+    "path": [
+      "matSpot"
+    ],
+    "requested": 6,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "Materials 3-month '000",
+    "path": [
+      "matM3"
+    ],
+    "requested": 1,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "Materials 6-month '000",
+    "path": [
+      "matM6"
+    ],
+    "requested": 1,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "Maintenance hours/machine",
+    "path": [
+      "maintenance"
+    ],
+    "requested": 22,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "Shift level",
+    "path": [
+      "shift"
+    ],
+    "requested": 3,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "Website ports",
+    "path": [
+      "ports"
+    ],
+    "requested": 6,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 2
+  },
+  {
+    "field": "Website development €'000",
+    "path": [
+      "webDev"
+    ],
+    "requested": 17,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "Hire +/dismiss −",
+    "path": [
+      "hire"
+    ],
+    "requested": 5,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "Workers to train",
+    "path": [
+      "train"
+    ],
+    "requested": 1,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "Assembly wage cents/hour",
+    "path": [
+      "wage"
+    ],
+    "requested": 1320,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "Management budget €'000",
+    "path": [
+      "mgmtBudget"
+    ],
+    "requested": 77,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "Consultant days",
+    "path": [
+      "trainingDays"
+    ],
+    "requested": 1,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "Share issue/repurchase '000",
+    "path": [
+      "shares"
+    ],
+    "requested": 1,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "Dividend cents/share",
+    "path": [
+      "dividend"
+    ],
+    "requested": 2,
+    "status": "conditional: legally blocked in Q2",
+    "firstChangedQuarter": 0
+  },
+  {
+    "field": "Term loan €'000",
+    "path": [
+      "termLoan"
+    ],
+    "requested": 1,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "Deposit change €'000",
+    "path": [
+      "termDeposit"
+    ],
+    "requested": 1,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "Machines to buy",
+    "path": [
+      "machinesBuy"
+    ],
+    "requested": 1,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "Machines to sell",
+    "path": [
+      "machinesSell"
+    ],
+    "requested": 1,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "Factory extension m²",
+    "path": [
+      "factoryExt"
+    ],
+    "requested": 1,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "Insurance plan",
+    "path": [
+      "insurance"
+    ],
+    "requested": 2,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "Purchase market shares",
+    "path": [
+      "infoMarket"
+    ],
+    "requested": false,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  },
+  {
+    "field": "Purchase corporate activity",
+    "path": [
+      "infoCompetitors"
+    ],
+    "requested": false,
+    "status": "connected across five-quarter outputs",
+    "firstChangedQuarter": 1
+  }
+]

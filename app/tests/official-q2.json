@@ -1,0 +1,174 @@
+{
+  "source": "W132162.xls",
+  "period": "2016 Q2",
+  "group": 13,
+  "company": 2,
+  "orders": [
+    [
+      385.0,
+      276.0,
+      177.0
+    ],
+    [
+      45.0,
+      51.0,
+      25.0
+    ],
+    [
+      164.0,
+      106.0,
+      105.0
+    ]
+  ],
+  "sales": [
+    [
+      385.0,
+      277.0,
+      178.0
+    ],
+    [
+      45.0,
+      51.0,
+      25.0
+    ],
+    [
+      144.0,
+      103.0,
+      84.0
+    ]
+  ],
+  "stocks": [
+    [
+      198.0,
+      132.0,
+      112.0
+    ],
+    [
+      50.0,
+      39.0,
+      33.0
+    ],
+    [
+      0.0,
+      0.0,
+      0.0
+    ]
+  ],
+  "openingBalances": {
+    "machineValue": 1044100.0,
+    "buildingValue": 250000.0,
+    "finishedGoodsValue": 131971.0,
+    "materialsTotalValue": 79783.0,
+    "receivables": 503393.0,
+    "payables": 242181.0,
+    "taxDue": 0.0,
+    "termLoanAmt": 0.0,
+    "shareCapital": 4000000.0,
+    "sharePremium": 0.0,
+    "retainedEarnings": 18573.0,
+    "termDepositAmt": 1150000.0,
+    "borrowingPower": 1500000.0,
+    "overdraftLimit": 467000.0,
+    "overdraft": 0.0,
+    "totalCash": 2201507.0
+  },
+  "resources": {
+    "machines": 4.0,
+    "machineEfficiency": 93.3,
+    "assemblyWorkers": 19.0,
+    "machinists": 24.0,
+    "factoryArea": 500.0,
+    "landUnused": 300.0,
+    "materialsStock": 332.0,
+    "agentsEU": 3.0,
+    "distNafta": 1.0,
+    "distNet": 1.0,
+    "ports": 5.0,
+    "matPipeline3": 1.0,
+    "matPipeline6": 0.0
+  },
+  "context": {
+    "exchangeRate": 0.89,
+    "baseRate": 1.0,
+    "buildingCost": 500.0,
+    "spot": 84547.0,
+    "m3": 77070.0,
+    "m6": 74778.0
+  },
+  "prices": [
+    [
+      439.0,
+      662.0,
+      945.0
+    ],
+    [
+      452.0,
+      662.0,
+      979.0
+    ],
+    [
+      506.0,
+      797.0,
+      999.0
+    ]
+  ],
+  "peerMedianPrices": [
+    [
+      325,
+      490,
+      700
+    ],
+    [
+      335,
+      490,
+      725
+    ],
+    [
+      375,
+      590,
+      850
+    ]
+  ],
+  "marketShares": [
+    [
+      1.7,
+      2.4,
+      3.8
+    ],
+    [
+      0.3,
+      0.7,
+      0.9
+    ],
+    [
+      1.7,
+      2.4,
+      4.4
+    ]
+  ],
+  "peerMedianShares": [
+    [
+      4.6,
+      5.4,
+      6.9
+    ],
+    [
+      1.2,
+      2.2,
+      2.7
+    ],
+    [
+      3.2,
+      3.5,
+      5.6
+    ]
+  ],
+  "ratings": [
+    2,
+    2,
+    1
+  ],
+  "wage": 1200,
+  "managementEffective": 70,
+  "managementNotice": 63
+}

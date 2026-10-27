@@ -1,0 +1,1852 @@
+{
+  "name": "Buffered +20% matched deliveries and final dividend",
+  "plan": [
+    {
+      "quarter": "2016 Q2",
+      "decisions": [
+        {
+          "name": "Corporate advertising \u20ac'000 EU",
+          "value": "10"
+        },
+        {
+          "name": "Corporate advertising \u20ac'000 NAFTA",
+          "value": "5"
+        },
+        {
+          "name": "Corporate advertising \u20ac'000 NET",
+          "value": "10"
+        },
+        {
+          "name": "Product advertising \u20ac'000 EU P1",
+          "value": "5"
+        },
+        {
+          "name": "Product advertising \u20ac'000 EU P2",
+          "value": "5"
+        },
+        {
+          "name": "Product advertising \u20ac'000 EU P3",
+          "value": "10"
+        },
+        {
+          "name": "Product advertising \u20ac'000 NAFTA P1",
+          "value": "5"
+        },
+        {
+          "name": "Product advertising \u20ac'000 NAFTA P2",
+          "value": "5"
+        },
+        {
+          "name": "Product advertising \u20ac'000 NAFTA P3",
+          "value": "5"
+        },
+        {
+          "name": "Product advertising \u20ac'000 NET P1",
+          "value": "5"
+        },
+        {
+          "name": "Product advertising \u20ac'000 NET P2",
+          "value": "5"
+        },
+        {
+          "name": "Product advertising \u20ac'000 NET P3",
+          "value": "5"
+        },
+        {
+          "name": "Price \u20ac EU P1",
+          "value": "390"
+        },
+        {
+          "name": "Price \u20ac EU P2",
+          "value": "588"
+        },
+        {
+          "name": "Price \u20ac EU P3",
+          "value": "840"
+        },
+        {
+          "name": "Price \u20ac NAFTA P1",
+          "value": "402"
+        },
+        {
+          "name": "Price \u20ac NAFTA P2",
+          "value": "588"
+        },
+        {
+          "name": "Price \u20ac NAFTA P3",
+          "value": "870"
+        },
+        {
+          "name": "Price \u20ac NET P1",
+          "value": "450"
+        },
+        {
+          "name": "Price \u20ac NET P2",
+          "value": "708"
+        },
+        {
+          "name": "Price \u20ac NET P3",
+          "value": "1020"
+        },
+        {
+          "name": "Make & ship units EU P1",
+          "value": "747"
+        },
+        {
+          "name": "Make & ship units EU P2",
+          "value": "505"
+        },
+        {
+          "name": "Make & ship units EU P3",
+          "value": "385"
+        },
+        {
+          "name": "Make & ship units NAFTA P1",
+          "value": "121"
+        },
+        {
+          "name": "Make & ship units NAFTA P2",
+          "value": "102"
+        },
+        {
+          "name": "Make & ship units NAFTA P3",
+          "value": "67"
+        },
+        {
+          "name": "Make & ship units NET P1",
+          "value": "184"
+        },
+        {
+          "name": "Make & ship units NET P2",
+          "value": "128"
+        },
+        {
+          "name": "Make & ship units NET P3",
+          "value": "73"
+        },
+        {
+          "name": "R&D \u20ac'000 P1",
+          "value": "25"
+        },
+        {
+          "name": "R&D \u20ac'000 P2",
+          "value": "15"
+        },
+        {
+          "name": "R&D \u20ac'000 P3",
+          "value": "15"
+        },
+        {
+          "name": "Assembly minutes P1",
+          "value": "115"
+        },
+        {
+          "name": "Assembly minutes P2",
+          "value": "165"
+        },
+        {
+          "name": "Assembly minutes P3",
+          "value": "325"
+        },
+        {
+          "name": "Premium materials % P1",
+          "value": "0"
+        },
+        {
+          "name": "Premium materials % P2",
+          "value": "0"
+        },
+        {
+          "name": "Premium materials % P3",
+          "value": "0"
+        },
+        {
+          "name": "Subcontract components P1",
+          "value": "0"
+        },
+        {
+          "name": "Subcontract components P2",
+          "value": "0"
+        },
+        {
+          "name": "Subcontract components P3",
+          "value": "0"
+        },
+        {
+          "name": "EU agents wanted",
+          "value": "3"
+        },
+        {
+          "name": "EU agent support \u20ac'000",
+          "value": "10"
+        },
+        {
+          "name": "EU agent commission %",
+          "value": "7"
+        },
+        {
+          "name": "Nafta distributors wanted",
+          "value": "1"
+        },
+        {
+          "name": "Nafta distributor support \u20ac'000",
+          "value": "8"
+        },
+        {
+          "name": "Nafta distributor commission %",
+          "value": "6"
+        },
+        {
+          "name": "Net dist support \u20ac'000",
+          "value": "9"
+        },
+        {
+          "name": "Net comm %",
+          "value": "5"
+        },
+        {
+          "name": "Materials spot '000",
+          "value": "3"
+        },
+        {
+          "name": "3-mth '000",
+          "value": "1"
+        },
+        {
+          "name": "6-mth '000",
+          "value": "0"
+        },
+        {
+          "name": "Maint hrs/machine",
+          "value": "20"
+        },
+        {
+          "name": "Shift level 1-3",
+          "value": "2"
+        },
+        {
+          "name": "Website ports",
+          "value": "5"
+        },
+        {
+          "name": "Website dev \u20ac'000",
+          "value": "15"
+        },
+        {
+          "name": "Hire +/fire \u2212",
+          "value": "0"
+        },
+        {
+          "name": "Train workers",
+          "value": "0"
+        },
+        {
+          "name": "Wage cents/hr",
+          "value": "1200"
+        },
+        {
+          "name": "Training days",
+          "value": "0"
+        },
+        {
+          "name": "Management budget \u20ac'000",
+          "value": "70"
+        },
+        {
+          "name": "Shares +/\u2212 '000",
+          "value": "0"
+        },
+        {
+          "name": "Dividend cents/share",
+          "value": "0"
+        },
+        {
+          "name": "Term loan \u20ac'000",
+          "value": "0"
+        },
+        {
+          "name": "Deposit +/\u2212 \u20ac'000",
+          "value": "500"
+        },
+        {
+          "name": "Machines buy",
+          "value": "0"
+        },
+        {
+          "name": "Machines sell",
+          "value": "0"
+        },
+        {
+          "name": "Factory ext m\u00b2",
+          "value": "0"
+        },
+        {
+          "name": "Insurance plan 0-4",
+          "value": "1"
+        }
+      ],
+      "switches": [
+        {
+          "checked": "true",
+          "name": "P1"
+        },
+        {
+          "checked": "false",
+          "name": "P2"
+        },
+        {
+          "checked": "false",
+          "name": "P3"
+        },
+        {
+          "checked": "true",
+          "name": "Market shares (\u20ac5k)"
+        },
+        {
+          "checked": "true",
+          "name": "Competitor activity (\u20ac7.5k)"
+        }
+      ],
+      "external_assumptions": [
+        {
+          "name": "\u20ac per $ rate",
+          "value": "0.9"
+        },
+        {
+          "name": "Base rate %",
+          "value": "1"
+        },
+        {
+          "name": "Growth \u00d7",
+          "value": "1.01"
+        },
+        {
+          "name": "Competitor avg price EU P1",
+          "value": "325"
+        },
+        {
+          "name": "Competitor avg price EU P2",
+          "value": "490"
+        },
+        {
+          "name": "Competitor avg price EU P3",
+          "value": "700"
+        },
+        {
+          "name": "Competitor avg price NAFTA P1",
+          "value": "335"
+        },
+        {
+          "name": "Competitor avg price NAFTA P2",
+          "value": "490"
+        },
+        {
+          "name": "Competitor avg price NAFTA P3",
+          "value": "725"
+        },
+        {
+          "name": "Competitor avg price NET P1",
+          "value": "375"
+        },
+        {
+          "name": "Competitor avg price NET P2",
+          "value": "590"
+        },
+        {
+          "name": "Competitor avg price NET P3",
+          "value": "850"
+        }
+      ]
+    },
+    {
+      "quarter": "2016 Q3",
+      "decisions": [
+        {
+          "name": "Corporate advertising \u20ac'000 EU",
+          "value": "10"
+        },
+        {
+          "name": "Corporate advertising \u20ac'000 NAFTA",
+          "value": "5"
+        },
+        {
+          "name": "Corporate advertising \u20ac'000 NET",
+          "value": "10"
+        },
+        {
+          "name": "Product advertising \u20ac'000 EU P1",
+          "value": "5"
+        },
+        {
+          "name": "Product advertising \u20ac'000 EU P2",
+          "value": "5"
+        },
+        {
+          "name": "Product advertising \u20ac'000 EU P3",
+          "value": "10"
+        },
+        {
+          "name": "Product advertising \u20ac'000 NAFTA P1",
+          "value": "5"
+        },
+        {
+          "name": "Product advertising \u20ac'000 NAFTA P2",
+          "value": "5"
+        },
+        {
+          "name": "Product advertising \u20ac'000 NAFTA P3",
+          "value": "5"
+        },
+        {
+          "name": "Product advertising \u20ac'000 NET P1",
+          "value": "5"
+        },
+        {
+          "name": "Product advertising \u20ac'000 NET P2",
+          "value": "5"
+        },
+        {
+          "name": "Product advertising \u20ac'000 NET P3",
+          "value": "5"
+        },
+        {
+          "name": "Price \u20ac EU P1",
+          "value": "390"
+        },
+        {
+          "name": "Price \u20ac EU P2",
+          "value": "588"
+        },
+        {
+          "name": "Price \u20ac EU P3",
+          "value": "840"
+        },
+        {
+          "name": "Price \u20ac NAFTA P1",
+          "value": "402"
+        },
+        {
+          "name": "Price \u20ac NAFTA P2",
+          "value": "588"
+        },
+        {
+          "name": "Price \u20ac NAFTA P3",
+          "value": "870"
+        },
+        {
+          "name": "Price \u20ac NET P1",
+          "value": "450"
+        },
+        {
+          "name": "Price \u20ac NET P2",
+          "value": "708"
+        },
+        {
+          "name": "Price \u20ac NET P3",
+          "value": "1020"
+        },
+        {
+          "name": "Make & ship units EU P1",
+          "value": "878"
+        },
+        {
+          "name": "Make & ship units EU P2",
+          "value": "546"
+        },
+        {
+          "name": "Make & ship units EU P3",
+          "value": "420"
+        },
+        {
+          "name": "Make & ship units NAFTA P1",
+          "value": "143"
+        },
+        {
+          "name": "Make & ship units NAFTA P2",
+          "value": "121"
+        },
+        {
+          "name": "Make & ship units NAFTA P3",
+          "value": "73"
+        },
+        {
+          "name": "Make & ship units NET P1",
+          "value": "216"
+        },
+        {
+          "name": "Make & ship units NET P2",
+          "value": "140"
+        },
+        {
+          "name": "Make & ship units NET P3",
+          "value": "90"
+        },
+        {
+          "name": "R&D \u20ac'000 P1",
+          "value": "25"
+        },
+        {
+          "name": "R&D \u20ac'000 P2",
+          "value": "15"
+        },
+        {
+          "name": "R&D \u20ac'000 P3",
+          "value": "15"
+        },
+        {
+          "name": "Assembly minutes P1",
+          "value": "115"
+        },
+        {
+          "name": "Assembly minutes P2",
+          "value": "165"
+        },
+        {
+          "name": "Assembly minutes P3",
+          "value": "325"
+        },
+        {
+          "name": "Premium materials % P1",
+          "value": "0"
+        },
+        {
+          "name": "Premium materials % P2",
+          "value": "0"
+        },
+        {
+          "name": "Premium materials % P3",
+          "value": "0"
+        },
+        {
+          "name": "Subcontract components P1",
+          "value": "0"
+        },
+        {
+          "name": "Subcontract components P2",
+          "value": "0"
+        },
+        {
+          "name": "Subcontract components P3",
+          "value": "0"
+        },
+        {
+          "name": "EU agents wanted",
+          "value": "3"
+        },
+        {
+          "name": "EU agent support \u20ac'000",
+          "value": "10"
+        },
+        {
+          "name": "EU agent commission %",
+          "value": "7"
+        },
+        {
+          "name": "Nafta distributors wanted",
+          "value": "1"
+        },
+        {
+          "name": "Nafta distributor support \u20ac'000",
+          "value": "8"
+        },
+        {
+          "name": "Nafta distributor commission %",
+          "value": "6"
+        },
+        {
+          "name": "Net dist support \u20ac'000",
+          "value": "9"
+        },
+        {
+          "name": "Net comm %",
+          "value": "5"
+        },
+        {
+          "name": "Materials spot '000",
+          "value": "4"
+        },
+        {
+          "name": "3-mth '000",
+          "value": "1"
+        },
+        {
+          "name": "6-mth '000",
+          "value": "0"
+        },
+        {
+          "name": "Maint hrs/machine",
+          "value": "20"
+        },
+        {
+          "name": "Shift level 1-3",
+          "value": "2"
+        },
+        {
+          "name": "Website ports",
+          "value": "5"
+        },
+        {
+          "name": "Website dev \u20ac'000",
+          "value": "15"
+        },
+        {
+          "name": "Hire +/fire \u2212",
+          "value": "0"
+        },
+        {
+          "name": "Train workers",
+          "value": "0"
+        },
+        {
+          "name": "Wage cents/hr",
+          "value": "1200"
+        },
+        {
+          "name": "Training days",
+          "value": "0"
+        },
+        {
+          "name": "Management budget \u20ac'000",
+          "value": "70"
+        },
+        {
+          "name": "Shares +/\u2212 '000",
+          "value": "0"
+        },
+        {
+          "name": "Dividend cents/share",
+          "value": "0"
+        },
+        {
+          "name": "Term loan \u20ac'000",
+          "value": "0"
+        },
+        {
+          "name": "Deposit +/\u2212 \u20ac'000",
+          "value": "0"
+        },
+        {
+          "name": "Machines buy",
+          "value": "0"
+        },
+        {
+          "name": "Machines sell",
+          "value": "0"
+        },
+        {
+          "name": "Factory ext m\u00b2",
+          "value": "0"
+        },
+        {
+          "name": "Insurance plan 0-4",
+          "value": "1"
+        }
+      ],
+      "switches": [
+        {
+          "checked": "false",
+          "name": "P1"
+        },
+        {
+          "checked": "false",
+          "name": "P2"
+        },
+        {
+          "checked": "false",
+          "name": "P3"
+        },
+        {
+          "checked": "true",
+          "name": "Market shares (\u20ac5k)"
+        },
+        {
+          "checked": "true",
+          "name": "Competitor activity (\u20ac7.5k)"
+        }
+      ],
+      "external_assumptions": [
+        {
+          "name": "\u20ac per $ rate",
+          "value": "0.9"
+        },
+        {
+          "name": "Base rate %",
+          "value": "1"
+        },
+        {
+          "name": "Growth \u00d7",
+          "value": "1.01"
+        },
+        {
+          "name": "Competitor avg price EU P1",
+          "value": "325"
+        },
+        {
+          "name": "Competitor avg price EU P2",
+          "value": "490"
+        },
+        {
+          "name": "Competitor avg price EU P3",
+          "value": "700"
+        },
+        {
+          "name": "Competitor avg price NAFTA P1",
+          "value": "335"
+        },
+        {
+          "name": "Competitor avg price NAFTA P2",
+          "value": "490"
+        },
+        {
+          "name": "Competitor avg price NAFTA P3",
+          "value": "725"
+        },
+        {
+          "name": "Competitor avg price NET P1",
+          "value": "375"
+        },
+        {
+          "name": "Competitor avg price NET P2",
+          "value": "590"
+        },
+        {
+          "name": "Competitor avg price NET P3",
+          "value": "850"
+        }
+      ]
+    },
+    {
+      "quarter": "2016 Q4 PEAK",
+      "decisions": [
+        {
+          "name": "Corporate advertising \u20ac'000 EU",
+          "value": "10"
+        },
+        {
+          "name": "Corporate advertising \u20ac'000 NAFTA",
+          "value": "5"
+        },
+        {
+          "name": "Corporate advertising \u20ac'000 NET",
+          "value": "10"
+        },
+        {
+          "name": "Product advertising \u20ac'000 EU P1",
+          "value": "5"
+        },
+        {
+          "name": "Product advertising \u20ac'000 EU P2",
+          "value": "5"
+        },
+        {
+          "name": "Product advertising \u20ac'000 EU P3",
+          "value": "10"
+        },
+        {
+          "name": "Product advertising \u20ac'000 NAFTA P1",
+          "value": "5"
+        },
+        {
+          "name": "Product advertising \u20ac'000 NAFTA P2",
+          "value": "5"
+        },
+        {
+          "name": "Product advertising \u20ac'000 NAFTA P3",
+          "value": "5"
+        },
+        {
+          "name": "Product advertising \u20ac'000 NET P1",
+          "value": "5"
+        },
+        {
+          "name": "Product advertising \u20ac'000 NET P2",
+          "value": "5"
+        },
+        {
+          "name": "Product advertising \u20ac'000 NET P3",
+          "value": "5"
+        },
+        {
+          "name": "Price \u20ac EU P1",
+          "value": "423"
+        },
+        {
+          "name": "Price \u20ac EU P2",
+          "value": "637"
+        },
+        {
+          "name": "Price \u20ac EU P3",
+          "value": "910"
+        },
+        {
+          "name": "Price \u20ac NAFTA P1",
+          "value": "436"
+        },
+        {
+          "name": "Price \u20ac NAFTA P2",
+          "value": "637"
+        },
+        {
+          "name": "Price \u20ac NAFTA P3",
+          "value": "943"
+        },
+        {
+          "name": "Price \u20ac NET P1",
+          "value": "488"
+        },
+        {
+          "name": "Price \u20ac NET P2",
+          "value": "767"
+        },
+        {
+          "name": "Price \u20ac NET P3",
+          "value": "1105"
+        },
+        {
+          "name": "Make & ship units EU P1",
+          "value": "963"
+        },
+        {
+          "name": "Make & ship units EU P2",
+          "value": "608"
+        },
+        {
+          "name": "Make & ship units EU P3",
+          "value": "494"
+        },
+        {
+          "name": "Make & ship units NAFTA P1",
+          "value": "157"
+        },
+        {
+          "name": "Make & ship units NAFTA P2",
+          "value": "135"
+        },
+        {
+          "name": "Make & ship units NAFTA P3",
+          "value": "86"
+        },
+        {
+          "name": "Make & ship units NET P1",
+          "value": "237"
+        },
+        {
+          "name": "Make & ship units NET P2",
+          "value": "156"
+        },
+        {
+          "name": "Make & ship units NET P3",
+          "value": "106"
+        },
+        {
+          "name": "R&D \u20ac'000 P1",
+          "value": "25"
+        },
+        {
+          "name": "R&D \u20ac'000 P2",
+          "value": "15"
+        },
+        {
+          "name": "R&D \u20ac'000 P3",
+          "value": "15"
+        },
+        {
+          "name": "Assembly minutes P1",
+          "value": "115"
+        },
+        {
+          "name": "Assembly minutes P2",
+          "value": "165"
+        },
+        {
+          "name": "Assembly minutes P3",
+          "value": "325"
+        },
+        {
+          "name": "Premium materials % P1",
+          "value": "0"
+        },
+        {
+          "name": "Premium materials % P2",
+          "value": "0"
+        },
+        {
+          "name": "Premium materials % P3",
+          "value": "0"
+        },
+        {
+          "name": "Subcontract components P1",
+          "value": "0"
+        },
+        {
+          "name": "Subcontract components P2",
+          "value": "0"
+        },
+        {
+          "name": "Subcontract components P3",
+          "value": "0"
+        },
+        {
+          "name": "EU agents wanted",
+          "value": "3"
+        },
+        {
+          "name": "EU agent support \u20ac'000",
+          "value": "10"
+        },
+        {
+          "name": "EU agent commission %",
+          "value": "7"
+        },
+        {
+          "name": "Nafta distributors wanted",
+          "value": "1"
+        },
+        {
+          "name": "Nafta distributor support \u20ac'000",
+          "value": "8"
+        },
+        {
+          "name": "Nafta distributor commission %",
+          "value": "6"
+        },
+        {
+          "name": "Net dist support \u20ac'000",
+          "value": "9"
+        },
+        {
+          "name": "Net comm %",
+          "value": "5"
+        },
+        {
+          "name": "Materials spot '000",
+          "value": "4"
+        },
+        {
+          "name": "3-mth '000",
+          "value": "1"
+        },
+        {
+          "name": "6-mth '000",
+          "value": "0"
+        },
+        {
+          "name": "Maint hrs/machine",
+          "value": "20"
+        },
+        {
+          "name": "Shift level 1-3",
+          "value": "2"
+        },
+        {
+          "name": "Website ports",
+          "value": "5"
+        },
+        {
+          "name": "Website dev \u20ac'000",
+          "value": "15"
+        },
+        {
+          "name": "Hire +/fire \u2212",
+          "value": "0"
+        },
+        {
+          "name": "Train workers",
+          "value": "0"
+        },
+        {
+          "name": "Wage cents/hr",
+          "value": "1200"
+        },
+        {
+          "name": "Training days",
+          "value": "0"
+        },
+        {
+          "name": "Management budget \u20ac'000",
+          "value": "70"
+        },
+        {
+          "name": "Shares +/\u2212 '000",
+          "value": "0"
+        },
+        {
+          "name": "Dividend cents/share",
+          "value": "0"
+        },
+        {
+          "name": "Term loan \u20ac'000",
+          "value": "0"
+        },
+        {
+          "name": "Deposit +/\u2212 \u20ac'000",
+          "value": "0"
+        },
+        {
+          "name": "Machines buy",
+          "value": "0"
+        },
+        {
+          "name": "Machines sell",
+          "value": "0"
+        },
+        {
+          "name": "Factory ext m\u00b2",
+          "value": "0"
+        },
+        {
+          "name": "Insurance plan 0-4",
+          "value": "1"
+        }
+      ],
+      "switches": [
+        {
+          "checked": "false",
+          "name": "P1"
+        },
+        {
+          "checked": "false",
+          "name": "P2"
+        },
+        {
+          "checked": "false",
+          "name": "P3"
+        },
+        {
+          "checked": "true",
+          "name": "Market shares (\u20ac5k)"
+        },
+        {
+          "checked": "true",
+          "name": "Competitor activity (\u20ac7.5k)"
+        }
+      ],
+      "external_assumptions": [
+        {
+          "name": "\u20ac per $ rate",
+          "value": "0.9"
+        },
+        {
+          "name": "Base rate %",
+          "value": "1"
+        },
+        {
+          "name": "Growth \u00d7",
+          "value": "1.01"
+        },
+        {
+          "name": "Competitor avg price EU P1",
+          "value": "325"
+        },
+        {
+          "name": "Competitor avg price EU P2",
+          "value": "490"
+        },
+        {
+          "name": "Competitor avg price EU P3",
+          "value": "700"
+        },
+        {
+          "name": "Competitor avg price NAFTA P1",
+          "value": "335"
+        },
+        {
+          "name": "Competitor avg price NAFTA P2",
+          "value": "490"
+        },
+        {
+          "name": "Competitor avg price NAFTA P3",
+          "value": "725"
+        },
+        {
+          "name": "Competitor avg price NET P1",
+          "value": "375"
+        },
+        {
+          "name": "Competitor avg price NET P2",
+          "value": "590"
+        },
+        {
+          "name": "Competitor avg price NET P3",
+          "value": "850"
+        }
+      ]
+    },
+    {
+      "quarter": "2017 Q1",
+      "decisions": [
+        {
+          "name": "Corporate advertising \u20ac'000 EU",
+          "value": "10"
+        },
+        {
+          "name": "Corporate advertising \u20ac'000 NAFTA",
+          "value": "5"
+        },
+        {
+          "name": "Corporate advertising \u20ac'000 NET",
+          "value": "10"
+        },
+        {
+          "name": "Product advertising \u20ac'000 EU P1",
+          "value": "5"
+        },
+        {
+          "name": "Product advertising \u20ac'000 EU P2",
+          "value": "5"
+        },
+        {
+          "name": "Product advertising \u20ac'000 EU P3",
+          "value": "10"
+        },
+        {
+          "name": "Product advertising \u20ac'000 NAFTA P1",
+          "value": "5"
+        },
+        {
+          "name": "Product advertising \u20ac'000 NAFTA P2",
+          "value": "5"
+        },
+        {
+          "name": "Product advertising \u20ac'000 NAFTA P3",
+          "value": "5"
+        },
+        {
+          "name": "Product advertising \u20ac'000 NET P1",
+          "value": "5"
+        },
+        {
+          "name": "Product advertising \u20ac'000 NET P2",
+          "value": "5"
+        },
+        {
+          "name": "Product advertising \u20ac'000 NET P3",
+          "value": "5"
+        },
+        {
+          "name": "Price \u20ac EU P1",
+          "value": "390"
+        },
+        {
+          "name": "Price \u20ac EU P2",
+          "value": "588"
+        },
+        {
+          "name": "Price \u20ac EU P3",
+          "value": "840"
+        },
+        {
+          "name": "Price \u20ac NAFTA P1",
+          "value": "402"
+        },
+        {
+          "name": "Price \u20ac NAFTA P2",
+          "value": "588"
+        },
+        {
+          "name": "Price \u20ac NAFTA P3",
+          "value": "870"
+        },
+        {
+          "name": "Price \u20ac NET P1",
+          "value": "450"
+        },
+        {
+          "name": "Price \u20ac NET P2",
+          "value": "708"
+        },
+        {
+          "name": "Price \u20ac NET P3",
+          "value": "1020"
+        },
+        {
+          "name": "Make & ship units EU P1",
+          "value": "703"
+        },
+        {
+          "name": "Make & ship units EU P2",
+          "value": "428"
+        },
+        {
+          "name": "Make & ship units EU P3",
+          "value": "338"
+        },
+        {
+          "name": "Make & ship units NAFTA P1",
+          "value": "114"
+        },
+        {
+          "name": "Make & ship units NAFTA P2",
+          "value": "95"
+        },
+        {
+          "name": "Make & ship units NAFTA P3",
+          "value": "59"
+        },
+        {
+          "name": "Make & ship units NET P1",
+          "value": "173"
+        },
+        {
+          "name": "Make & ship units NET P2",
+          "value": "110"
+        },
+        {
+          "name": "Make & ship units NET P3",
+          "value": "72"
+        },
+        {
+          "name": "R&D \u20ac'000 P1",
+          "value": "25"
+        },
+        {
+          "name": "R&D \u20ac'000 P2",
+          "value": "15"
+        },
+        {
+          "name": "R&D \u20ac'000 P3",
+          "value": "15"
+        },
+        {
+          "name": "Assembly minutes P1",
+          "value": "115"
+        },
+        {
+          "name": "Assembly minutes P2",
+          "value": "165"
+        },
+        {
+          "name": "Assembly minutes P3",
+          "value": "325"
+        },
+        {
+          "name": "Premium materials % P1",
+          "value": "0"
+        },
+        {
+          "name": "Premium materials % P2",
+          "value": "0"
+        },
+        {
+          "name": "Premium materials % P3",
+          "value": "0"
+        },
+        {
+          "name": "Subcontract components P1",
+          "value": "0"
+        },
+        {
+          "name": "Subcontract components P2",
+          "value": "0"
+        },
+        {
+          "name": "Subcontract components P3",
+          "value": "0"
+        },
+        {
+          "name": "EU agents wanted",
+          "value": "3"
+        },
+        {
+          "name": "EU agent support \u20ac'000",
+          "value": "10"
+        },
+        {
+          "name": "EU agent commission %",
+          "value": "7"
+        },
+        {
+          "name": "Nafta distributors wanted",
+          "value": "1"
+        },
+        {
+          "name": "Nafta distributor support \u20ac'000",
+          "value": "8"
+        },
+        {
+          "name": "Nafta distributor commission %",
+          "value": "6"
+        },
+        {
+          "name": "Net dist support \u20ac'000",
+          "value": "9"
+        },
+        {
+          "name": "Net comm %",
+          "value": "5"
+        },
+        {
+          "name": "Materials spot '000",
+          "value": "3"
+        },
+        {
+          "name": "3-mth '000",
+          "value": "1"
+        },
+        {
+          "name": "6-mth '000",
+          "value": "0"
+        },
+        {
+          "name": "Maint hrs/machine",
+          "value": "20"
+        },
+        {
+          "name": "Shift level 1-3",
+          "value": "2"
+        },
+        {
+          "name": "Website ports",
+          "value": "5"
+        },
+        {
+          "name": "Website dev \u20ac'000",
+          "value": "15"
+        },
+        {
+          "name": "Hire +/fire \u2212",
+          "value": "0"
+        },
+        {
+          "name": "Train workers",
+          "value": "0"
+        },
+        {
+          "name": "Wage cents/hr",
+          "value": "1200"
+        },
+        {
+          "name": "Training days",
+          "value": "0"
+        },
+        {
+          "name": "Management budget \u20ac'000",
+          "value": "70"
+        },
+        {
+          "name": "Shares +/\u2212 '000",
+          "value": "0"
+        },
+        {
+          "name": "Dividend cents/share",
+          "value": "0"
+        },
+        {
+          "name": "Term loan \u20ac'000",
+          "value": "0"
+        },
+        {
+          "name": "Deposit +/\u2212 \u20ac'000",
+          "value": "0"
+        },
+        {
+          "name": "Machines buy",
+          "value": "0"
+        },
+        {
+          "name": "Machines sell",
+          "value": "0"
+        },
+        {
+          "name": "Factory ext m\u00b2",
+          "value": "0"
+        },
+        {
+          "name": "Insurance plan 0-4",
+          "value": "1"
+        }
+      ],
+      "switches": [
+        {
+          "checked": "false",
+          "name": "P1"
+        },
+        {
+          "checked": "false",
+          "name": "P2"
+        },
+        {
+          "checked": "false",
+          "name": "P3"
+        },
+        {
+          "checked": "true",
+          "name": "Market shares (\u20ac5k)"
+        },
+        {
+          "checked": "true",
+          "name": "Competitor activity (\u20ac7.5k)"
+        }
+      ],
+      "external_assumptions": [
+        {
+          "name": "\u20ac per $ rate",
+          "value": "0.9"
+        },
+        {
+          "name": "Base rate %",
+          "value": "1"
+        },
+        {
+          "name": "Growth \u00d7",
+          "value": "1.01"
+        },
+        {
+          "name": "Competitor avg price EU P1",
+          "value": "325"
+        },
+        {
+          "name": "Competitor avg price EU P2",
+          "value": "490"
+        },
+        {
+          "name": "Competitor avg price EU P3",
+          "value": "700"
+        },
+        {
+          "name": "Competitor avg price NAFTA P1",
+          "value": "335"
+        },
+        {
+          "name": "Competitor avg price NAFTA P2",
+          "value": "490"
+        },
+        {
+          "name": "Competitor avg price NAFTA P3",
+          "value": "725"
+        },
+        {
+          "name": "Competitor avg price NET P1",
+          "value": "375"
+        },
+        {
+          "name": "Competitor avg price NET P2",
+          "value": "590"
+        },
+        {
+          "name": "Competitor avg price NET P3",
+          "value": "850"
+        }
+      ]
+    },
+    {
+      "quarter": "2017 Q2",
+      "decisions": [
+        {
+          "name": "Corporate advertising \u20ac'000 EU",
+          "value": "10"
+        },
+        {
+          "name": "Corporate advertising \u20ac'000 NAFTA",
+          "value": "5"
+        },
+        {
+          "name": "Corporate advertising \u20ac'000 NET",
+          "value": "10"
+        },
+        {
+          "name": "Product advertising \u20ac'000 EU P1",
+          "value": "5"
+        },
+        {
+          "name": "Product advertising \u20ac'000 EU P2",
+          "value": "5"
+        },
+        {
+          "name": "Product advertising \u20ac'000 EU P3",
+          "value": "10"
+        },
+        {
+          "name": "Product advertising \u20ac'000 NAFTA P1",
+          "value": "5"
+        },
+        {
+          "name": "Product advertising \u20ac'000 NAFTA P2",
+          "value": "5"
+        },
+        {
+          "name": "Product advertising \u20ac'000 NAFTA P3",
+          "value": "5"
+        },
+        {
+          "name": "Product advertising \u20ac'000 NET P1",
+          "value": "5"
+        },
+        {
+          "name": "Product advertising \u20ac'000 NET P2",
+          "value": "5"
+        },
+        {
+          "name": "Product advertising \u20ac'000 NET P3",
+          "value": "5"
+        },
+        {
+          "name": "Price \u20ac EU P1",
+          "value": "390"
+        },
+        {
+          "name": "Price \u20ac EU P2",
+          "value": "588"
+        },
+        {
+          "name": "Price \u20ac EU P3",
+          "value": "840"
+        },
+        {
+          "name": "Price \u20ac NAFTA P1",
+          "value": "402"
+        },
+        {
+          "name": "Price \u20ac NAFTA P2",
+          "value": "588"
+        },
+        {
+          "name": "Price \u20ac NAFTA P3",
+          "value": "870"
+        },
+        {
+          "name": "Price \u20ac NET P1",
+          "value": "450"
+        },
+        {
+          "name": "Price \u20ac NET P2",
+          "value": "708"
+        },
+        {
+          "name": "Price \u20ac NET P3",
+          "value": "1020"
+        },
+        {
+          "name": "Make & ship units EU P1",
+          "value": "786"
+        },
+        {
+          "name": "Make & ship units EU P2",
+          "value": "478"
+        },
+        {
+          "name": "Make & ship units EU P3",
+          "value": "380"
+        },
+        {
+          "name": "Make & ship units NAFTA P1",
+          "value": "128"
+        },
+        {
+          "name": "Make & ship units NAFTA P2",
+          "value": "106"
+        },
+        {
+          "name": "Make & ship units NAFTA P3",
+          "value": "66"
+        },
+        {
+          "name": "Make & ship units NET P1",
+          "value": "193"
+        },
+        {
+          "name": "Make & ship units NET P2",
+          "value": "122"
+        },
+        {
+          "name": "Make & ship units NET P3",
+          "value": "81"
+        },
+        {
+          "name": "R&D \u20ac'000 P1",
+          "value": "25"
+        },
+        {
+          "name": "R&D \u20ac'000 P2",
+          "value": "15"
+        },
+        {
+          "name": "R&D \u20ac'000 P3",
+          "value": "15"
+        },
+        {
+          "name": "Assembly minutes P1",
+          "value": "115"
+        },
+        {
+          "name": "Assembly minutes P2",
+          "value": "165"
+        },
+        {
+          "name": "Assembly minutes P3",
+          "value": "325"
+        },
+        {
+          "name": "Premium materials % P1",
+          "value": "0"
+        },
+        {
+          "name": "Premium materials % P2",
+          "value": "0"
+        },
+        {
+          "name": "Premium materials % P3",
+          "value": "0"
+        },
+        {
+          "name": "Subcontract components P1",
+          "value": "0"
+        },
+        {
+          "name": "Subcontract components P2",
+          "value": "0"
+        },
+        {
+          "name": "Subcontract components P3",
+          "value": "0"
+        },
+        {
+          "name": "EU agents wanted",
+          "value": "3"
+        },
+        {
+          "name": "EU agent support \u20ac'000",
+          "value": "10"
+        },
+        {
+          "name": "EU agent commission %",
+          "value": "7"
+        },
+        {
+          "name": "Nafta distributors wanted",
+          "value": "1"
+        },
+        {
+          "name": "Nafta distributor support \u20ac'000",
+          "value": "8"
+        },
+        {
+          "name": "Nafta distributor commission %",
+          "value": "6"
+        },
+        {
+          "name": "Net dist support \u20ac'000",
+          "value": "9"
+        },
+        {
+          "name": "Net comm %",
+          "value": "5"
+        },
+        {
+          "name": "Materials spot '000",
+          "value": "3"
+        },
+        {
+          "name": "3-mth '000",
+          "value": "0"
+        },
+        {
+          "name": "6-mth '000",
+          "value": "0"
+        },
+        {
+          "name": "Maint hrs/machine",
+          "value": "20"
+        },
+        {
+          "name": "Shift level 1-3",
+          "value": "2"
+        },
+        {
+          "name": "Website ports",
+          "value": "5"
+        },
+        {
+          "name": "Website dev \u20ac'000",
+          "value": "15"
+        },
+        {
+          "name": "Hire +/fire \u2212",
+          "value": "0"
+        },
+        {
+          "name": "Train workers",
+          "value": "0"
+        },
+        {
+          "name": "Wage cents/hr",
+          "value": "1200"
+        },
+        {
+          "name": "Training days",
+          "value": "0"
+        },
+        {
+          "name": "Management budget \u20ac'000",
+          "value": "70"
+        },
+        {
+          "name": "Shares +/\u2212 '000",
+          "value": "0"
+        },
+        {
+          "name": "Dividend cents/share",
+          "value": "20"
+        },
+        {
+          "name": "Term loan \u20ac'000",
+          "value": "0"
+        },
+        {
+          "name": "Deposit +/\u2212 \u20ac'000",
+          "value": "-500"
+        },
+        {
+          "name": "Machines buy",
+          "value": "0"
+        },
+        {
+          "name": "Machines sell",
+          "value": "0"
+        },
+        {
+          "name": "Factory ext m\u00b2",
+          "value": "0"
+        },
+        {
+          "name": "Insurance plan 0-4",
+          "value": "1"
+        }
+      ],
+      "switches": [
+        {
+          "checked": "false",
+          "name": "P1"
+        },
+        {
+          "checked": "false",
+          "name": "P2"
+        },
+        {
+          "checked": "false",
+          "name": "P3"
+        },
+        {
+          "checked": "true",
+          "name": "Market shares (\u20ac5k)"
+        },
+        {
+          "checked": "true",
+          "name": "Competitor activity (\u20ac7.5k)"
+        }
+      ],
+      "external_assumptions": [
+        {
+          "name": "\u20ac per $ rate",
+          "value": "0.9"
+        },
+        {
+          "name": "Base rate %",
+          "value": "1"
+        },
+        {
+          "name": "Growth \u00d7",
+          "value": "1.01"
+        },
+        {
+          "name": "Competitor avg price EU P1",
+          "value": "325"
+        },
+        {
+          "name": "Competitor avg price EU P2",
+          "value": "490"
+        },
+        {
+          "name": "Competitor avg price EU P3",
+          "value": "700"
+        },
+        {
+          "name": "Competitor avg price NAFTA P1",
+          "value": "335"
+        },
+        {
+          "name": "Competitor avg price NAFTA P2",
+          "value": "490"
+        },
+        {
+          "name": "Competitor avg price NAFTA P3",
+          "value": "725"
+        },
+        {
+          "name": "Competitor avg price NET P1",
+          "value": "375"
+        },
+        {
+          "name": "Competitor avg price NET P2",
+          "value": "590"
+        },
+        {
+          "name": "Competitor avg price NET P3",
+          "value": "850"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "revenue": 1339914.0,
+      "op": 193475.0,
+      "net": 197600.0,
+      "cash": 588067.0,
+      "ip": 4948116.0,
+      "dividend": 0.0,
+      "grossMargin": 0.5291653046389544,
+      "netMargin": 0.14747215119776344,
+      "deposit": 1650000.0,
+      "finishedGoods": 167.0
+    },
+    {
+      "revenue": 1496532.0,
+      "op": 276878.0,
+      "net": 281003.0,
+      "cash": 831322.0,
+      "ip": 5534989.0,
+      "dividend": 0.0,
+      "grossMargin": 0.5414351313570308,
+      "netMargin": 0.1877694563163367,
+      "deposit": 1650000.0,
+      "finishedGoods": 0.0
+    },
+    {
+      "revenue": 1832168.0,
+      "op": 525699.0,
+      "net": 288696.0,
+      "cash": 1218849.0,
+      "ip": 5857157.0,
+      "dividend": 0.0,
+      "grossMargin": 0.5955496439191166,
+      "netMargin": 0.15757070312329438,
+      "deposit": 1650000.0,
+      "finishedGoods": 846.0
+    },
+    {
+      "revenue": 1191942.0,
+      "op": 98517.0,
+      "net": 102642.0,
+      "cash": 1660392.0,
+      "ip": 5292057.0,
+      "dividend": 0.0,
+      "grossMargin": 0.49896051989106854,
+      "netMargin": 0.08611325047695274,
+      "deposit": 1650000.0,
+      "finishedGoods": 178.0
+    },
+    {
+      "revenue": 1333854.0,
+      "op": 187788.0,
+      "net": 190663.0,
+      "cash": 1301457.0,
+      "ip": 7062283.0,
+      "dividend": 800000.0,
+      "grossMargin": 0.5248812838586532,
+      "netMargin": 0.14294143137104962,
+      "deposit": 1150000.0,
+      "finishedGoods": 0.0
+    }
+  ]
+}

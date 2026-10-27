@@ -1,0 +1,12 @@
+import fs from 'node:fs';import {freshEcon,shockEcon,SHOCKS} from '../tests/strategies-bundle.mjs';
+const dir='public/audit/',results=JSON.parse(fs.readFileSync(dir+'strategy-results.json')),full=JSON.parse(fs.readFileSync(dir+'strategy-full-statements.json'));
+const csv=rows=>'\ufeff'+rows.map(r=>r.map(v=>'"'+String(v??'').replaceAll('"','""')+'"').join(',')).join('\n');
+const assumptions=[['Case','Quarter','FX €/$','EU base % p.a.','Growth factor','EU P1 rival €','EU P2 rival €','EU P3 rival €','NA P1 rival €','NA P2 rival €','NA P3 rival €','NET P1 rival €','NET P2 rival €','NET P3 rival €','Derived seasonality (not a decision)']];
+for(const kind of SHOCKS)shockEcon(kind,freshEcon()).forEach((e,i)=>assumptions.push([kind,['2016 Q2','2016 Q3','2016 Q4','2017 Q1','2017 Q2'][i],e.exchangeRate,e.baseRate,e.growth,...e.compPrices.flat(),e.seasonality]));
+fs.writeFileSync(dir+'external-assumptions.csv',csv(assumptions));
+const flatten=(x,prefix='')=>Object.entries(x).flatMap(([k,v])=>v!=null&&typeof v==='object'?flatten(v,prefix+k+'.'):typeof v==='number'?[[prefix+k,v]]:[]);
+const statements=[['Strategy','Case','Quarter','Calculation / metric','Value']];
+for(const p of full)for(const c of p.cases)for(const r of c.reports)for(const[k,v]of flatten(r.details))statements.push([p.name,c.kind,r.quarterLabel,k,v]);
+fs.writeFileSync(dir+'all-financial-statements.csv',csv(statements));
+const q2=[['Strategy','Metric','Value']];for(const p of full){let r=p.cases[0].reports[0];for(const[k,v]of flatten(r))q2.push([p.name,k,v]);}fs.writeFileSync(dir+'Q2-2016-outputs.csv',csv(q2));
+await import('./report-v2.mjs');

@@ -1,0 +1,31 @@
+TABLE  STATUS       AREA
+-----  -----------  ----
+T 1   ASSUMPTION  Demographics / market demand
+T 2   VERIFIED    Information costs [check PASS]
+T 3   PARTIAL     Agent costs & changes
+T 4   PARTIAL     Internet costs
+T 5   PARTIAL     Production requirements
+T 6   PARTIAL     Maintenance
+T 7   PARTIAL     Machine shifts
+T 8   PARTIAL     Scrap / rejects
+T 9   PARTIAL     Warranty / guarantee
+T10   PARTIAL     Production expenses
+T11   PARTIAL     Containers
+T12   PARTIAL     Transport / freight
+T13   PARTIAL     Purchasing & warehousing [check PASS]
+T14   PARTIAL     Average stocks
+T15   PARTIAL     Personnel costs
+T16   PARTIAL     Overtime
+T17   PARTIAL     Minimum pay & parity
+T18   PARTIAL     Machinery purchase/disposal/depreciation
+T19   PARTIAL     Financial limits
+T20   PARTIAL     Taxes & interest
+T21   PARTIAL     Inventory valuation
+T22   PARTIAL     Insurance [check PASS]
+T23   PARTIAL     Customer collections
+T24   PARTIAL     Supplier payments
+T25   PARTIAL     Website throughput
+T26   PARTIAL     Factory space
+T27   PARTIAL     Carbon emissions
+
+Summary: ASSUMPTION: 1 · VERIFIED: 1 · PARTIAL: 25 · total 27

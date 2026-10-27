@@ -1,0 +1,44 @@
+— Demand & marketing —
+  ok  price ↑ → EU P1 orders ↓
+  ok  product ads ↑ → EU P1 orders ↑
+  ok  corp ads ↑ → admin ↑ + image persists
+  ok  agent commission ↑ → EU orders ↑
+  ok  nafta support ↑ → Nafta orders ↑
+  ok  net support ↑ → Net orders ↑
+  ok  webDev ↑ → admin ↑ & net channel ↑
+  ok  want 4th EU agent → orders ↑ from Q3
+  ok  ports ↑ → admin (ISP) ↑ from Q3 (lead time)
+— Production & operations —
+  ok  deliveries ↑ → production ↑
+  ok  buy machine Q2 → WIP then capacity Q3
+  ok  sell machine Q2 → gross proceeds, capacity ↓ from Q3
+  ok  hire 6 → workers arrive Q3 (headcount = 27)
+  ok  fire 3 → dismiss cost now, workers ↓ from Q3
+  ok  wage ↑ → COGS ↑ profit ↓
+  ok  shift 3 → machining capacity ↑
+  ok  assembly time ↓ → hours ↓, rejects ↑
+  ok  premium 20% → COGS ↑ (premium adder)
+  ok  training days 20 → admin ↑ rejects ↓
+  ok  train request 4 is space-capped to 2 → Q3 headcount 27
+  ok  maintenance 30 vs 10 → efficiency path differs
+  ok  spot 0 → emergency purchase alert + cost
+  ok  3-mth futures → on-order asset, arrives Q3
+  ok  factory ext → land used, space ↑ Q3
+  ok  subcontract Q2 → WIP components arrive Q3, 50/50 paid
+— Quality & R&D —
+  ok  P1 improvement launch → 135 obsolete + stars ↑
+  ok  R&D spend ↑ → admin ↑
+— Finance —
+  ok  deposit +400 → cash ↓ interest ↑
+  ok  loan 1000k → cash ↑ interest 25k
+  ok  dividend blocked Q2 (neg. reserves), paid later
+  ok  share issue 100k → cash ↑ capital ↑
+  ok  insurance plan 0 → premium 0
+  ok  info off → admin ↓ 12,500
+  ok  mgmt budget ↑ immediate, ↓ deferred
+— Econ assumptions —
+  ok  FX ↑ (weaker €) → Nafta orders ↑
+  ok  competitor price ↑ → our orders ↑
+  ok  growth ↑ → orders ↑
+
+37 passed, 0 failed

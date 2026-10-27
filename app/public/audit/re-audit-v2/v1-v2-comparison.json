@@ -1,0 +1,432 @@
+[
+  {
+    "name": "Baseline",
+    "v1": 3838216,
+    "v2": 4696505,
+    "difference": 858289,
+    "sensitivities": [
+      {
+        "name": "Manual-standard default",
+        "ip": 4696505,
+        "worstIP": 3669508,
+        "minCash": 826635,
+        "critical": true
+      },
+      {
+        "name": "Legacy inventory cost pool",
+        "ip": 4695691,
+        "worstIP": 3794425,
+        "minCash": 826635,
+        "critical": true
+      },
+      {
+        "name": "Price elasticity 25% stronger",
+        "ip": 4696505,
+        "worstIP": 3518143,
+        "minCash": 801600,
+        "critical": true
+      },
+      {
+        "name": "No dividend sentiment bonus",
+        "ip": 4696505,
+        "worstIP": 3669508,
+        "minCash": 826635,
+        "critical": true
+      },
+      {
+        "name": "Half-quarter parity exposure",
+        "ip": 5087539,
+        "worstIP": 4381089,
+        "minCash": 826635,
+        "critical": true
+      }
+    ]
+  },
+  {
+    "name": "BUF exact saved",
+    "v1": 7525185,
+    "v2": 7491188,
+    "difference": -33997,
+    "sensitivities": [
+      {
+        "name": "Manual-standard default",
+        "ip": 7491188,
+        "worstIP": 5329640,
+        "minCash": 326635,
+        "critical": true
+      },
+      {
+        "name": "Legacy inventory cost pool",
+        "ip": 7483866,
+        "worstIP": 5570685,
+        "minCash": 326635,
+        "critical": true
+      },
+      {
+        "name": "Price elasticity 25% stronger",
+        "ip": 6929671,
+        "worstIP": 4367846,
+        "minCash": 206859,
+        "critical": true
+      },
+      {
+        "name": "No dividend sentiment bonus",
+        "ip": 6255749,
+        "worstIP": 4746449,
+        "minCash": 326635,
+        "critical": true
+      },
+      {
+        "name": "Half-quarter parity exposure",
+        "ip": 7555033,
+        "worstIP": 5392529,
+        "minCash": 326635,
+        "critical": true
+      }
+    ]
+  },
+  {
+    "name": "C8 saved zero later hires",
+    "v1": 5751308,
+    "v2": 5893756,
+    "difference": 142448,
+    "sensitivities": [
+      {
+        "name": "Manual-standard default",
+        "ip": 5893756,
+        "worstIP": 4790493,
+        "minCash": 826635,
+        "critical": false
+      },
+      {
+        "name": "Legacy inventory cost pool",
+        "ip": 5900839,
+        "worstIP": 4939950,
+        "minCash": 826635,
+        "critical": false
+      },
+      {
+        "name": "Price elasticity 25% stronger",
+        "ip": 5868054,
+        "worstIP": 4433916,
+        "minCash": 723307,
+        "critical": true
+      },
+      {
+        "name": "No dividend sentiment bonus",
+        "ip": 5759543,
+        "worstIP": 4642586,
+        "minCash": 826635,
+        "critical": false
+      },
+      {
+        "name": "Half-quarter parity exposure",
+        "ip": 5951349,
+        "worstIP": 4847892,
+        "minCash": 826635,
+        "critical": false
+      }
+    ]
+  },
+  {
+    "name": "A45 saved zero hires",
+    "v1": 7314811,
+    "v2": 6867283,
+    "difference": -447528,
+    "sensitivities": [
+      {
+        "name": "Manual-standard default",
+        "ip": 6867283,
+        "worstIP": 4028679,
+        "minCash": -80148,
+        "critical": true
+      },
+      {
+        "name": "Legacy inventory cost pool",
+        "ip": 7326090,
+        "worstIP": 5053640,
+        "minCash": -282435,
+        "critical": true
+      },
+      {
+        "name": "Price elasticity 25% stronger",
+        "ip": 5537961,
+        "worstIP": 2896527,
+        "minCash": -548864,
+        "critical": true
+      },
+      {
+        "name": "No dividend sentiment bonus",
+        "ip": 5653935,
+        "worstIP": 3684753,
+        "minCash": -80148,
+        "critical": true
+      },
+      {
+        "name": "Half-quarter parity exposure",
+        "ip": 7116660,
+        "worstIP": 4580549,
+        "minCash": -39343,
+        "critical": true
+      }
+    ]
+  },
+  {
+    "name": "C8 report: later hire +4",
+    "v1": 5294973,
+    "v2": 5594574,
+    "difference": 299601,
+    "sensitivities": [
+      {
+        "name": "Manual-standard default",
+        "ip": 5594574,
+        "worstIP": 4424769,
+        "minCash": 812767,
+        "critical": true
+      },
+      {
+        "name": "Legacy inventory cost pool",
+        "ip": 5604227,
+        "worstIP": 4705822,
+        "minCash": 764552,
+        "critical": true
+      },
+      {
+        "name": "Price elasticity 25% stronger",
+        "ip": 5568889,
+        "worstIP": 3733337,
+        "minCash": 640736,
+        "critical": true
+      },
+      {
+        "name": "No dividend sentiment bonus",
+        "ip": 5457762,
+        "worstIP": 4341605,
+        "minCash": 812767,
+        "critical": true
+      },
+      {
+        "name": "Half-quarter parity exposure",
+        "ip": 5944629,
+        "worstIP": 4841175,
+        "minCash": 826635,
+        "critical": true
+      }
+    ]
+  },
+  {
+    "name": "A35 report: hire +4",
+    "v1": 6768694,
+    "v2": 6670708,
+    "difference": -97986,
+    "sensitivities": [
+      {
+        "name": "Manual-standard default",
+        "ip": 6670708,
+        "worstIP": 3890147,
+        "minCash": 65258,
+        "critical": true
+      },
+      {
+        "name": "Legacy inventory cost pool",
+        "ip": 7141032,
+        "worstIP": 4882924,
+        "minCash": -178083,
+        "critical": true
+      },
+      {
+        "name": "Price elasticity 25% stronger",
+        "ip": 5588703,
+        "worstIP": 2810207,
+        "minCash": -442321,
+        "critical": true
+      },
+      {
+        "name": "No dividend sentiment bonus",
+        "ip": 5510280,
+        "worstIP": 3711124,
+        "minCash": 65258,
+        "critical": true
+      },
+      {
+        "name": "Half-quarter parity exposure",
+        "ip": 7192802,
+        "worstIP": 4915787,
+        "minCash": 95519,
+        "critical": true
+      }
+    ]
+  },
+  {
+    "name": "A45 report: hire +4",
+    "v1": 6844434,
+    "v2": 6516623,
+    "difference": -327811,
+    "sensitivities": [
+      {
+        "name": "Manual-standard default",
+        "ip": 6516623,
+        "worstIP": 3610290,
+        "minCash": -123628,
+        "critical": true
+      },
+      {
+        "name": "Legacy inventory cost pool",
+        "ip": 7119533,
+        "worstIP": 4857704,
+        "minCash": -374578,
+        "critical": true
+      },
+      {
+        "name": "Price elasticity 25% stronger",
+        "ip": 5210438,
+        "worstIP": 2628229,
+        "minCash": -692397,
+        "critical": true
+      },
+      {
+        "name": "No dividend sentiment bonus",
+        "ip": 5395633,
+        "worstIP": 3429948,
+        "minCash": -123628,
+        "critical": true
+      },
+      {
+        "name": "Half-quarter parity exposure",
+        "ip": 7042712,
+        "worstIP": 4556429,
+        "minCash": -52489,
+        "critical": true
+      }
+    ]
+  },
+  {
+    "name": "Search: cash-constrained candidate",
+    "v1": 7371484,
+    "v2": 7484165,
+    "difference": 112681,
+    "sensitivities": [
+      {
+        "name": "Manual-standard default",
+        "ip": 7484165,
+        "worstIP": 5822773,
+        "minCash": 826635,
+        "critical": false
+      },
+      {
+        "name": "Legacy inventory cost pool",
+        "ip": 7489248,
+        "worstIP": 6056167,
+        "minCash": 790252,
+        "critical": false
+      },
+      {
+        "name": "Price elasticity 25% stronger",
+        "ip": 6789640,
+        "worstIP": 4603892,
+        "minCash": 635140,
+        "critical": false
+      },
+      {
+        "name": "No dividend sentiment bonus",
+        "ip": 6516834,
+        "worstIP": 5049927,
+        "minCash": 826635,
+        "critical": false
+      },
+      {
+        "name": "Half-quarter parity exposure",
+        "ip": 7509371,
+        "worstIP": 5847624,
+        "minCash": 826635,
+        "critical": false
+      }
+    ]
+  },
+  {
+    "name": "Search: uncertainty-tested candidate",
+    "v1": 7371484,
+    "v2": 7484165,
+    "difference": 112681,
+    "sensitivities": [
+      {
+        "name": "Manual-standard default",
+        "ip": 7484165,
+        "worstIP": 5822773,
+        "minCash": 826635,
+        "critical": false
+      },
+      {
+        "name": "Legacy inventory cost pool",
+        "ip": 7489248,
+        "worstIP": 6056167,
+        "minCash": 790252,
+        "critical": false
+      },
+      {
+        "name": "Price elasticity 25% stronger",
+        "ip": 6789640,
+        "worstIP": 4603892,
+        "minCash": 635140,
+        "critical": false
+      },
+      {
+        "name": "No dividend sentiment bonus",
+        "ip": 6516834,
+        "worstIP": 5049927,
+        "minCash": 826635,
+        "critical": false
+      },
+      {
+        "name": "Half-quarter parity exposure",
+        "ip": 7509371,
+        "worstIP": 5847624,
+        "minCash": 826635,
+        "critical": false
+      }
+    ]
+  },
+  {
+    "name": "Search: highest base proxy",
+    "v1": 7371484,
+    "v2": 7484165,
+    "difference": 112681,
+    "sensitivities": [
+      {
+        "name": "Manual-standard default",
+        "ip": 7484165,
+        "worstIP": 5822773,
+        "minCash": 826635,
+        "critical": false
+      },
+      {
+        "name": "Legacy inventory cost pool",
+        "ip": 7489248,
+        "worstIP": 6056167,
+        "minCash": 790252,
+        "critical": false
+      },
+      {
+        "name": "Price elasticity 25% stronger",
+        "ip": 6789640,
+        "worstIP": 4603892,
+        "minCash": 635140,
+        "critical": false
+      },
+      {
+        "name": "No dividend sentiment bonus",
+        "ip": 6516834,
+        "worstIP": 5049927,
+        "minCash": 826635,
+        "critical": false
+      },
+      {
+        "name": "Half-quarter parity exposure",
+        "ip": 7509371,
+        "worstIP": 5847624,
+        "minCash": 826635,
+        "critical": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,162 @@
+— Baseline sanity —
+  ok  baseline revenue > 0
+  ok  deposit interest = 2875
+  ok  balance check baseline Q2 = 0
+  ok  cash bridge baseline Q2
+  ok  retained bridge baseline Q2
+  ok  all 5 quarters balance
+  ok  workforce headcount = 21 post-arrival (R07)
+  ok  gross >= good, rejects ~3% (R06)
+  ok  integer reconciliation: good+rejects = gross (unscaled)
+  ok  ipBreakdown identity 2016 Q2
+  ok  ipBreakdown price 2016 Q2
+  ok  ipBreakdown identity 2016 Q3
+  ok  ipBreakdown price 2016 Q3
+  ok  ipBreakdown identity 2016 Q4
+  ok  ipBreakdown price 2016 Q4
+  ok  ipBreakdown identity 2017 Q1
+  ok  ipBreakdown price 2017 Q1
+  ok  ipBreakdown identity 2017 Q2
+  ok  ipBreakdown price 2017 Q2
+  ok  no P2 improvement relaunch in baseline (R03)
+  ok  materials Table 21 valuation (N03)
+  ok  overtime tiers: baseline within basic hours, no Sun (N05)
+  ok  assembly avail = 21×576×0.97 (N05)
+— Tax chronology (F01) —
+  ok  no tax assessed in Q2
+  ok  no tax paid in Q2 (nothing due)
+  ok  profitable year: Q4 assesses tax
+  ok  following Q2 pays it
+— Dividend opening-reserves rule (F02) —
+  ok  dividend blocked with negative opening reserves
+— Term loan: cap, principal, interest (F03/R01) —
+  ok  loan capped at borrowing power 1,542,000
+  ok  cap warning shown
+  ok  interest on drawn balance = 38,550
+  ok  loan principal reaches cash (bridge holds)
+  ok  balance holds under capped loan
+— Wage floor (R02) —
+  ok  wage cut refused (floor = prior 1200)
+  ok  assembly payroll uses 1200 not 1000
+  ok  floor carries forward (1300 then 1100→1300)
+— Invalid input clamps —
+  ok  clamped run matches forced reference
+— Improvement launch / obsolete stock (R03 + N04) —
+  ok  P1 liquidated at OWN valuation
+  ok  P1 not at cross-product average 155.05
+  ok  P2 liquidated at OWN valuation
+  ok  P2 not at cross-product average 155.05
+  ok  P3 liquidated at OWN valuation
+  ok  P3 not at cross-product average 155.05
+  ok  obsoleteUnits = 135 for P1 launch
+  ok  per-product values differ (P3 > P2 > P1)
+  ok  launch balances
+  ok  invalid P2 relaunch flagged
+— N01: emergency materials fully accounted —
+  ok  emergency warning with full invoice
+  ok  shortfall detected
+  ok  materials paid (cash) = half of full invoice
+  ok  unpaid half sits in payables
+  ok  unit reconciliation: opening+receipts-consumption=closing
+  ok  no phantom saving: cash + inventory value FALLS vs baseline
+  ok  profit FALLS vs baseline (premium fully charged)
+  ok  balance holds under emergency purchase
+  ok  cash bridge holds under emergency purchase
+— N02: machine sale, single decommissioning —
+  ok  balance check = 0 after sale
+  ok  gross proceeds in cash flow
+  ok  decommissioning expensed exactly once (60,000)
+  ok  fixed assets reduced by book value
+  ok  two machines: 120,000 decommissioning, balance 0
+  ok  mixed buy/sell with loan: balance 0
+  ok  machine sale under overdraft: balance 0 all quarters
+— N05: automatic overtime capacity —
+  ok  no capacity cut with overtime
+  ok  assembly avail = 11,733
+  ok  Saturday tier engaged
+  ok  beyond-all-tiers plan still scaled
+  ok  scaled output stays integer-consistent
+— N06: management budget notice + 10% cap —
+  ok  reduction deferred with warning
+  ok  effective stays 70 this quarter
+  ok  salaries charged = 70,000
+  ok  next quarter effective = 63 (10% cap)
+  ok  balance holds with budget schedule
+— Annual share-dealing cap (finance manual: ±10% of YEAR-START capital per year) —
+  ok  Q2 issue of 400k accepted
+  ok  Q3 repeat issue BLOCKED (annual allowance used)
+  ok  capital never exceeds 4.4M in 2016
+  ok  allowance resets in 2017 Q1
+  ok  repurchase pool also capped annually
+  ok  balance ties with capped share trades
+— Effective decisions in report (portal export parity incl. financial caps) —
+  ok  effective: Q2 shares = 400 (accepted)
+  ok  effective: Q3 shares = 0 (annual cap)
+  ok  effective: wage forced 800→1200
+  ok  effective: loan −1→0, shift 4→3
+  ok  effective: dividend blocked → 0
+  ok  adjustment flags on all forced changes
+  ok  effective: dividend capped to opening reserves (€)
+— Subcontract wiring (m2.htm components + Table 24 50/50) —
+  ok  endpoint P1 0% = €124
+  ok  endpoint P2 0% = €204
+  ok  endpoint P3 0% = €314
+  ok  endpoint P1 100% = €157
+  ok  endpoint P2 100% = €269
+  ok  endpoint P3 100% = €411
+  ok  engine: 100× std components = €12,400 + €20,400 + €31,400
+  ok  engine: 100× premium components = €15,700 + €26,900 + €41,100
+  ok  order quarter: 50% paid, alert placed
+  ok  order quarter: second 50% sits in payables
+  ok  components arrive NEXT quarter as WIP (not finished stock)
+  ok  arrival quarter: remaining 50% paid (FX-locked)
+  ok  consume-first: machine hours fall in arrival quarter
+  ok  components still need FULL assembly hours
+  ok  balance/cash bridges hold with subcontract
+  ok  components fully consumed by the plan (no WIP left)
+  ok  zero production: components stay in WIP (units)
+  ok  zero production: WIP valued on balance sheet
+  ok  zero production: balance still ties
+  ok  FX lock: second instalment equals first
+— Reconciliation battery (F04/R04/R05) —
+  ok  baseline: balance 0 (5 qtrs)
+  ok  baseline: cash bridge (5 qtrs)
+  ok  baseline: retained bridge (5 qtrs)
+  ok  expansion+futures: balance 0 (5 qtrs)
+  ok  expansion+futures: cash bridge (5 qtrs)
+  ok  expansion+futures: retained bridge (5 qtrs)
+  ok  contraction: balance 0 (5 qtrs)
+  ok  contraction: cash bridge (5 qtrs)
+  ok  contraction: retained bridge (5 qtrs)
+  ok  finance moves: balance 0 (5 qtrs)
+  ok  finance moves: cash bridge (5 qtrs)
+  ok  finance moves: retained bridge (5 qtrs)
+  ok  all-emergency materials: balance 0 (5 qtrs)
+  ok  all-emergency materials: cash bridge (5 qtrs)
+  ok  all-emergency materials: retained bridge (5 qtrs)
+  ok  subcontract+launch: balance 0 (5 qtrs)
+  ok  subcontract+launch: cash bridge (5 qtrs)
+  ok  subcontract+launch: retained bridge (5 qtrs)
+— Lead times & independence —
+  ok  capex is WIP in Q2, fixed in Q3
+  ok  futures on order shown as asset in Q2, gone in Q3
+— Shared sanitize (portal export == engine effective entries) —
+  ok  wage 800 forced to floor 1200
+  ok  negative loan forced to 0
+  ok  shift 4 forced into 1-3
+  ok  train 12 forced to 9, days 120 to 90
+  ok  engine warnings match sanitize
+— Save/load round trip —
+  ok  identical decisions → identical results
+  ok  premium materials: purchases paid, balance 0
+  ok  NAFTA container round trip = €9300
+  ok  port interpolation: anchors exact, 3 ports = 15/hr, 60 ports extrapolated
+— Insurance (Table 22: premium % of non-current assets + ALL inventories, last-quarter balance sheet) —
+  ok  insurance plan 1 = 0.60% × €1,488,020 opening base
+  ok  insurance plan 2 = 0.35% × €1,488,020 opening base
+  ok  insurance plan 3 = 0.20% × €1,488,020 opening base
+  ok  insurance plan 4 = 0.10% × €1,488,020 opening base
+  ok  insurance plan 0 (no cover) = €0
+  ok  baseline plan 1 includes materials (€8,928 not €8,367)
+
+138 passed, 0 failed (+3 appended checks above)
