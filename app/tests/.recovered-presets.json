@@ -1,0 +1,514 @@
+{
+ "S1": {
+  "advProd": [
+   [
+    5,
+    5,
+    10
+   ],
+   [
+    5,
+    5,
+    5
+   ],
+   [
+    5,
+    5,
+    5
+   ]
+  ],
+  "prices": [
+   [
+    360,
+    530,
+    730
+   ],
+   [
+    370,
+    530,
+    755
+   ],
+   [
+    430,
+    640,
+    900
+   ]
+  ],
+  "deliveries": [
+   [
+    605,
+    435,
+    230
+   ],
+   [
+    45,
+    65,
+    15
+   ],
+   [
+    275,
+    185,
+    145
+   ]
+  ],
+  "advCorp": [
+   10,
+   5,
+   10
+  ],
+  "takeImprovement": [
+   false,
+   false,
+   false
+  ],
+  "rd": [
+   15,
+   15,
+   25
+  ],
+  "assemblyTimes": [
+   125,
+   180,
+   345
+  ],
+  "premium": [
+   0,
+   0,
+   0
+  ],
+  "subcontract": [
+   0,
+   0,
+   0
+  ],
+  "agentsEU": {
+   "want": 3,
+   "support": 10,
+   "commission": 7
+  },
+  "distNafta": {
+   "want": 1,
+   "support": 8,
+   "commission": 6
+  },
+  "distNet": {
+   "support": 9,
+   "commission": 5
+  },
+  "matSpot": 3,
+  "matM3": 1,
+  "matM6": 0,
+  "maintenance": 20,
+  "shift": 2,
+  "ports": 5,
+  "webDev": 15,
+  "hire": 0,
+  "train": 0,
+  "wage": 1200,
+  "mgmtBudget": 70,
+  "trainingDays": 5,
+  "shares": 0,
+  "dividend": 0,
+  "termLoan": 0,
+  "termDeposit": 0,
+  "machinesBuy": 0,
+  "machinesSell": 0,
+  "factoryExt": 0,
+  "insurance": 1,
+  "infoMarket": true,
+  "infoCompetitors": true
+ },
+ "S4": {
+  "advProd": [
+   [
+    5,
+    5,
+    10
+   ],
+   [
+    5,
+    5,
+    5
+   ],
+   [
+    5,
+    5,
+    5
+   ]
+  ],
+  "prices": [
+   [
+    335,
+    490,
+    700
+   ],
+   [
+    345,
+    490,
+    725
+   ],
+   [
+    395,
+    590,
+    850
+   ]
+  ],
+  "deliveries": [
+   [
+    949,
+    583,
+    320
+   ],
+   [
+    134,
+    118,
+    53
+   ],
+   [
+    289,
+    196,
+    114
+   ]
+  ],
+  "advCorp": [
+   10,
+   5,
+   10
+  ],
+  "takeImprovement": [
+   false,
+   false,
+   false
+  ],
+  "rd": [
+   15,
+   15,
+   25
+  ],
+  "assemblyTimes": [
+   115,
+   165,
+   325
+  ],
+  "premium": [
+   0,
+   0,
+   0
+  ],
+  "subcontract": [
+   0,
+   0,
+   0
+  ],
+  "agentsEU": {
+   "want": 3,
+   "support": 10,
+   "commission": 7
+  },
+  "distNafta": {
+   "want": 1,
+   "support": 8,
+   "commission": 6
+  },
+  "distNet": {
+   "support": 9,
+   "commission": 5
+  },
+  "matSpot": 3,
+  "matM3": 2,
+  "matM6": 0,
+  "maintenance": 20,
+  "shift": 2,
+  "ports": 5,
+  "webDev": 15,
+  "hire": 0,
+  "train": 0,
+  "wage": 1200,
+  "mgmtBudget": 70,
+  "trainingDays": 5,
+  "shares": 0,
+  "dividend": 0,
+  "termLoan": 0,
+  "termDeposit": -1150,
+  "machinesBuy": 0,
+  "machinesSell": 0,
+  "factoryExt": 0,
+  "insurance": 1,
+  "infoMarket": true,
+  "infoCompetitors": true
+ },
+ "S5": {
+  "advProd": [
+   [
+    5,
+    5,
+    10
+   ],
+   [
+    5,
+    5,
+    5
+   ],
+   [
+    5,
+    5,
+    5
+   ]
+  ],
+  "prices": [
+   [
+    350,
+    510,
+    710
+   ],
+   [
+    360,
+    510,
+    735
+   ],
+   [
+    415,
+    620,
+    870
+   ]
+  ],
+  "deliveries": [
+   [
+    605,
+    435,
+    230
+   ],
+   [
+    45,
+    65,
+    15
+   ],
+   [
+    275,
+    185,
+    145
+   ]
+  ],
+  "advCorp": [
+   10,
+   5,
+   10
+  ],
+  "takeImprovement": [
+   false,
+   false,
+   false
+  ],
+  "rd": [
+   15,
+   15,
+   25
+  ],
+  "assemblyTimes": [
+   125,
+   180,
+   345
+  ],
+  "premium": [
+   10,
+   10,
+   10
+  ],
+  "subcontract": [
+   0,
+   0,
+   0
+  ],
+  "agentsEU": {
+   "want": 3,
+   "support": 10,
+   "commission": 7
+  },
+  "distNafta": {
+   "want": 1,
+   "support": 8,
+   "commission": 6
+  },
+  "distNet": {
+   "support": 9,
+   "commission": 5
+  },
+  "matSpot": 3,
+  "matM3": 1,
+  "matM6": 0,
+  "maintenance": 20,
+  "shift": 2,
+  "ports": 5,
+  "webDev": 15,
+  "hire": 0,
+  "train": 0,
+  "wage": 1200,
+  "mgmtBudget": 70,
+  "trainingDays": 5,
+  "shares": 0,
+  "dividend": 0,
+  "termLoan": 0,
+  "termDeposit": 0,
+  "machinesBuy": 0,
+  "machinesSell": 0,
+  "factoryExt": 0,
+  "insurance": 1,
+  "infoMarket": true,
+  "infoCompetitors": true
+ },
+ "S8": {
+  "advProd": [
+   [
+    5,
+    5,
+    10
+   ],
+   [
+    5,
+    5,
+    5
+   ],
+   [
+    5,
+    5,
+    5
+   ]
+  ],
+  "prices": [
+   [
+    325,
+    490,
+    700
+   ],
+   [
+    335,
+    490,
+    725
+   ],
+   [
+    415,
+    620,
+    880
+   ]
+  ],
+  "deliveries": [
+   [
+    1000,
+    625,
+    325
+   ],
+   [
+    83,
+    83,
+    41
+   ],
+   [
+    250,
+    150,
+    100
+   ]
+  ],
+  "advCorp": [
+   10,
+   5,
+   10
+  ],
+  "takeImprovement": [
+   false,
+   false,
+   false
+  ],
+  "rd": [
+   15,
+   15,
+   25
+  ],
+  "assemblyTimes": [
+   115,
+   165,
+   325
+  ],
+  "premium": [
+   0,
+   0,
+   0
+  ],
+  "subcontract": [
+   0,
+   0,
+   0
+  ],
+  "agentsEU": {
+   "want": 3,
+   "support": 10,
+   "commission": 7
+  },
+  "distNafta": {
+   "want": 1,
+   "support": 8,
+   "commission": 6
+  },
+  "distNet": {
+   "support": 9,
+   "commission": 5
+  },
+  "matSpot": 4,
+  "matM3": 1,
+  "matM6": 0,
+  "maintenance": 20,
+  "shift": 2,
+  "ports": 5,
+  "webDev": 15,
+  "hire": 0,
+  "train": 0,
+  "wage": 1200,
+  "mgmtBudget": 70,
+  "trainingDays": 5,
+  "shares": 0,
+  "dividend": 0,
+  "termLoan": 0,
+  "termDeposit": -1150,
+  "machinesBuy": 0,
+  "machinesSell": 0,
+  "factoryExt": 0,
+  "insurance": 1,
+  "infoMarket": true,
+  "infoCompetitors": true
+ },
+ "m1": {
+  "rev": 1283160,
+  "net": 137841,
+  "bank": 2314994,
+  "fg": 21664,
+  "unfilled": 471,
+  "backlog": 237,
+  "sold": 2484,
+  "ord": 2955
+ },
+ "m4": {
+  "rev": 1573770,
+  "net": 194935,
+  "bank": 1938220,
+  "fg": 0,
+  "unfilled": 0,
+  "backlog": 0
+ },
+ "m5": {
+  "rev": 1261970,
+  "net": 93297,
+  "bank": 2305642,
+  "fg": 14534,
+  "unfilled": 626,
+  "backlog": 315,
+  "sold": 2520,
+  "ord": 3146
+ },
+ "m8": {
+  "rev": 1491875,
+  "net": 173715,
+  "bank": 1939968,
+  "fg": 11691,
+  "unfilled": 183,
+  "backlog": 68
+ }
+}

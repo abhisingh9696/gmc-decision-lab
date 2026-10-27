@@ -47,7 +47,7 @@ try {
   const q4Before = await q4Price.inputValue();
   await page.getByRole('button', { name: '2016 Q3', exact: true }).click();
   await page.getByRole('button', { name: /Apply Strategy 2/i }).click();
-  assert((await page.locator('body').innerText()).includes('Q3 inputs: Strategy 2 · Measured recovery'));
+  assert((await page.locator('body').innerText()).includes('Q3 inputs: Strategy 2 · Aggressive revenue recovery'));
   await page.getByRole('button', { name: /^2016 Q4/ }).click();
   assert.equal(await q4Price.inputValue(), q4Before, 'Applying a Q3 strategy must not alter Q4');
 
